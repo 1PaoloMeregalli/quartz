@@ -1,0 +1,1 @@
+propririo il mio manifesto
