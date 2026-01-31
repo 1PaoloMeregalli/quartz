@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"ef4e6aec8d3c5c9a","x":-472,"y":-241,"width":250,"height":60,"type":"text","text":""},
+		{"id":"18cb214b912560f2","type":"text","text":"casa\n","x":-240,"y":-180,"width":250,"height":60},
+		{"id":"17a9156aebdcea94","type":"text","text":"via","x":-240,"y":0,"width":250,"height":60}
+	],
+	"edges":[]
+}
