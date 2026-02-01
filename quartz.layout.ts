@@ -49,11 +49,12 @@ export const defaultContentPageLayout: PageLayout = {
         depth: -1 , // Profondità infinita
 //DA QUI
 // --- NUOVI PARAMETRI FISICI ---
-        repelForce: 0.1,   // Spingi MENO (Default è molto più alto)
-        centerForce: 1.0,  // Tira di PIÙ verso il centro
-        linkDistance: 30,  // Corde corte
+        repelForce: 0.5,   // Spingi MENO (Default è molto più alto)
+        centerForce: 1.1,  // Tira di PIÙ verso il centro
+        linkDistance: 5,  // Corde corte
         scale: 0.7,        // Parti un po' più "zoomato indietro"
-        fontSize: 0.6,     // Testo più piccolo per non affollare
+        fontSize: 0.5,     // Testo più piccolo per non affollare
+        opacityScale: 3,
 //A QUI
 
 
