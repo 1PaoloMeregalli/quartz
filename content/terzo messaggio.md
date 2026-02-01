@@ -1,3 +1,0 @@
-[[Nuova nota]]
-vediamo
-jhhj
