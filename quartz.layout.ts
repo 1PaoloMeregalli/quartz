@@ -43,28 +43,10 @@ export const defaultContentPageLayout: PageLayout = {
     // Grafico Grande: VISIBILE SOLO IN HOME
     Component.ConditionalRender({
       component: Component.Graph({
-//DA QUI
-globalGraph: {
-    drag: true,
-    zoom: true,
-    depth: -1,
-    scale: 0.9,
-    repelForce: 0.5,
-    centerForce: 0.3,
-    linkDistance: 30,
-    fontSize: 0.6,
-    opacityScale: 1,
-    removeTags: [], // what tags to remove from the graph
-    showTags: true, // whether to show tags in the graph
-    enableRadial: true, // whether to constrain the graph, similar to Obsidian
-},
-
-
-//        localGraph: false, // false = mostra tutto il sito (effetto galassia)
-//        globalGraph: true, // AGGIUNTO IO
-//        showTags: true, //AGGIUNTO IO
-//        linkDistance: 30, //AGGIUNTO IO
-//        depth: -1, // Profondità infinita
+        localGraph: false, // false = mostra tutto il sito (effetto galassia)
+        showTags: true, //AGGIUNTO IO
+        linkDistance: 10, //AGGIUNTO IO
+        depth: -1, // Profondità infinita
       }),
       condition: (page) => page.fileData.slug === "index",
     }),
