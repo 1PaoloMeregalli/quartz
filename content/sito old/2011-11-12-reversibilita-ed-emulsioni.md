@@ -1,0 +1,22 @@
+---
+id: 397
+title: 'Reversibilità ed Emulsioni'
+date: '2011-11-12T22:26:13+01:00'
+author: 'Paolo Meregalli'
+layout: post
+guid: 'http://www.paolomeregalli.com/?p=397'
+permalink: /reversibilita-ed-emulsioni/
+dsq_thread_id:
+    - '471402649'
+dsq_needs_sync:
+    - '1'
+image: /wp-content/uploads/2011/11/emulsione.jpg
+categories:
+    - Notizie
+tags:
+    - reversibilità
+    - vinaigrette
+format: gallery
+---
+
+[![](http://www.paolomeregalli.com/wp-content/uploads/2011/11/emulsione-150x150.jpg "emulsione")](http://www.paolomeregalli.com/wp-content/uploads/2011/11/emulsione.jpg)Non crederete a questo video, alle volte pensiamo che quanto avvenuto non possa essere reversibile, che non si possa "tornare indietro" ... ma se usiamo gli strumenti giusti ... :-) <div><div><div><div> Diciamo di voler mischiare due liquidi immiscibili e di volerli trasformare in una emulsione, e di volerlo fare attraverso una azione meccanica. Complicato ?!? No ... :-) esempi di emulsioni sono la salsa vinaigrette (fatta con olio e aceto), la salsa citronette (fatta con olio e limone) e la maionese (composta da olio, limone e aceto). Non avete mai fatto una vinaigrette ??? Nessun problema ... è semplicissimo link [vinaigrette](http://www.giallozafferano.it/glossario/Vinaigrette). Mi capita spesso di fare la salsa vinaigrette per condire le mie insalate ... sbattendo insieme con una "frusta" olio e aceto, l'olio si fraziona in bolle sempre più piccole fino a fondersi in una salsa omogenea, appunto la vinagrette ! E' importante ricordare che l'emulsione è instabile e va utilizzata appena preparata, prima cioè che gli elementi tornino naturalmente a separarsi. E fin qui tutto normale, ma in questo video gli elementi non si separano semplicemente ... ma tornano indietro nel tempo, ritornano alla situazione iniziale ! Che spettacolo ! </div> </div> </div> </div> <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="412" id="flashObj" width="486"><param name="flashVars" value="videoId=1115316304001&playerID=2227271001&playerKey=AQ~~,AAAAADqBmN8~,Yo4S_rZKGX0rYg6XsV7i3F9IB8jNBoiY&domain=embed&dynamicStreaming=true"></param><param name="base" value="http://admin.brightcove.com"></param><param name="seamlesstabbing" value="false"></param><param name="allowFullScreen" value="true"></param><param name="swLiveConnect" value="true"></param><param name="allowScriptAccess" value="always"></param><param name="src" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1"></param><param name="flashvars" value="videoId=1115316304001&playerID=2227271001&playerKey=AQ~~,AAAAADqBmN8~,Yo4S_rZKGX0rYg6XsV7i3F9IB8jNBoiY&domain=embed&dynamicStreaming=true"></param><param name="allowfullscreen" value="true"></param><param name="swliveconnect" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="pluginspage" value="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></param><embed allowfullscreen="true" allowscriptaccess="always" base="http://admin.brightcove.com" flashvars="videoId=1115316304001&playerID=2227271001&playerKey=AQ~~,AAAAADqBmN8~,Yo4S_rZKGX0rYg6XsV7i3F9IB8jNBoiY&domain=embed&dynamicStreaming=true" height="412" id="flashObj" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" seamlesstabbing="false" src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1" swliveconnect="true" type="application/x-shockwave-flash" width="486"></embed></object>
