@@ -1,5 +1,7 @@
 ---
 title: Benvenuti
+tags:
+  - PaoloMeregalli
 ---
 
 Ciao, sono Paolo Meregalli.
