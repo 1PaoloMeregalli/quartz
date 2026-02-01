@@ -44,6 +44,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.Graph({
         localGraph: false, // false = mostra tutto il sito (effetto galassia)
+        globalGraph: true, // AGGIUNTO IO
         depth: -1, // Profondità infinita
       }),
       condition: (page) => page.fileData.slug === "index",
