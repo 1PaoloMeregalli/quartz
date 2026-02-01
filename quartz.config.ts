@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Ing. Paolo Meregalli",
+    pageTitle: "Ing. Paolo  Meregalli",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "www.paolomeregalli.it",
 /*    baseUrl: "quartz.jzhao.xyz", */
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian","__bozze"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
