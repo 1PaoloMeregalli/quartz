@@ -1,3 +1,10 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* Aumenta il testo solo sui dispositivi mobili */
+@media (max-width: 750px) {
+  body, p, li {
+    font-size: 20px !important; /* Dimensione aumentata per mobile */
+    line-height: 1.6;           /* Più spazio tra le righe per leggere meglio */
+  }
+}
