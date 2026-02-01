@@ -32,7 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.Graph({
         localGraph: false, // false = mostra tutto il sito (effetto galassia)
-        depth: -1,         // Profondità infinita
+        globalGraph: true, // Profondità infinita
       }),
       condition: (page) => page.fileData.slug === "index",
     }),
@@ -79,3 +79,17 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+// AGGIUNTO ORA: Questo serve per far apparire la lista dopo il testo
+  pageBody: [
+    Component.Content(), // Il testo del tuo articolo
+    
+    // Lista articoli recenti (Solo in Home Page)
+    Component.ConditionalRender({
+      component: Component.RecentNotes({ 
+        title: "Ultimi Aggiornamenti", 
+        limit: 5 
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+  ],
