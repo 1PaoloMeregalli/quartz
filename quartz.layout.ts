@@ -16,15 +16,28 @@ export const sharedPageComponents: SharedLayout = {
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [
+ beforeBody: [
+    // Briciole di pane: VISIBILI OVUNQUE TRANNE CHE IN HOME
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
+    
+    // Titolo, Meta e Tag (sempre visibili)
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+
+    // Grafico Grande: VISIBILE SOLO IN HOME
+    Component.ConditionalRender({
+      component: Component.Graph({
+        localGraph: false, // false = mostra tutto il sito (effetto galassia)
+        depth: -1,         // Profondità infinita
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
   ],
+
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
