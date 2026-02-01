@@ -45,7 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Graph({
         localGraph: false, // false = mostra tutto il sito (effetto galassia)
         showTags: true, //AGGIUNTO IO
-        linkDistance: 5, //AGGIUNTO IO
+        linkDistance: 2, //AGGIUNTO IO
         depth: -1 , // Profondità infinita
       }),
       condition: (page) => page.fileData.slug === "index",
