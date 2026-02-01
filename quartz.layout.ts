@@ -7,7 +7,17 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
 //  afterBody: [],
 //CORREZIONE MIA E IL PRECEDNETE AFETRBODY LHO SPENTO IO
-
+afterBody: [
+    // --- LISTA ARTICOLI RECENTI (Solo in Home) ---
+    Component.ConditionalRender({
+      component: Component.RecentNotes({ 
+        title: "Ultimi Aggiornamenti", 
+        limit: 5,
+        showTags: false
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
