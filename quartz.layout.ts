@@ -46,7 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
         localGraph: false, // false = mostra tutto il sito (effetto galassia)
         showTags: true, //AGGIUNTO IO
 //        linkDistance: 2, //AGGIUNTO IO
-        depth: -1 , // Profondità infinita
+        depth: 10 , // Profondità infinita
 //DA QUI
 // --- NUOVI PARAMETRI FISICI ---
         repelForce: 0.5,   // Spingi MENO (Default è molto più alto)
