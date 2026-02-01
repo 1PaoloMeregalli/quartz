@@ -12,7 +12,7 @@ afterBody: [
     Component.ConditionalRender({
       component: Component.RecentNotes({ 
         title: "Ultimi Aggiornamenti", 
-        limit: 5,
+        limit: 3,
         showTags: false
       }),
       condition: (page) => page.fileData.slug === "index",
