@@ -46,7 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
 //        localGraph: false, // false = mostra tutto il sito (effetto galassia)
         globalGraph: true, // AGGIUNTO IO
         showTags: true, //AGGIUNTO IO
-        linkDistance: 30 //AGGIUNTO IO
+        linkDistance: 30, //AGGIUNTO IO
         depth: -1, // Profondità infinita
       }),
       condition: (page) => page.fileData.slug === "index",
