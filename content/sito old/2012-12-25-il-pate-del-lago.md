@@ -30,7 +30,86 @@ tags:
     - pm_ricetta
     - ricetta_1
 ---
+ ## Una ricetta tramandata da 3 generazioni e postata qui affinchè possa sopravvivere al tempo.
 
-## Un nuovo modo di proporre le ricette. Cosa dite ... vi piace ?
+**Autore:** Paolo Meregalli
 
- <noscript>\[&amp;lt;a href="//storify.com/paolomeregalli/il-pate-del-lago-di-lecco" target="\_blank"&amp;gt;View the story "Il Patè del lago di Lecco o di Como" on Storify&amp;lt;/a&amp;gt;\]&amp;lt;br /&amp;gt; &amp;lt;h1&amp;gt;Il Patè del lago di Lecco o di Como&amp;lt;/h1&amp;gt; &amp;lt;h2&amp;gt;Una ricetta tramandata da 3 generazioni e postata qui affinchè possa sopravvivere al tempo.&amp;lt;/h2&amp;gt; &amp;lt;p&amp;gt;Storified by &amp;lt;a href="http://storify.com/paolomeregalli"&amp;gt;paolo meregalli&amp;lt;/a&amp;gt;&amp;amp;middot; Tue, Dec 25 2012 02:20:53&amp;lt;/p&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè 1st pic http://pic.twitter.com/uOP0U13kpaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;C'era una volta, molti anni fa,&amp;amp;nbsp;un bambino&amp;amp;nbsp;molto curioso e goloso ... va bhe dai ... quel bambino sono io.&amp;amp;nbsp;Alcuni amici di famiglia ci invitarono a Domaso, una località turistica sul lago di Como ... o di Lecco :-).&amp;amp;nbsp;La loro nonna, nonna Gianna, visto il mio&amp;amp;nbsp;gusto per la tavola mi coccolò&amp;amp;nbsp;culinariamente per alcuni giorni, ancora oggi serbo il ricordo di quei sapori e di quei profumi, ma accade qualche cosa di piu ...&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;domaso - Google MapsFind local businesses, view maps and get driving directions in Google Maps&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;Domaso lago di Como guida turistica vacanze a Domaso lago di Como.Domaso lago di Como guida turistica del lago di Como hotel campeggi appartamenti ville case Domaso Gravedona Vercana Gera lario Sorico.&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;Quel&amp;amp;nbsp;Natale&amp;amp;nbsp;mi volle regalare una specialità fatta con le sue mani: Il Patè del Lago&amp;amp;nbsp;!!!&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;Ne rimasi così contento&amp;amp;nbsp;che divenne una tradizione ... così che per molti anni ricevetti quel mirabile regalo ...&amp;amp;nbsp;la ricetta era ovviamente "segreta". Con il passare del tempo mi appassionai sempre di piu alla cucina e la Nonna Gianna cominciò a vacillare sotto il fuoco di domande che riuscivo annualmente a sottoporle, e cominciai a carpire i piccoli segretiUn certo anno, poi,&amp;amp;nbsp;Nonna&amp;amp;nbsp;Gianna&amp;amp;nbsp;scelse di&amp;amp;nbsp;...&amp;amp;nbsp;"andare avanti".&amp;lt;br&amp;gt;Non volli interrompere la tradizione e così ... il Natale&amp;amp;nbsp;successivo&amp;amp;nbsp;cominciai a produrre il&amp;amp;nbsp;Patè&amp;amp;nbsp;del Lago. Sperimentai molto, cercando anche di trovare scorciatoie, soprattutto alla fase di incorporazione del burro che, lei diceva, deve avvenire rigorosamente a MANO e&amp;amp;nbsp;con un bel cucchiaio di legno. Fase fisicamente faticosa.&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;Olive Wood Spoons, June 22, 2011Maggie Osterberg&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;Per alcuni anni sostituii l'olio di gomito e il cucchiaio di legno con il mitico frullatore ad immersione "minipimer"&amp;amp;nbsp;... ma, che ci crediate o no, il risultato non è mai stato lo stesso ... ed in piu mi sentivo terribilmente &amp;amp;nbsp;in colpa :-)&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;Él tenía un minipimer...david perez marin&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;Dovetti arrendermi all'evidenza:&amp;amp;nbsp;&amp;amp;nbsp;"si deve usare il cucchiaio, di legno,&amp;amp;nbsp;e&amp;amp;nbsp;sudare ...&amp;amp;nbsp;Olio Di Gomito, ragazzo ... Olio di gomito ci vuole&amp;amp;nbsp;!!!"&amp;lt;br&amp;gt;Dunque alla fine ecco la ricetta svelata nei suoi piu intimi segreti, diffondetela, provatela e ... fatemi sapere. Non si tratta di una ricetta veloce ... bisogna avere un bel pomeriggio da dedicare a se stessi e ai propri ricordi ... come faccio io, e il risultato è garantito.&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h2&amp;gt;Il Patè del Lago:&amp;lt;/h2&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;Per fare circa 6/8 vaschette servono:- 400 gr fegato di vitello- 400 gr fegato di pollo(800 gr di fegato diventano circa 500gr una volta cotti)- 500 gr di burro (stessa quantità in peso del fegato una volta cotto)- 1 cipolla- 1 cucchiaio di Ariosto- 2 foglie di&amp;amp;nbsp;Alloro- sale e pepe qb- Marsala&amp;amp;nbsp;secco (mezzo bicchiere)- 3&amp;amp;nbsp;dadi di gelatina (1 per fare il fondo dei contenitori, 2 per coprire il patè)&amp;amp;nbsp;(nella ricetta che segue io ho usato circa 2 kg di fegatini ... ho molte richieste :-)&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè :1kg fegato di vitello + 1 kg di fegato di pollo ... Urca ma per quanti devo farlo sto #patè ? Pulirepaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè taglio e pulizia 2nd pic http://pic.twitter.com/S2SmcptVpaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe pm\_ricetta #patè circa 80% peso dei fegatini di burro fuori dal frigor per farlo ammorbidirepaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè una cipolla divisa in due, alloro e burro in casserruolapaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;Non tagliare la cipolla, io uso gli stuzzicadenti per facilitarne la rimozione successivamente ... si perchè tra un po le dovrai togliere :-)&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè preparazione cipolle con stuzzicadenti 3rd pic http://pic.twitter.com/EVzMUHe3paolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè quando il burro si colora e la cipolla sfrigola ... buttare tutti i fegatini :-) Evvaipaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè smuovere con cura alzando la fiamma, va scottata la parte esternapaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè asciugare 5th pic http://pic.twitter.com/8FM17cVZpaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;Dimenticavo, se mentre pulisci&amp;amp;nbsp;i fegatini di pollo trovi&amp;amp;nbsp;qualche cosa del genere (vedi foto) mettili da parte, sono cuoricini, ci puoi fare un fantastico risotto ... ma nel patè proprio non vanno :-(&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè questi sono cuoricini di pollo, usateli per un risottino, NO nel paté 4th pic http://pic.twitter.com/ONX2neV6paolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè appena si sono cotti esternamente aggiungere 1,5 cucchiai grandi e abbondanti di ariosto. Salare e pepare qbpaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè abbassare la fiamma, e attendere che si asciughipaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè ... un sacco di liquido ... ci vuole un po prima che asciughi, intanto assaggio il Marsala ... inganno il tempopaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè si sta asciugando, via cipolle e alloro !paolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè tolto all'oro e cipolla, asciugare ancora. 6th pic http://pic.twitter.com/IkPLp4HLpaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè non c'è piu liquido ma è ancora umido ... un po di pazienza ancora.paolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè aggiunto 3/4 di bichiere di marsala ... la bottiglia è finita. Come mai?paolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè sto sniffando i vapori del marsala, si deve asciugare, ma è ok quando non si sentono piu vapori #marsalapaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè ci siamo quasi, ora si deve pesare quanto quasi-patè abbiamo fatto per calcolare quantità di burropaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;Va incorporata la stessa quantità di peso dei fegati cotti ... di burro !!!&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè pesatura 7th pic http://pic.twitter.com/CMpGwruQpaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè 1.250 gr ... si è ridotto dai 2 kg iniziali ... OK allora dovremo incorporare circa 1.250 gr di burro :-)paolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè prparare pasaverdure con flitro con buchi grandi e contenitore comodo, io uso una pentolapaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;Pate Passaverdure 1-zp35ttb15LvdDB7h1sJkQ&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè circa i 3/4 di burro possiamo incorporarlo con il passaverdure, il resto a mano con il cucchiaio di legno :-(paolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè passaverdure con 1kg di burro :-) se hai il #colesterolo ... #verbotenpaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h2&amp;gt;Colesterolo ? Patè del Lago ... #VERBOTEN !!!&amp;lt;/h2&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè primo passaggio nel passaverdure, primo 500gr di burro incorporato. Si cambia disco, buchi piccoli, 2nd passatapaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè a mano !!! 9th pic http://pic.twitter.com/g7SAYGXupaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè secondo giro terminato, incorporato altri 400gr di burro ... adesso #oliodigomitopaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;Pate A Mano-zp35ttb15LvdDB7h1sJkQ&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè come da programma: incorporato a mano il resto del burro. Ora si prepara gelatina e si lascia riposare il patèpaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè perfetto 10th pic http://pic.twitter.com/IXEuGpMppaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè ... mi merito un altra birra :-)paolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;@lucapedrotti adesso si inizia a sudare nel vero senso della parola, e per fare le cose bene, mi merito una birra !!! http://pic.twitter.com/sluU4ufSpaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè riempiti i contenitori con primo strato di gelatina. Tutti sul balcone a raffreddarsi, meno male che è dicemb.paolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè io nel frattempo, intanto che si rapprende gelatina ho pulito la cucina ...paolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè gelatina ... PRONTA !!! Si trasferisce il ormai patè nei contenitori.paolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè si prepara seconda ondata di gelatina, io ne faccio un po di piu per coprire il patè. Si mantiene di piu :-)paolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;Il Patè del Lago ti dura circa 1 settimana in frigor, se hai coperto bene con la gelatina e non prende aria anche di piu, al massimo butti la gelatina, ma il patè è salvo&amp;amp;nbsp;!!!&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè prima di coprire il patè è meglio aspettare che geatina si raffreddi un po.paolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè tutto sul balcone a raffreddare :-) THE END.paolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;#pm\_recipe #pm\_ricetta #patè fatto !!! 11th pic http://pic.twitter.com/TgNG7yylpaolo meregalli&amp;lt;/div&amp;gt; &amp;lt;div&amp;gt;PS: ai piu non sarà scappato che i video hanno un sottofondo musicale ... Davide Van de&amp;amp;nbsp;Sfross, "La machina del&amp;amp;nbsp;ziu Toni" ... volevo tonalità del lago :-)&amp;lt;/div&amp;gt;</noscript>
+**Data:** Martedì, 25 Dicembre 2012
+
+### La Storia
+
+C'era una volta, molti anni fa, un bambino molto curioso e goloso... va beh dai... quel bambino sono io. Alcuni amici di famiglia ci invitarono a Domaso, una località turistica sul lago di Como (o di Lecco). La loro nonna, **Nonna Gianna**, visto il mio gusto per la tavola mi coccolò culinariamente per alcuni giorni; ancora oggi serbo il ricordo di quei sapori e di quei profumi.
+
+Quel Natale mi volle regalare una specialità fatta con le sue mani: **Il Patè del Lago!** Diventò una tradizione e per molti anni ricevetti quel mirabile regalo. La ricetta era ovviamente "segreta". Con il passare del tempo mi appassionai alla cucina e la Nonna Gianna cominciò a vacillare sotto il fuoco di domande, finché cominciai a carpirne i piccoli segreti.
+
+Quando Nonna Gianna scelse di "andare avanti", non volli interrompere la tradizione. Cominciai a produrre il patè sperimentando molto, cercando anche scorciatoie (come il frullatore ad immersione), ma il risultato non era lo stesso. Dovetti arrendermi all'evidenza: **si deve usare il cucchiaio di legno e sudare.** Olio di gomito!
+
+---
+
+### Ingredienti (per circa 6/8 vaschette)
+
+- **Fegato di vitello:** 400 gr
+    
+- **Fegato di pollo:** 400 gr
+    
+- _(Nota: 800 gr di fegato diventano circa 500 gr una volta cotti)_
+    
+- **Burro:** 500 gr (stessa quantità in peso del fegato cotto)
+    
+- **Cipolla:** 1
+    
+- **Insaporitore (tipo Ariosto):** 1 cucchiaio abbondante
+    
+- **Alloro:** 2 foglie
+    
+- **Marsala secco:** mezzo bicchiere
+    
+- **Gelatina:** 3 dadi (1 per il fondo, 2 per la copertura)
+    
+- Sale e pepe q.b.
+    
+
+> **Attenzione:** Se hai problemi di colesterolo... questa ricetta è **VERBOTEN** (proibita)!
+
+---
+
+### Preparazione
+
+1. **Pulizia:** Pulire accuratamente i fegatini. Se trovi i cuoricini di pollo, mettili da parte per un risotto: nel patè non vanno messi.
+    
+2. **Soffritto:** In una casseruola metti il burro, le foglie di alloro e la cipolla divisa in due (usa degli stuzzicadenti per trovarla e toglierla facilmente dopo).
+    
+3. **Cottura:** Quando il burro sfrigola, butta i fegatini. Alza la fiamma per scottarli esternamente.
+    
+4. **Aromi:** Aggiungi l'insaporitore, sale e pepe. Abbassa la fiamma e lascia asciugare il liquido.
+    
+5. **Sfumare:** Togli la cipolla e l'alloro. Aggiungi il Marsala e attendi che i vapori alcolici evaporino completamente. Il fegato deve risultare asciutto ma ancora umido.
+    
+6. **Pesatura:** Pesa il fegato cotto. Prepara la stessa identica quantità di burro (che avrai lasciato fuori dal frigo per ammorbidirlo).
+    
+7. **Passaggio al setaccio:** Passa il fegato nel passaverdure.
+    
+    - _Primo passaggio:_ buchi grandi, incorporando i primi 3/4 del burro.
+        
+    - _Secondo passaggio:_ buchi piccoli per una consistenza finissima.
+        
+8. **Il Segreto:** Incorpora l'ultima parte del burro rigorosamente **a mano** con un cucchiaio di legno, lavorando finché il composto non è perfettamente omogeneo.
+    
+9. **Confezionamento:**
+    
+    - Prepara la gelatina.
+        
+    - Crea uno strato di gelatina sul fondo dei contenitori e lascialo rapprendere (magari sul balcone se è inverno).
+        
+    - Riempi i contenitori con il patè.
+        
+    - Copri con un altro strato di gelatina per sigillare il tutto.
+        
+
+### Conservazione
+
+Il patè si conserva circa **una settimana in frigorifero**. La gelatina serve a non far prendere aria al composto; se si dovesse ossidare la parte superficiale, basta rimuovere la gelatina e il patè sottostante sarà salvo.
+
+---
+
+**Curiosità:** Durante la preparazione, consiglio l'ascolto di Davide Van De Sfroos (_La machina del ziu Toni_) per avere la giusta "tonalità del lago".
