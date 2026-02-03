@@ -1,34 +1,25 @@
 ---
-id: 854
-title: 'Il Patè del Lago'
-date: '2012-12-25T11:28:35+01:00'
-author: 'Paolo Meregalli'
+id:
+title: Il Patè del Lago
+date: 2012-12-25T11:28:35+01:00
+author: Paolo Meregalli
 layout:
-    - default
-guid: 'http://www.paolomeregalli.com/?p=854'
+  - default
+guid: http://www.paolomeregalli.com/?p=854
 permalink: /il-pate-del-lago/
 hide_post_title:
-    - default
 hide_post_meta:
-    - default
 hide_post_date:
-    - default
 hide_post_image:
-    - default
 post_image:
-    - 'http://www.paolomeregalli.com/wp-content/uploads/2012/12/foto.jpg'
 dsq_thread_id:
-    - '991473081'
 dsq_needs_sync:
-    - '1'
 image: /wp-content/uploads/2012/12/foto.jpg
 categories:
-    - Paolo
+  - Paolo
 tags:
-    - 'patè del lago'
-    - pm_recipe
-    - pm_ricetta
-    - ricetta_1
+  - pm_recipe
+  - pm_ricetta
 ---
  ## Una ricetta tramandata da 3 generazioni e postata qui affinchè possa sopravvivere al tempo.
 
