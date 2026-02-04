@@ -32,7 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
     // Briciole di pane: VISIBILI OVUNQUE TRANNE CHE IN HOME
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
+      condition: (page) => page.fileData.slug !== "grafo",
     }),
     
     // Titolo, Meta e Tag (sempre visibili)
@@ -46,7 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
         localGraph: false, // false = mostra tutto il sito (effetto galassia)
         showTags: true, //AGGIUNTO IO
 //        linkDistance: 2, //AGGIUNTO IO
-        depth: 10 , // Profondità infinita
+        depth: 1 , // Profondità infinita
 //DA QUI
 // --- NUOVI PARAMETRI FISICI ---
         repelForce: 0.05,   // Spingi MENO (Default è molto più alto)
@@ -80,25 +80,12 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-right: [
-  Component.ConditionalRender({
-    component: Component.Graph({
-      localGraph: false,
-      depth: -1,
-    }),
-    condition: (page) => page.fileData.slug === "grafo",
-  }),
-  Component.DesktopOnly(Component.TableOfContents()),
-  Component.Backlinks(),
-], 
 
-
-
-// right: [
- //   Component.Graph(),
- //   Component.DesktopOnly(Component.TableOfContents()),
- //   Component.Backlinks(),
- // ],
+ right: [
+    Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+  ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
