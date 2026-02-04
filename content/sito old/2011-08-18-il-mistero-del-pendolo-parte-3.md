@@ -1,0 +1,27 @@
+---
+id: 222
+title: 'Il Mistero del Pendolo (Parte 3)'
+date: '2011-08-18T21:53:01+02:00'
+author: 'Paolo Meregalli'
+layout: post
+guid: 'http://www.paolomeregalli.com/?p=222'
+permalink: /il-mistero-del-pendolo-parte-3/
+jwplayermodule_fb_headers_id:
+    - '223'
+dsq_thread_id:
+    - '479652720'
+dsq_needs_sync:
+    - '1'
+categories:
+    - Comunicazione
+tags:
+    - integrazione
+    - pendolo
+    - politecnico
+    - ricerca
+    - shs
+    - visione
+format: gallery
+---
+
+Se hai perso la parte 2 puoi leggere il post precedente cliccando [QUI](http://bit.ly/neGli5) Lo so che non hai tempo di guardare un video che dura 21 minuti, lo so che che hai una infinità di cose da fare ... ma se ti dicessi che questo video ti potrà regalare nuovi punti di vista ? Che potrebbe risvegliare nuovi germi di pensiero e farti viaggiare e sognare nuovi futuri ... cosa faresti ! Allora il mio suggerimento è questo ... questa sera, dopo aver analizzato la programmazione televisiva ad aver verificato che siamo ancora ad Agosto e che anche la televisione lo sa ... beh ... prendi il tuo computer e guarda questo video ... avremo modo di parlarne. A proposito ... se mentre lo ascolti vieni preso dalla voglia di condividere un qualche pensiero ... bhe ... mi farà piacere se vorrai lasciarlo su questa pagina in modo che possa arricchire tutti quanti. Buona visione. PS: Potete abilitare i sottotitoli con la traduzione Italiana ... :-) <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="374" width="526"><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><param name="bgColor" value="#ffffff"></param><param name="flashvars" value="vu=http://video.ted.com/talk/stream/2004/Blank/StevenStrogatz_2004-320k.mp4&su=http://images.ted.com/images/ted/tedindex/embed-posters/StevenStrogatz-2004.embed_thumbnail.jpg&vw=512&vh=288&ap=0&ti=422&lang=eng&introDuration=15330&adDuration=4000&postAdDuration=830&adKeys=talk=steven_strogatz_on_sync;year=2004;theme=numbers_at_play;theme=inspired_by_nature;theme=unconventional_explanations;theme=presentation_innovation;event=TED2004;tag=Science;tag=Technology;tag=biology;tag=biomechanics;tag=math;tag=society;&preAdTag=tconf.ted/embed;tile=1;sz=512x288;"></param><param name="src" value="http://video.ted.com/assets/player/swf/EmbedPlayer.swf"></param><param name="pluginspace" value="http://www.macromedia.com/go/getflashplayer"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed allowfullscreen="true" allowscriptaccess="always" bgcolor="#ffffff" flashvars="vu=http://video.ted.com/talk/stream/2004/Blank/StevenStrogatz_2004-320k.mp4&su=http://images.ted.com/images/ted/tedindex/embed-posters/StevenStrogatz-2004.embed_thumbnail.jpg&vw=512&vh=288&ap=0&ti=422&lang=eng&introDuration=15330&adDuration=4000&postAdDuration=830&adKeys=talk=steven_strogatz_on_sync;year=2004;theme=numbers_at_play;theme=inspired_by_nature;theme=unconventional_explanations;theme=presentation_innovation;event=TED2004;tag=Science;tag=Technology;tag=biology;tag=biomechanics;tag=math;tag=society;&preAdTag=tconf.ted/embed;tile=1;sz=512x288;" height="374" pluginspace="http://www.macromedia.com/go/getflashplayer" src="http://video.ted.com/assets/player/swf/EmbedPlayer.swf" type="application/x-shockwave-flash" width="526" wmode="transparent"></embed></object>
