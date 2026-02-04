@@ -9,6 +9,14 @@
   }
 }
 
+// modifica per graof grnade nella pagina grafo
+body[data-slug="grafo"] .graph {
+  height: 85vh;
+}
+
+
+
+
 /* Quando c'è un grafico nella colonna centrale, fallo diventare alto */
 //.center .graph {
 //  height: 500px !important; /* Puoi aumentare questo numero se lo vuoi ancora più grande */
