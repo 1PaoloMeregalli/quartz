@@ -4,19 +4,26 @@ tags:
   - PaoloMeregalli
 ---
 
-Ciao, sono Paolo Meregalli.
-Sei appena approdato nel mio [[Digital Garden]]
-Per qualche anno mi sono astenuto dal pubblicare nuovi post in quello che era il mio blog ma che non rappresentava piu il mio nuovo io.
-Ho fatto un lungo periodo di osservazione del mondo digitale fino a quando ho trovato in questa modalità il mio spirito.
-Non è un sito, non è un blog, è uno spazio personale ma pubblico di spunti di riflessioni, scoperte, sfoghi, sperimentazione.
+Ciao, sono Paolo Meregalli e tu sei appena approdato nel mio [[Digital Garden]] !
+Questa è la mia nuova dimensione, un nuovo modo per tracciare un percorso di crescita e cambiamento.
+E' qualche anno che cerco una modalità nuova per comunicare e finialmente ho scoperto qualche cosa che mi è affine.
+
+## Non è un sito
+Non è un sito, non è un blog, non è un forum ... è uno spazio personale (ma pubblico) di spunti, di riflessioni, di scoperte, sfoghi, di sperimentazione.
+
 Un luogo dove poter essere chiunque in qualsiasi momento, un luogo da sfogliare attraverso una rete di concetti, parole, "onde".
+Un posto dove poter saltare seguendo un concetto, oppure una parola, oppure una connessione. Un posto non lineare, un posto multidimensionale.
 
-%%%
-graph
-%%%
+Prendi un articolo che ti piace e poi segui le connessioni che si generano nella tua mente, nella mia mente, segui l'albero grafico che trovi in alto a destra.
+Perditi, per poi ritrovarti in un altro luogo, in un altro tempo, un po diverso da come sei partito.
+Lasciati trasportare da quell'energia sottile che collega tutto e tutti ... dalla ricetta del  [[Il-pate-del-Lago]] ad una riflessione, ad una fotografia.
 
-Prendi un articolo che ti piace e poi segui le connessioni che ha creato nel mio mondo e che ti catturano o lasciati trasportare da quell'energia sottile che collega il mondo e che ti porterà da una riflessione profonda alla ricetta del patè del la [[Il-pate-del-Lago]] una energia sottile che collega 
-Benvenuti nel mio nuovo spazio digitale. [[Paolo Meregalli, chi sono.]]
+Poi se qualche cosa ti ha colpito, scrivimi o contattami, sarò felice di confrontarmi con te.
 
-Qui raccolgo i miei pensieri su tecnologia, vita e i miei vecchi articoli.
+Un ultimo appuno, qui non sei tu il prodotto, abbiamo voluto alzare l'asticella del rispetto della tua privacy. Qui non hai visto nessun banner per la privacy semplicmente perchè qui, non ce n'è bisogno.
+Se vuoi saperne di piu su come ho deciso di proteggere la tua privacy, leggi [[Privacy & Trasparenza]]
+
+A presto, e buon viaggio n-dimensionale
+
+
 

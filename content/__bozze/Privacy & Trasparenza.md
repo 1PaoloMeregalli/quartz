@@ -7,7 +7,7 @@ tags:
 
 # 🌲 Note sulla Privacy (e sul perché non ti sto pedinando)
 
-In un’epoca in cui "se il prodotto è gratis, il prodotto sei tu", ho deciso che questo **Digital Garden** dovesse essere un’oasi di resistenza. Non mi interessa vendere i tuoi dati a un broker; mi interessa che tu legga i miei pensieri senza sentirti il fiato sul collo.
+In un’epoca in cui tu "se il prodotto è gratis, il prodotto sei tu", ho deciso che questo **Digital Garden** dovesse essere un’oasi di resistenza. Non mi interessa vendere i tuoi dati a un broker; mi interessa che tu legga i miei pensieri senza sentirti il fiato sul collo.
 
 ### 🛠️ Architettura e Trasparenza
 Questo sito è generato con **Quartz** ed è puramente statico. È ospitato su **GitHub Pages**. Non c'è un backend che registra chi sei o quali siano i tuoi gusti. I server di GitHub loggano i dati tecnici necessari a servire le pagine (come l'indirizzo IP per la negoziazione HTTPS), ma la cosa finisce lì.

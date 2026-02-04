@@ -1,35 +1,20 @@
 ---
-id:
 title: Il Patè del Lago
 date: 2012-12-25T11:28:35+01:00
 author: Paolo Meregalli
 layout:
   - default
-guid: http://www.paolomeregalli.com/?p=854
 permalink: /il-pate-del-lago/
-hide_post_title:
-hide_post_meta:
-hide_post_date:
-hide_post_image:
-post_image:
-dsq_thread_id:
-dsq_needs_sync:
-image: /wp-content/uploads/2012/12/foto.jpg
-categories:
-  - Paolo
 tags:
-  - pm_recipe
-  - pm_ricetta
+  - Antipasto
+categories:
+  - Ricette
 ---
- ## Una ricetta tramandata da 3 generazioni e postata qui affinchè possa sopravvivere al tempo.
+# 3 generazioni di Patè
 
-**Autore:** Paolo Meregalli
+## La Storia
 
-**Data:** Martedì, 25 Dicembre 2012
-
-### La Storia
-
-C'era una volta, molti anni fa, un bambino molto curioso e goloso... va beh dai... quel bambino sono io. Alcuni amici di famiglia ci invitarono a Domaso, una località turistica sul lago di Como (o di Lecco). La loro nonna, **Nonna Gianna**, visto il mio gusto per la tavola mi coccolò culinariamente per alcuni giorni; ancora oggi serbo il ricordo di quei sapori e di quei profumi.
+C'era una volta, molti anni fa, un bambino molto curioso e goloso... va beh dai... quel bambino sono io. Alcuni amici di famiglia ci invitarono a [Domaso](https://www.in-lombardia.it/it/visitare-la-lombardia/vacanza-al-lago/5-cose-da-fare-domaso), una località turistica sul lago di Como (o di Lecco). La loro nonna, **Nonna Gianna**, visto il mio gusto per la tavola mi coccolò culinariamente per alcuni giorni; ancora oggi serbo il ricordo di quei sapori e di quei profumi.
 
 Quel Natale mi volle regalare una specialità fatta con le sue mani: **Il Patè del Lago!** Diventò una tradizione e per molti anni ricevetti quel mirabile regalo. La ricetta era ovviamente "segreta". Con il passare del tempo mi appassionai alla cucina e la Nonna Gianna cominciò a vacillare sotto il fuoco di domande, finché cominciai a carpirne i piccoli segreti.
 
@@ -104,3 +89,5 @@ Il patè si conserva circa **una settimana in frigorifero**. La gelatina serve a
 ---
 
 **Curiosità:** Durante la preparazione, consiglio l'ascolto di Davide Van De Sfroos (_La machina del ziu Toni_) per avere la giusta "tonalità del lago".
+
+[^1]: 5 cose da fare a Domaso(https://www.in-lombardia.it/it/visitare-la-lombardia/vacanza-al-lago/5-cose-da-fare-domaso)
