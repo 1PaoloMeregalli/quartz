@@ -32,7 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
     // Briciole di pane: VISIBILI OVUNQUE TRANNE CHE IN HOME
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "grafo",
+      condition: (page) => page.fileData.slug !== "grafo del sito",
     }),
     
     // Titolo, Meta e Tag (sempre visibili)
