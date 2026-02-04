@@ -6,10 +6,9 @@ tags:
 categories:
   - Paolo
 ---
-
 # 🌲 Note sulla Privacy (e sul perché non ti sto pedinando)
 
-In un’epoca in cui tu "se il prodotto è gratis, il prodotto sei tu", ho deciso che questo **Digital Garden** dovesse essere un’oasi di resistenza. Non mi interessa vendere i tuoi dati a un broker; mi interessa che tu legga i miei pensieri senza sentirti il fiato sul collo.
+In un’epoca in cui tu "se il prodotto è gratis, il prodotto sei tu", ho deciso che questo [[Digital Garden]] dovesse essere un’oasi di resistenza. Non mi interessa vendere i tuoi dati a un broker; mi interessa che tu legga i miei pensieri senza sentirti il fiato sul collo.
 
 ### 🛠️ Architettura e Trasparenza
 Questo sito è generato con **Quartz** ed è puramente statico. È ospitato su **GitHub Pages**. Non c'è un backend che registra chi sei o quali siano i tuoi gusti. I server di GitHub loggano i dati tecnici necessari a servire le pagine (come l'indirizzo IP per la negoziazione HTTPS), ma la cosa finisce lì.
@@ -34,30 +33,5 @@ In un web dominato da feed infiniti scelti da algoritmi di raccomandazione che d
 
 ### 📩 Contatti
 Non ci sono newsletter né form di iscrizione. Se però vuoi scrivermi per un feedback tecnico, un'osservazione o un saluto, ne sarei felice:
-- 💼 **LinkedIn:** [Inserisci qui il tuo link]
-- 📧 **Email:** [Inserisci qui la tua mail]
-
----
-
-
-
-***
-Ecco come configurare il file `quartz.layout.ts` per rendere il footer coerente con il resto del "giardino":
-
-### Il Codice per `quartz.layout.ts`
-
-footer: Component.Footer({
-  links: {
-    "Privacy (Zero Tracking)": "/privacy",
-    "Feed RSS (No Algoritmi)": "/index.xml",
-    "LinkedIn": "https://www.linkedin.com/in/TUO_PROFILO",
-    "Scrivimi una Mail": "mailto:TUA_EMAIL@esempio.it",
-  },
-  text: `
-    <hr />
-    <p>
-      Creato con <b>Quartz</b>. In qualità di Affiliato Amazon, ricevo un guadagno dagli acquisti idonei: 
-      a te non costa nulla, ma il mio ego ringrazia per il caffè virtuale. ☕
-    </p>
-  `
-}),
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/paolomeregalli/]
+- 📧 **Email:** [paolo.meregalli@gmail.com]

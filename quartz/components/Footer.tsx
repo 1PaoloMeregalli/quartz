@@ -17,6 +17,8 @@ export default ((opts?: Options) => {
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
+        
+        {/* Questa parte legge i link dal file di configurazione */}
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
@@ -24,6 +26,14 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+
+        {/* --- DISCLAIMER AMAZON --- */}
+        <p style={{ marginTop: "1rem", fontSize: "0.8rem", opacity: 0.6 }}>
+           In qualità di Affiliato Amazon, potrei ricevere un guadagno da alcuni acquisti: 
+           a te non costa un cent in più, ma il mio ego ringrazia per il caffè virtuale. ☕
+        </p>
+        {/* ------------------------- */}
+
       </footer>
     )
   }
