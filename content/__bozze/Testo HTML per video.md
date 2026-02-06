@@ -1,0 +1,1 @@
+<iframe src="https://www.youtube-nocookie.com/embed/ID_DEL_TUO_VIDEO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%; max-width: 650px; aspect-ratio: 16 / 9; display: block; margin: 0 auto;"> </iframe>
