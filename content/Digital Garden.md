@@ -37,4 +37,6 @@ E per chi preferisce la voce scritta a quella letta, suggerisco l'ascolto del **
 
 Oggi qualcosa è cambiato. Eccomi qui, con questo nuovo stile, con questo nuovo approccio. 
 
-Entrate pure, fate attenzione a dove mettete i piedi, fate attenzione ai semi, e perdonate il disordine: qui si sta ancora lavorando e probabilmente lo si farà per sempre.
+> Entrate pure, fate attenzione a dove mettete i piedi, fate attenzione ai semi, e perdonate il disordine: qui si sta ancora lavorando e probabilmente lo si farà per sempre.
+
+
