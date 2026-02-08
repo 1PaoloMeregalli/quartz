@@ -6,3 +6,4 @@
 
 <div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="paolomeregalli" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/paolomeregalli?trk=profile-badge">Paolo Meregalli</a></div>
 
+![[Profilo Paolo Meregalli r1 (1) 1.pdf]]
