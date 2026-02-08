@@ -6,7 +6,7 @@ tags:
 categories:
   - Paolo
 ---
-# 🌲 Note sulla Privacy (e sul perché non ti sto pedinando)
+# Note sulla Privacy (e sul perché non ti sto pedinando)
 
 In un’epoca in cui tu "se il prodotto è gratis, il prodotto sei tu", ho deciso che questo [[Digital Garden]] dovesse essere un’oasi di resistenza. Non mi interessa vendere i tuoi dati a un broker; mi interessa che tu legga i miei pensieri senza sentirti il fiato sul collo.
 
