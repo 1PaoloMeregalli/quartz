@@ -51,4 +51,16 @@ Quando ti accadono cose che non vorresti, quando vieni colpito vicino, troppo vi
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/85a_g-UW3eA?si=g1X_FOF8PK2-tZM5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem auto;">
+  <iframe 
+    src="https://www.youtube.com/embed/85a_g-UW3eA" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;">
+  </iframe>
+</div>
+
+
 > ***Qualcosa che non c'è*** *Tutto questo tempo a chiedermi*  *Cos'è che non mi lascia in pace*  *Tutti questi anni a chiedermi*  *Se vado veramente bene*  *Così*  *Come sono*  *Così*  *Così un giorno*  *Ho scritto sul quaderno*  *Io farò sognare il mondo con la musica*  *Non molto tempo*  *Dopo quando mi bastava*  *Fare un salto per*  *Raggiungere la felicità*  *E la verità è che*  *Ho aspettato a lungo*  *Qualcosa che non c'è*  *Invece di guardare il sole sorgere*  *Questo è sempre stato un modo*  *Per fermare il tempo*  *E la velocità*  *I passi svelti della gente*  *La disattenzione*  *Le parole dette*  *Senza umiltà*  *Senza cuore così*  *Solo per far rumore*  *Ho aspettato a lungo*  *Qualcosa che non c'è*  *Invece di guardare*  *Il sole sorgere*  *E miracolosamente non*  *Ho smesso di sognare*  *E miracolosamente*  *Non riesco a non sperare*  *E se c'è un segreto*  *E' fare tutto come*  *Se vedessi solo il sole*  *Un segreto è fare tutto*  *Come se*  *Fare tutto*  *Come se*  *Vedessi solo il sole*  *Vedessi solo il sole*  *Vedessi solo il sole*  *E non*  *Qualcosa che non c'è*
