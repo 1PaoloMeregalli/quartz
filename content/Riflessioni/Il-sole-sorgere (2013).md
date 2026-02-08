@@ -27,7 +27,7 @@ Ho sempre amato le storie degli Indiani d'America, persone che sono in pace con 
 ### Oggi L'isolato è tornato
 
 > *"Non è come nasci, ma come muori, che rivela a quale popolo appartieni"*.
-> - Alce Nero, 1890 -
+> Alce Nero, 1890
 
 Ed eccomi qui, tra qualche minuto Fratello Sole illuminerà la giornata, seduto sulla mia poltrona voglio fermare questo momento così. Il Natale ci ricorderà che si rinasce ogni giorno, che c'è sempre spazio, che il Segreto è, dopotutto, a portata di mano, non semplice, non facile ... ma ... **a portata di mano!**
 
@@ -45,9 +45,8 @@ src="https://www.youtube-nocookie.com/embed/85a_g-UW3eA?si=g1X_FOF8PK2-tZM5"
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
 
 
-
-> ***Qualcosa che non c'è***
-*Tutto questo tempo a chiedermi 
+> [!quote] ***Qualcosa che non c'è***
+Tutto questo tempo a chiedermi 
 Cos'è che non mi lascia in pace 
 Tutti questi anni a chiedermi 
 Se vado veramente bene  
