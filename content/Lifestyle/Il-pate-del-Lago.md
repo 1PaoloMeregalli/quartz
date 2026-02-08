@@ -7,8 +7,8 @@ layout:
 permalink: /il-pate-del-lago/
 tags:
   - Antipasto
-categories:
   - Ricette
+categories:
 ---
 # 3 generazioni di Patè
 

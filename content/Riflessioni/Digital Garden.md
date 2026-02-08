@@ -29,7 +29,7 @@ In questo mio giardino:
 ***
 ### Per chi non sa cosa fare da grande
 
-Se anche voi sentite che nessuna definizione vi contiene del tutto, vi lascio una bussola. C'è un libro che descrive magistralmente questa sensazione, con un titolo che è già un manifesto: 📖 _How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow Up_ [Qui il link al libro](https://amzn.eu/d/0iFv0Z1L)
+Se anche voi sentite che nessuna definizione vi contiene del tutto, vi lascio una bussola. C'è un libro che descrive magistralmente questa sensazione, con un titolo che è già un manifesto: 📖 _How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow Up_ [(Link)](https://amzn.to/4r54gPf)
 
 E per chi preferisce la voce scritta a quella letta, suggerisco l'ascolto del **TED Talk di Emilie Wapnick**. : "Why some of us don't have one true calling"_. È un piccolo balsamo per chi si è sempre sentito "troppo" o "troppo poco".
 
