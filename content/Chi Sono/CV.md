@@ -1,3 +1,3 @@
 
 
-![[Profilo Paolo Meregalli r1 (1).pdf]]
+![[Profilo Paolo Meregalli r1.pdf]]
