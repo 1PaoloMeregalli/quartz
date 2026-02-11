@@ -86,7 +86,7 @@ export const defaultContentPageLayout: PageLayout = {
        filterFn: (node) => {
         // Nascondi la cartella "assets", "private" e tutto ciò che inizia con "_"
          const omit = new Set(["assets"])
-         return !omit.has(node.name) && !node.name.startsWith("_")
+         return !omit.has(node.name) // && !node.name.startsWith("_")
        },
     }),
   ],
@@ -117,7 +117,7 @@ export const defaultListPageLayout: PageLayout = {
        filterFn: (node) => {
         // Nascondi la cartella "assets", "private" e tutto ciò che inizia con "_"
         const omit = new Set(["assets"])
-        return !omit.has(node.name) && !node.name.startsWith("_")
+        return !omit.has(node.name) // && !node.name.startsWith("_")
       },
     }),
   ],
