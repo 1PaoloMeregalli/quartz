@@ -55,7 +55,7 @@ export const defaultContentPageLayout: PageLayout = {
 // --- NUOVI PARAMETRI FISICI ---
         repelForce: 0.05,   // Spingi MENO (Default è molto più alto)
         centerForce: 1.5,  // Tira di PIÙ verso il centro
-        linkDistance: 5,  // Corde corte
+        linkDistance: 2,  // Corde corte
        scale: 1,        // Parti un po' più "zoomato indietro"
         fontSize: 0.5,     // Testo più piccolo per non affollare
         opacityScale: 3,
