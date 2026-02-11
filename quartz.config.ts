@@ -28,7 +28,6 @@ const config: QuartzConfig = {
         body: "Inter",
         code: "Fragment Mono",
         title: "Inter" */
-        /* mia modifica */
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
