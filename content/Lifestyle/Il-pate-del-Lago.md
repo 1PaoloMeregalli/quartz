@@ -2,13 +2,9 @@
 title: Il Patè del Lago
 date: 2012-12-25T11:28:35+01:00
 author: Paolo Meregalli
-layout:
-  - default
-permalink: /il-pate-del-lago/
 tags:
   - Antipasto
   - Ricette
-categories:
 ---
 # 3 generazioni di Patè
 
