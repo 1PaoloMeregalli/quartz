@@ -23,6 +23,5 @@ src="https://www.youtube-nocookie.com/embed/h11u3vtcpaY"
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen >
 </iframe>
 
- [[LoganLaPlante.png]]
+(hh)[[LoganLaPlante.png]]
 
-![[LoganLaPlante.png]]
