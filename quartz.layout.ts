@@ -82,7 +82,13 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        // Nascondi la cartella "assets", "private" e tutto ciò che inizia con "_"
+        const omit = new Set(["assets", "private", "templates"])
+        return !omit.has(node.name) && !node.name.startsWith("_")
+      },
+    }),
   ],
 
  right: [
@@ -107,7 +113,13 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        // Nascondi la cartella "assets", "private" e tutto ciò che inizia con "_"
+        const omit = new Set(["assets", "private", "templates"])
+        return !omit.has(node.name) && !node.name.startsWith("_")
+      },
+    }),
   ],
   right: [],
 }
