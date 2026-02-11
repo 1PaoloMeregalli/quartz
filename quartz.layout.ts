@@ -82,8 +82,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-       filterFn: (node) => { }),
+    Component.Explorer({ }),
   ],
 
  right: [
