@@ -87,7 +87,7 @@ export const defaultContentPageLayout: PageLayout = {
         // Nascondi la cartella "assets", "private" e tutto ciò che inizia con "_"
          const omit = new Set(["assets"])
          return !omit.has(node.name) && !node.name.startsWith("_")
-      // },
+       },
     }),
   ],
 
