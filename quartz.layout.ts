@@ -84,16 +84,16 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({ 
     filterFn: (node) => {
-    const n = (node.name ?? "").toLowerCase()
-    const slug = (node.slug ?? "").toLowerCase()
-    const path = (node.path ?? "").toLowerCase()
+      const name = (node.name ?? "")
+      const slug = (node.slug ?? "")
+      const path = (node.path ?? "")
 
-    // nascondi la cartella assets (e tutto ciò che ci sta sotto)
-    if (n === "assets" || slug === "assets" || path === "assets" || path.startsWith("assets/")) {
-      return false
+      // Nascondi tutto ciò che inizia con "_"
+      if (name.startsWith("_") || slug.startsWith("_") || path.includes("/_")) {
+         return false
     }
     return true
-  },  
+     },
     }),
   ],
 
@@ -120,17 +120,17 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({ 
-      filterFn: (node) => {
-    const n = (node.name ?? "").toLowerCase()
-    const slug = (node.slug ?? "").toLowerCase()
-    const path = (node.path ?? "").toLowerCase()
+     filterFn: (node) => {
+      const name = (node.name ?? "")
+      const slug = (node.slug ?? "")
+      const path = (node.path ?? "")
 
-    // nascondi la cartella assets (e tutto ciò che ci sta sotto)
-    if (n === "assets" || slug === "assets" || path === "assets" || path.startsWith("assets/")) {
-      return false
+      // Nascondi tutto ciò che inizia con "_"
+      if (name.startsWith("_") || slug.startsWith("_") || path.includes("/_")) {
+         return false
     }
     return true
-  },
+     },
     }),
   ],
   right: [],
