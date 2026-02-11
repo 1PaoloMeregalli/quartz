@@ -85,7 +85,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
        filterFn: (node) => {
         // Nascondi la cartella "assets", "private" e tutto ciò che inizia con "_"
-         const omit = new Set(["assets"])
+         const omit = new Set(["assets"], "Assets")
          return !omit.has(node.name) // && !node.name.startsWith("_")
        },
     }),
@@ -116,7 +116,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
        filterFn: (node) => {
         // Nascondi la cartella "assets", "private" e tutto ciò che inizia con "_"
-        const omit = new Set(["assets"])
+        const omit = new Set(["assets", "Assets"])
         return !omit.has(node.name) // && !node.name.startsWith("_")
       },
     }),
