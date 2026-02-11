@@ -82,7 +82,19 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({ }),
+    Component.Explorer({ 
+    filterFn: (node) => {
+    const n = (node.name ?? "").toLowerCase()
+    const slug = (node.slug ?? "").toLowerCase()
+    const path = (node.path ?? "").toLowerCase()
+
+    // nascondi la cartella assets (e tutto ciò che ci sta sotto)
+    if (n === "assets" || slug === "assets" || path === "assets" || path.startsWith("assets/")) {
+      return false
+    }
+    return true
+  },  
+    }),
   ],
 
  right: [
@@ -107,7 +119,19 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({ }),
+    Component.Explorer({ 
+      filterFn: (node) => {
+    const n = (node.name ?? "").toLowerCase()
+    const slug = (node.slug ?? "").toLowerCase()
+    const path = (node.path ?? "").toLowerCase()
+
+    // nascondi la cartella assets (e tutto ciò che ci sta sotto)
+    if (n === "assets" || slug === "assets" || path === "assets" || path.startsWith("assets/")) {
+      return false
+    }
+    return true
+  },
+    }),
   ],
   right: [],
 }
