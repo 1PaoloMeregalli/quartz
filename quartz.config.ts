@@ -24,13 +24,13 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        /*header: "Inter",
+        header: "Inter",
         body: "Inter",
         code: "Fragment Mono",
-        title: "Inter" */
-        header: "Schibsted Grotesk",
+        title: "Inter",
+        /* header: "Schibsted Grotesk",
         body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        code: "IBM Plex Mono", */
       },
       colors: {
         lightMode: {
