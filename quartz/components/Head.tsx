@@ -97,15 +97,12 @@ export default (() => {
             return resource
           }
         })}
-        // COMMENTO DA QUI MODIFICATO FINO
          {/* Umami Analytics (Privacy Friendly) */}
            <script 
              defer 
              src="https://cloud.umami.is/script.js" 
              data-website-id="a333c3b4-442e-4649-97fd-fdbc730a64cc"
            ></script>
-        // QUI
-
       </head>
     )
   }
