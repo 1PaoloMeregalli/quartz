@@ -1,14 +1,5 @@
 @use "./base.scss";
 
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fragment+Mono:ital,wght@0,400;1,400&display=swap");
-
-:root {
-  --bodyFont: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-  --headerFont: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-  --codeFont: "Fragment Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
-    "Liberation Mono", "Courier New", monospace;
-}
-
 // put your custom CSS here!
 /* Aumenta il testo solo sui dispositivi mobili */
 @media (max-width: 750px) {
@@ -22,3 +13,13 @@
 body[data-slug="grafo"] .graph {
   height: 85vh;
 }
+
+
+
+
+/* Quando c'è un grafico nella colonna centrale, fallo diventare alto */
+//.center .graph {
+//  height: 500px !important; /* Puoi aumentare questo numero se lo vuoi ancora più grande */
+//  border: 1px solid var(--lightgray); /* Opzionale: un bordo sottile elegante */
+//  border-radius: 8px;
+//}
