@@ -49,20 +49,14 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Graph({
         localGraph: false, // false = mostra tutto il sito (effetto galassia)
         showTags: true, //AGGIUNTO IO
-//        linkDistance: 2, //AGGIUNTO IO
         depth: -1 , // Profondità infinita
-//DA QUI
-// --- NUOVI PARAMETRI FISICI ---
-        repelForce: 0.8,   // Spingi MENO (Default è molto più alto)
-        centerForce: 0.4,  // Tira di PIÙ verso il centro
-        linkDistance: 40,  // Corde corte
-        scale: 1.2,        // Parti un po' più "zoomato indietro"
-        fontSize: 0.7,     // Testo più piccolo per non affollare
+        repelForce: 2.0,   // Spingi MENO (Default è molto più alto)
+        centerForce: 0.2,  // Tira di PIÙ verso il centro
+        linkDistance: 60,  // Corde corte
+        scale: 3,        // Parti un po' più "zoomato indietro"
+        fontSize: 1.0,     // Testo più piccolo per non affollare
         opacityScale: 1,
         focusonHover: true, // Evidenzia solo al passaggio del mouse
-//A QUI
-
-
       }),
       condition: (page) => page.fileData.slug === "index",
     }),
