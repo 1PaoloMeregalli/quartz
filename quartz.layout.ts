@@ -46,18 +46,23 @@ export const defaultContentPageLayout: PageLayout = {
 
     // Grafico Grande: VISIBILE SOLO IN HOME
     Component.ConditionalRender({
-      component: Component.Graph({
-        localGraph: false, // false = mostra tutto il sito (effetto galassia)
-        showTags: true, //AGGIUNTO IO
-        depth: -1 , // Profondità infinita
-        repelForce: 2.0,   // Spingi MENO (Default è molto più alto)
-        centerForce: 0.2,  // Tira di PIÙ verso il centro
-        linkDistance: 60,  // Corde corte
-        scale: 3,        // Parti un po' più "zoomato indietro"
-        fontSize: 1.0,     // Testo più piccolo per non affollare
-        opacityScale: 1,
-        focusOnHover: true, // Evidenzia solo al passaggio del mouse
-      }),
+      Component.Graph({
+  localGraph: {
+    depth: 1,
+    showTags: true,
+  },
+  globalGraph: {
+    depth: -1,
+    showTags: true,
+    repelForce: 2.0,
+    centerForce: 0.2,
+    linkDistance: 60,
+    scale: 0.9,      // qui ti conviene partire da valori realistici
+    fontSize: 0.6,
+    opacityScale: 1,
+    enableRadial: false, // o true se vuoi l’effetto “radiale stile Obsidian”
+  },
+})
       condition: (page) => page.fileData.slug === "index",
     }),
   ],
