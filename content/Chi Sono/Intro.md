@@ -1,3 +1,8 @@
+---
+post_image:
+  - "[[PaoloMeregalli.jpg]]"
+---
+
 Ciao, sono Paolo Meregalli e tu sei appena approdato nel mio [[Digital Garden]] !
 Questa è la mia nuova dimensione, un nuovo modo per tracciare un percorso di crescita e cambiamento.
 E' qualche anno che cerco una modalità nuova per comunicare e finialmente ho scoperto qualche cosa che mi è affine.
