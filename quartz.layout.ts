@@ -57,8 +57,8 @@ export const defaultContentPageLayout: PageLayout = {
           repelForce: 2.0,
           centerForce: 0.2,
           linkDistance: 60,
-          scale: 0.9,      // qui ti conviene partire da valori realistici
-          fontSize: 0.6,
+          scale: 2.2,      // qui ti conviene partire da valori realistici
+          fontSize: 1.2,
           opacityScale: 1,
           enableRadial: false, // o true se vuoi l’effetto “radiale stile Obsidian”
          },
