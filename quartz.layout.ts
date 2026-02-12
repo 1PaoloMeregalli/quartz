@@ -48,19 +48,30 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.Graph({
         localGraph: {
+          drag: true,
+          zoom: true,
           depth: 1,
+          scale: 2.2,      // <-- QUESTO ti avvicina
+          fontSize: 1.2,   // <-- QUESTO rende leggibili le etichette
+          opacityScale: 1,
           showTags: true,
+          enableRadial: false,
+          repelForce: 0.5,
+          centerForce: 0.3,
+          linkDistance: 30,
       },
         globalGraph: {
+          drag: true,
+          zoom: true,
           depth: -1,
-          showTags: true,
-          repelForce: 2.0,
-          centerForce: 0.2,
-          linkDistance: 60,
-          scale: 2.2,      // qui ti conviene partire da valori realistici
+          scale: 2.2,      // opzionale: anche il globale più leggibile
           fontSize: 1.2,
           opacityScale: 1,
-          enableRadial: false, // o true se vuoi l’effetto “radiale stile Obsidian”
+          showTags: true,
+          enableRadial: true,
+          repelForce: 0.5,
+          centerForce: 0.3,
+          linkDistance: 30,
          },
       }),
       condition: (page) => page.fileData.slug === "index",
