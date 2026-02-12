@@ -56,13 +56,13 @@ export const defaultContentPageLayout: PageLayout = {
         scale: 3,        // Parti un po' più "zoomato indietro"
         fontSize: 1.0,     // Testo più piccolo per non affollare
         opacityScale: 1,
-        focusonHover: true, // Evidenzia solo al passaggio del mouse
+        focusOnHover: true, // Evidenzia solo al passaggio del mouse
       }),
       condition: (page) => page.fileData.slug === "index",
     }),
   ],
 //CORREZIONE MIA
-   pageBody: Component.Content(),
+ //  pageBody: Component.Content(),
 
   left: [
     Component.PageTitle(),
