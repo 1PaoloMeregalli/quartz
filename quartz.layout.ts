@@ -46,10 +46,10 @@ export const defaultContentPageLayout: PageLayout = {
 
     // Grafico Grande: VISIBILE SOLO IN HOME
     Component.ConditionalRender({
-      Component.Graph({
+      component: Component.Graph({
         localGraph: {
           depth: 1,
-          sowTags: true,
+          showTags: true,
       },
         globalGraph: {
           depth: -1,
