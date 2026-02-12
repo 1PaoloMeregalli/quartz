@@ -13,7 +13,7 @@ afterBody: [
       component: Component.RecentNotes({ 
         title: "Ultimi Aggiornamenti", 
         limit: 3,
-        showTags: false
+        showTags: true
       }),
       condition: (page) => page.fileData.slug === "index",
     }),
@@ -56,8 +56,8 @@ export const defaultContentPageLayout: PageLayout = {
         repelForce: 0.05,   // Spingi MENO (Default è molto più alto)
         centerForce: 1.5,  // Tira di PIÙ verso il centro
         linkDistance: 2,  // Corde corte
-       scale: 1,        // Parti un po' più "zoomato indietro"
-        fontSize: 0.5,     // Testo più piccolo per non affollare
+       scale: 100,        // Parti un po' più "zoomato indietro"
+        fontSize: 0.1,     // Testo più piccolo per non affollare
         opacityScale: 3,
 //A QUI
 
