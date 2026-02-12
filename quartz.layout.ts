@@ -47,22 +47,22 @@ export const defaultContentPageLayout: PageLayout = {
     // Grafico Grande: VISIBILE SOLO IN HOME
     Component.ConditionalRender({
       Component.Graph({
-  localGraph: {
-    depth: 1,
-    showTags: true,
-  },
-  globalGraph: {
-    depth: -1,
-    showTags: true,
-    repelForce: 2.0,
-    centerForce: 0.2,
-    linkDistance: 60,
-    scale: 0.9,      // qui ti conviene partire da valori realistici
-    fontSize: 0.6,
-    opacityScale: 1,
-    enableRadial: false, // o true se vuoi l’effetto “radiale stile Obsidian”
-  },
-})
+        localGraph: {
+          depth: 1,
+          sowTags: true,
+      },
+        globalGraph: {
+          depth: -1,
+          showTags: true,
+          repelForce: 2.0,
+          centerForce: 0.2,
+          linkDistance: 60,
+          scale: 0.9,      // qui ti conviene partire da valori realistici
+          fontSize: 0.6,
+          opacityScale: 1,
+          enableRadial: false, // o true se vuoi l’effetto “radiale stile Obsidian”
+         },
+      }),
       condition: (page) => page.fileData.slug === "index",
     }),
   ],
