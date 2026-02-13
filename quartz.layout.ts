@@ -15,7 +15,8 @@ afterBody: [
         limit: 3,
         showTags: true
       }),
-      condition: (page) => page.fileData.slug === "index",
+      condition: (_) => true,
+      // oggi condition: (page) => page.fileData.slug === "index",
     }),
   ],
   footer: Component.Footer({
@@ -36,7 +37,8 @@ export const defaultContentPageLayout: PageLayout = {
     // Briciole di pane: VISIBILI OVUNQUE TRANNE CHE IN HOME
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
+      condition: (_) => true,
+      // OGGI condition: (page) => page.fileData.slug !== "index",
     }),
     
     // Titolo, Meta e Tag (sempre visibili)
@@ -74,7 +76,8 @@ export const defaultContentPageLayout: PageLayout = {
           linkDistance: 30,
          },
       }),
-      condition: (page) => page.fileData.slug === "index",
+      condition: (_) => true,
+      // OGGI condition: (page) => page.fileData.slug === "index",
     }),
   ],
 //CORREZIONE MIA
