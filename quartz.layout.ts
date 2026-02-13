@@ -51,8 +51,8 @@ export const defaultContentPageLayout: PageLayout = {
           drag: true,
           zoom: true,
           depth: 1,
-          scale: 2.2,      // <-- QUESTO ti avvicina
-          fontSize: 1.2,   // <-- QUESTO rende leggibili le etichette
+          scale: 10,      // <-- QUESTO ti avvicina
+          fontSize: 5,   // <-- QUESTO rende leggibili le etichette
           opacityScale: 1,
           showTags: true,
           enableRadial: false,
@@ -64,8 +64,8 @@ export const defaultContentPageLayout: PageLayout = {
           drag: true,
           zoom: true,
           depth: -1,
-          scale: 2.2,      // opzionale: anche il globale più leggibile
-          fontSize: 1.2,
+          scale: 10,      // opzionale: anche il globale più leggibile
+          fontSize: 5,
           opacityScale: 1,
           showTags: true,
           enableRadial: true,
