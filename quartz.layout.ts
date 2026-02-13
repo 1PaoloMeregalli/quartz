@@ -53,6 +53,8 @@ export const defaultContentPageLayout: PageLayout = {
           drag: true,
           zoom: true,
           depth: 1,
+          // leggibilità “tipo Obsidian”
+          focusOnHover: false,
           scale: 2.0,      // <-- QUESTO ti avvicina
           fontSize: 1.5,   // <-- QUESTO rende leggibili le etichette
           opacityScale: 15,
@@ -66,6 +68,7 @@ export const defaultContentPageLayout: PageLayout = {
           drag: true,
           zoom: true,
           depth: -1,
+          focusOnHover: false,   // <<--- IMPORTANTISSIMO
           scale: 2.0,      // opzionale: anche il globale più leggibile
           fontSize: 1.0,
           opacityScale: 15,
