@@ -10,10 +10,21 @@
 }
 
 // modifica per graof grnade nella pagina grafo
-body[data-slug="grafo"] .graph {
-  height: 85vh;
+// body[data-slug="grafo"] .graph {
+//  height: 85vh;
+//}
+
+/* Aumenta il riquadro del grafo inline ovunque */
+.graph .graph-outer {
+  height: 70vh !important;  /* prova 70vh o 600px */
 }
 
+/* Mobile */
+@media (max-width: 800px) {
+  .graph .graph-outer {
+    height: 55vh !important;
+  }
+}
 
 
 
