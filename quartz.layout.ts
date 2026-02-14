@@ -15,8 +15,8 @@ afterBody: [
         limit: 3,
         showTags: true
       }),
-      condition: (_) => true,
-      // oggi condition: (page) => page.fileData.slug === "index",
+      // condition: (_) => true,
+      condition: (page) => page.fileData.slug === "index",
     }),
   ],
   footer: Component.Footer({
@@ -37,8 +37,8 @@ export const defaultContentPageLayout: PageLayout = {
     // Briciole di pane: VISIBILI OVUNQUE TRANNE CHE IN HOME
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (_) => true,
-      // OGGI condition: (page) => page.fileData.slug !== "index",
+      // condition: (_) => true,
+      condition: (page) => page.fileData.slug !== "index",
     }),
     
     // Titolo, Meta e Tag (sempre visibili)
@@ -55,28 +55,28 @@ export const defaultContentPageLayout: PageLayout = {
           depth: 1,
           // leggibilità “tipo Obsidian”
           focusOnHover: false,
-          scale: 10,      // <-- QUESTO ti avvicina
+          scale: 1.5,      // <-- QUESTO ti avvicina
           fontSize: 1.5,   // <-- QUESTO rende leggibili le etichette
           opacityScale: 15,
           showTags: true,
           enableRadial: false,
           repelForce: 1.5,
           centerForce: 0.1,
-          linkDistance: 180,
+          linkDistance: 80,
       },
         globalGraph: {
           drag: true,
           zoom: true,
           depth: -1,
           focusOnHover: false,   // <<--- IMPORTANTISSIMO
-          scale: 10,      // opzionale: anche il globale più leggibile
+          scale: 1.5,      // opzionale: anche il globale più leggibile
           fontSize: 1.0,
           opacityScale: 15,
           showTags: true,
           enableRadial: true,
           repelForce: 1.5,
           centerForce: 0.1,
-          linkDistance: 180,
+          linkDistance: 80,
          },
       }),
       // condition: (_) => true, // da inserire se voglio che compaia su tuttte le pagine
