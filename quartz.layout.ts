@@ -18,35 +18,7 @@ afterBody: [
       // condition: (_) => true,
       condition: (page) => page.fileData.slug === "index",
     }),
-  ],
-  footer: Component.Footer({
-    links: {
-      "Privacy (Zero Tracking)": "/Privacy",
-      // "Feed RSS (No Algoritmi)": "/index.xml",
-      "LinkedIn": "https://www.linkedin.com/in/paolomeregalli/",
-      "Scrivimi una Mail": "mailto:paolo.meregalli@gmail.com",
-       GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-    }),
-}
-
-// components for pages that display a single page (e.g. a single note)
-export const defaultContentPageLayout: PageLayout = {
- beforeBody: [
-    // Briciole di pane: VISIBILI OVUNQUE TRANNE CHE IN HOME
-    Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
-      // condition: (_) => true,
-      condition: (page) => page.fileData.slug !== "index",
-    }),
-    
-    // Titolo, Meta e Tag (sempre visibili)
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
-
-    // Grafico Grande: VISIBILE SOLO IN HOME
+// Grafico Grande: VISIBILE SOLO IN HOME
     Component.ConditionalRender({
       component: Component.Graph({
         localGraph: {
@@ -82,6 +54,34 @@ export const defaultContentPageLayout: PageLayout = {
       // condition: (_) => true, // da inserire se voglio che compaia su tuttte le pagine
       condition: (page) => page.fileData.slug === "index",
     }),
+
+  ],
+  footer: Component.Footer({
+    links: {
+      "Privacy (Zero Tracking)": "/Privacy",
+      // "Feed RSS (No Algoritmi)": "/index.xml",
+      "LinkedIn": "https://www.linkedin.com/in/paolomeregalli/",
+      "Scrivimi una Mail": "mailto:paolo.meregalli@gmail.com",
+       GitHub: "https://github.com/jackyzha0/quartz",
+      "Discord Community": "https://discord.gg/cRFFHYye7t",
+    },
+    }),
+}
+
+// components for pages that display a single page (e.g. a single note)
+export const defaultContentPageLayout: PageLayout = {
+ beforeBody: [
+    // Briciole di pane: VISIBILI OVUNQUE TRANNE CHE IN HOME
+    Component.ConditionalRender({
+      component: Component.Breadcrumbs(),
+      // condition: (_) => true,
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    
+    // Titolo, Meta e Tag (sempre visibili)
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+    Component.TagList(),
   ],
 //CORREZIONE MIA
   pageBody: Component.Content(),
