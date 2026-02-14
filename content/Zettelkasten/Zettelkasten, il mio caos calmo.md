@@ -4,8 +4,8 @@ date: 2026-02-06
 tags:
   - PaoloMeregalli
   - metodo
+socialDescription: La mia vita non è a compartimenti stagni...
 ---
-
 Se sei finito in questa sezione del sito, probabilmente ti sei chiesto: **Zettelkasten che ?"**
 Letteralmente significa "scatola con i bigliettini".
 
@@ -38,8 +38,8 @@ Lo Zettelkasten è fatto per **perdersi**.
 Ogni nota è collegata ad altre note tramite dei link. Cliccando, potresti partire da un concetto di informatica e finire su una riflessione filosofica, passando per una ricetta. È così che funziona la mia testa, ed è così che funziona questo sito.
 
 > [!warning] Attenzione: Lavori in corso
-> Molte di queste note sono bozze, pensieri a metà, frasi sgrammaticate scritte alle 2 di notte. Non giudicarle per la forma, ma per il contenuto.
+> Molte di queste note sono bozze, pensieri a metà, frasi sgrammaticate scritte alle 2 di notte.
+> Sono semi !
 
-Se vedi dei collegamenti strani nel [Grafo](../index.md), è colpa di questa sezione. È qui che le idee fanno amicizia e, si spera, generano qualcosa di nuovo.
-
+È qui che le idee fanno amicizia.
 Buona esplorazione nel mio disordine organizzato.

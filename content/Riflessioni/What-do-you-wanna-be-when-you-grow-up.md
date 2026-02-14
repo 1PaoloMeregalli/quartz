@@ -3,8 +3,6 @@ id: 1211
 title: What do you wanna be when you grow up ?
 date: 2014-01-14T08:44:30+01:00
 author: Paolo Meregalli
-layout:
-  - default
 post_image:
   - "[[LoganLaPlante.png]]"
 tags:
@@ -14,6 +12,7 @@ tags:
   - Multipotenziale
   - happy
   - DigitalGarden
+socialDescription: What do you wanna be when you grow up ? I wanna be happy !!!
 ---
 Amazing 11 minutes video for my english speaking friends! Believe me, invest your next 11 minutes listening this 10 years old genius! Touching my heart and my brain! 
 ## I wanna be happy!!!
