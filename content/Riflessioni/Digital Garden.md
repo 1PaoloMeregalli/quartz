@@ -24,7 +24,7 @@ Ho scelto il **Digital Garden**.
 Se il blog tradizionale è un fiume – un flusso cronologico di notizie che scorrono via e invecchiano in fretta – il giardino digitale è un luogo fisico, topologico. 
 ## È uno spazio dove il tempo non è una linea retta, ma un ciclo.
 
->[info] In questo mio giardino:
+>[!info] In questo mio giardino:
 >- **Si coltiva, non si lancia:** I contenuti non sono pietre scolpite, ma piante. Nascono come semi (appunti sparsi), diventano germogli e forse, un giorno, alberi robusti.
 >- **Si mappa, non si elenca:** Non troverete una cronologia tiranna. Qui conta la connessione tra le idee, il sentiero che porta da un pensiero all'altro, proprio come accade nella mia testa.
 >- **Si impara in pubblico:** Ho abbandonato la pretesa di perfezione. Questo è un laboratorio a porte aperte, dove l'errore è parte della concimazione.
@@ -37,8 +37,6 @@ Se anche voi sentite che nessuna definizione vi contiene del tutto, vi lascio un
 E per chi preferisce la voce scritta a quella letta, suggerisco l'ascolto del **TED Talk di Emilie Wapnick**. : "Why some of us don't have one true calling"_. È un piccolo balsamo per chi si è sempre sentito "troppo" o "troppo poco".
 
 <iframe src="https://www.youtube-nocookie.com/embed/QJORi5VO1F8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%; max-width: 560px; aspect-ratio: 16 / 9; display: block; margin: 0 auto;"> </iframe>
-
-Oggi qualcosa è cambiato. Eccomi qui, con questo nuovo stile, con questo nuovo approccio. 
 
 >[!warning] Entrate pure, fate attenzione a dove mettete i piedi; fate attenzione ai semi, e perdonate il disordine: qui si sta ancora lavorando.
 > C'è profumo di terra, di umidità, ci sono mani sporche e il silenzio ed il tempo di cui hanno bisogno in natura le cose belle per crescere.
