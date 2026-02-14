@@ -50,7 +50,7 @@ solo un file XML che il tuo reader scarica quando decidi tu.
 - **Desktop**: NetNewsWire, Thunderbird
 - **Mobile**: Reeder (iOS), Feedly (iOS/Android)
 - **Web**: Feedly, Inoreader
-[link con Feedly]("Iscriviti via RSS": "https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.paolomeregalli.it%2Findex.xml",)
+[link con Feedly](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.paolomeregalli.it%2Findex.xml)
 
 ### 📩 Contatti
 Non ci sono newsletter né form di iscrizione. Se però vuoi scrivermi per un feedback tecnico, un'osservazione o un saluto, ne sarei felice:
