@@ -23,6 +23,8 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import ShareButtons from "./ShareButtons"  // <-- AGGIUNGI QUESTA RIGA in alto
+
 
 export {
   ArticleTitle,
@@ -50,4 +52,5 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+  ShareButtons,  // <-- AGGIUNGI QUESTA RIGA in fondo
 }
