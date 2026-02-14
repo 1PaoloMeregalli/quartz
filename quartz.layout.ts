@@ -79,12 +79,12 @@ export const defaultContentPageLayout: PageLayout = {
           linkDistance: 180,
          },
       }),
-      condition: (_) => true,
-      // OGGI condition: (page) => page.fileData.slug === "index",
+      // condition: (_) => true, // da inserire se voglio che compaia su tuttte le pagine
+      condition: (page) => page.fileData.slug === "index",
     }),
   ],
 //CORREZIONE MIA
- //  pageBody: Component.Content(),
+  pageBody: Component.Content(),
 
   left: [
     Component.PageTitle(),
