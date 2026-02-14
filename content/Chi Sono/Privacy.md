@@ -38,7 +38,19 @@ Se segui quel link potrebbe essere che corri il rischio di offrirmi un caffè.
 ### 📡 RSS: Riprenditi il controllo (Anti-Algoritmo)
 Potrebbe sembrare una tecnologia anacronistica, ma ho scelto di offrire un feed **[RSS](/index.xml)** perché credo fermamente nel ritorno al controllo dei propri contenuti.
 
-In un web dominato da feed infiniti scelti da algoritmi di raccomandazione che decidono cosa devi vedere per massimizzare il tuo tempo di permanenza, l'RSS è un atto di ribellione. Usando un feed reader, sei **tu** a scegliere cosa leggere e quando farlo. Niente notifiche push manipolatorie, niente profilazione: solo un file XML che il tuo reader scarica quando decidi tu. 
+>[!warning] In un web dominato da feed infiniti scelti da algoritmi di raccomandazione che decidono per te cosa devi vedere per massimizzare il tuo tempo di permanenza, l'RSS è un atto di ribellione. 
+
+Usando un feed reader, sei **tu** a scegliere cosa leggere e quando farlo.
+Niente notifiche push manipolatorie, niente profilazione:
+solo un file XML che il tuo reader scarica quando decidi tu.
+### Come funziona?
+1. Copia questo link: `https://www.paolomeregalli.it/index.xml
+2. Incollalo nel tuo lettore RSS preferito
+#### Lettori RSS consigliati:
+- **Desktop**: NetNewsWire, Thunderbird
+- **Mobile**: Reeder (iOS), Feedly (iOS/Android)
+- **Web**: Feedly, Inoreader
+[link con Feedly]("Iscriviti via RSS": "https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.paolomeregalli.it%2Findex.xml",)
 
 ### 📩 Contatti
 Non ci sono newsletter né form di iscrizione. Se però vuoi scrivermi per un feedback tecnico, un'osservazione o un saluto, ne sarei felice:
