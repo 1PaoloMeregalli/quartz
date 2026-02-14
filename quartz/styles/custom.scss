@@ -9,35 +9,31 @@
   }
 }
 
-// modifica per graof grnade nella pagina grafo
-// body[data-slug="grafo"] .graph {
-//  height: 85vh;
-//}
-
 /* Aumenta il riquadro del grafo inline ovunque */
 .graph .graph-outer {
-  height: 70vh !important;  /* prova 70vh o 600px */
+  height: 70vh !important;
+  min-height: 500px; /* <-- AGGIUNGI: altezza minima garantita */
 }
+
+/* Dai più spazio al contenitore del grafo */
+.graph {
+  margin: 2rem 0; /* <-- AGGIUNGI: spazio sopra e sotto */
+  width: 100%; /* <-- AGGIUNGI: usa tutta la larghezza disponibile */
+}
+
 /* MA anche l'elemento che disegna deve riempire il contenitore */
 .graph .graph-outer canvas,
 .graph .graph-outer svg {
   width: 100% !important;
   height: 100% !important;
 }
+
 /* 3) qualunque canvas (Pixi) dentro deve riempire */
 .graph .graph-outer canvas {
   width: 100% !important;
   height: 100% !important;
   display: block;
 }
-
-/* Mobile */
-@media (max-width: 800px) {
-  .graph .graph-outer {
-    height: 55vh !important;
-  }
-}
-
 
 
 /* Quando c'è un grafico nella colonna centrale, fallo diventare alto */
