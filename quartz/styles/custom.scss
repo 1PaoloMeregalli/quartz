@@ -40,8 +40,35 @@
 
 
 /* Mobile */
+/* Fix layout mobile per la colonna RIGHT */
 @media (max-width: 800px) {
+
   .graph .graph-outer {
     height: 55vh !important;
+  }
+
+  /* Forza gli elementi della sidebar right ad essere verticali su mobile */
+  .right {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+  }
+  
+  /* Il grafo piccolo occupa tutta la larghezza */
+  .right .graph {
+    width: 100% !important;
+    margin-bottom: 2rem;
+  }
+  
+  .right .graph .graph-outer {
+    width: 100% !important;
+    height: 50vh !important;  /* Altezza ridotta per mobile */
+  }
+  
+  /* Backlinks e TOC occupano tutta la larghezza */
+  .right .backlinks,
+  .right .toc {
+    width: 100% !important;
+    margin-bottom: 1rem;
   }
 }
