@@ -83,6 +83,15 @@ export default (() => {
         )}
 
         <link rel="icon" href={iconPath} />
+        {/* RSS Feed */}
+           {cfg.baseUrl && (
+             <link 
+              rel="alternate" 
+              type="application/rss+xml" 
+              title={`${cfg.pageTitle} - RSS Feed`}
+              href={`https://${cfg.baseUrl}/index.xml`} 
+             />
+            )}
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
