@@ -62,7 +62,7 @@ export const defaultContentPageLayout: PageLayout = {
           enableRadial: false,
           repelForce: 1.5,
           centerForce: 0.1,
-          linkDistance: 80,
+          linkDistance: 180,
       },
         globalGraph: {
           drag: true,
@@ -76,7 +76,7 @@ export const defaultContentPageLayout: PageLayout = {
           enableRadial: true,
           repelForce: 1.5,
           centerForce: 0.1,
-          linkDistance: 80,
+          linkDistance: 180,
          },
       }),
       condition: (_) => true,
