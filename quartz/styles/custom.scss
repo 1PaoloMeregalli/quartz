@@ -8,42 +8,31 @@
     line-height: 1.6;           /* Più spazio tra le righe per leggere meglio */
   }
 }
-
 /* Aumenta il riquadro del grafo inline ovunque */
 .graph .graph-outer {
   height: 70vh !important;
   min-height: 500px;
-  width: 100% !important; /* <-- IMPORTANTE */
+  width: 100% !important;
   position: relative;
 }
 
-/* Forza il canvas a riempire tutto senza mantenere aspect ratio */
+/* Forza il canvas a riempire tutto SENZA deformare */
 .graph .graph-outer canvas,
 .graph .graph-outer svg {
   width: 100% !important;
   height: 100% !important;
-  position: absolute !important; /* <-- AGGIUNGI */
-  top: 0 !important;
-  left: 0 !important;
-  object-fit: fill !important; /* <-- AGGIUNGI: forza a riempire */
-}
-
-/* Rimuovi eventuali max-width */
-.graph, .graph * {
-  max-width: none !important;
+  display: block;
 }
 
 /* Il contenitore principale del grafo */
 .graph {
   margin: 2rem 0;
   width: 100%;
-  max-width: 100% !important; /* <-- AGGIUNGI */
 }
 
-
-/* Quando c'è un grafico nella colonna centrale, fallo diventare alto */
-//.center .graph {
-//  height: 500px !important; /* Puoi aumentare questo numero se lo vuoi ancora più grande */
-//  border: 1px solid var(--lightgray); /* Opzionale: un bordo sottile elegante */
-//  border-radius: 8px;
-//}
+/* Mobile */
+@media (max-width: 800px) {
+  .graph .graph-outer {
+    height: 55vh !important;
+  }
+}
