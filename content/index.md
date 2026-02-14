@@ -4,6 +4,7 @@ tags:
   - PaoloMeregalli
   - Multipotenziale
   - DigitalGarden
+description: Boosting Productivity with Technology | Ottimizzazione e robotica per Fashion, Food & Manufacturing. Founder 255.it & ppinch.com | Il mio Digital Garden
 ---
 Ho smesso di cercare definizioni,
 ho ricominciato a scrivere, a creare, a respirare, a giocare -> [[Intro]]
