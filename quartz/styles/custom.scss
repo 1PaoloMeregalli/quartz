@@ -30,6 +30,15 @@
   width: 100%;
 }
 
+/* Il grafo nella colonna RIGHT deve essere quadrato */
+.right .graph .graph-outer {
+  height: auto !important;
+  aspect-ratio: 1 / 1;
+  max-height: 250px;
+  min-height: 250px;
+}
+
+
 /* Mobile */
 @media (max-width: 800px) {
   .graph .graph-outer {
