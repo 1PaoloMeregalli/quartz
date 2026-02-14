@@ -55,28 +55,28 @@ export const defaultContentPageLayout: PageLayout = {
           depth: 1,
           // leggibilità “tipo Obsidian”
           focusOnHover: false,
-          scale: 1.2,      // <-- QUESTO ti avvicina
+          scale: 1.8,      // <-- QUESTO ti avvicina
           fontSize: 1.5,   // <-- QUESTO rende leggibili le etichette
           opacityScale: 15,
           showTags: true,
           enableRadial: false,
           repelForce: 1.5,
           centerForce: 0.1,
-          linkDistance: 180,
+          linkDistance: 80,
       },
         globalGraph: {
           drag: true,
           zoom: true,
           depth: -1,
           focusOnHover: false,   // <<--- IMPORTANTISSIMO
-          scale: 1.2,      // opzionale: anche il globale più leggibile
+          scale: 1.8,      // opzionale: anche il globale più leggibile
           fontSize: 1.0,
           opacityScale: 15,
           showTags: true,
           enableRadial: true,
           repelForce: 1.5,
           centerForce: 0.1,
-          linkDistance: 180,
+          linkDistance: 80,
          },
       }),
       condition: (_) => true,
