@@ -62,11 +62,11 @@ afterBody: [
   footer: Component.Footer({
     links: {
       "Privacy (Zero Tracking)": "/Privacy",
-      // "Feed RSS (No Algoritmi)": "/index.xml",
+      "Feed RSS (No Algoritmi)": "/index.xml",
       "LinkedIn": "https://www.linkedin.com/in/paolomeregalli/",
       "Scrivimi una Mail": "mailto:paolo.meregalli@gmail.com",
-       GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      // GitHub: "https://github.com/jackyzha0/quartz",
+      // "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
     }),
 }
