@@ -12,27 +12,32 @@
 /* Aumenta il riquadro del grafo inline ovunque */
 .graph .graph-outer {
   height: 70vh !important;
-  min-height: 500px; /* <-- AGGIUNGI: altezza minima garantita */
+  min-height: 500px;
+  width: 100% !important; /* <-- IMPORTANTE */
+  position: relative;
 }
 
-/* Dai più spazio al contenitore del grafo */
-.graph {
-  margin: 2rem 0; /* <-- AGGIUNGI: spazio sopra e sotto */
-  width: 100%; /* <-- AGGIUNGI: usa tutta la larghezza disponibile */
-}
-
-/* MA anche l'elemento che disegna deve riempire il contenitore */
+/* Forza il canvas a riempire tutto senza mantenere aspect ratio */
 .graph .graph-outer canvas,
 .graph .graph-outer svg {
   width: 100% !important;
   height: 100% !important;
+  position: absolute !important; /* <-- AGGIUNGI */
+  top: 0 !important;
+  left: 0 !important;
+  object-fit: fill !important; /* <-- AGGIUNGI: forza a riempire */
 }
 
-/* 3) qualunque canvas (Pixi) dentro deve riempire */
-.graph .graph-outer canvas {
-  width: 100% !important;
-  height: 100% !important;
-  display: block;
+/* Rimuovi eventuali max-width */
+.graph, .graph * {
+  max-width: none !important;
+}
+
+/* Il contenitore principale del grafo */
+.graph {
+  margin: 2rem 0;
+  width: 100%;
+  max-width: 100% !important; /* <-- AGGIUNGI */
 }
 
 
