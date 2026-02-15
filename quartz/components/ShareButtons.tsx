@@ -12,13 +12,6 @@ export default (() => {
         <span class="share-label">💭 Condividi questo pensiero:</span>
         <div class="share-links">
           <a 
-            href={`mailto:?subject=${encodedTitle}&body=Ho trovato interessante questo articolo:%0A%0A${encodedUrl}`}
-            aria-label="Condividi via Email"
-            title="Condividi via Email"
-          >
-            ✉️ Email
-          </a>
-          <a 
             href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`}
             target="_blank"
             rel="noopener noreferrer"
@@ -35,15 +28,6 @@ export default (() => {
             title="Condividi su Twitter/X"
           >
             𝕏 Twitter
-          </a>
-          <a 
-            href={`https://wa.me/?text=${encodedTitle}%20${encodedUrl}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Condividi su WhatsApp"
-            title="Condividi su WhatsApp"
-          >
-            📱 WhatsApp
           </a>
         </div>
       </div>

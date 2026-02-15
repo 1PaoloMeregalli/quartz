@@ -57,7 +57,10 @@ afterBody: [
       condition: (page) => page.fileData.slug === "index",
     }),
 // AGGIUNGI QUESTI BOTTONI DI CONDIVISIONE
-  Component.ShareButtons(),  // <-- NUOVA RIGA
+  Component.ConditionalRender({
+  component: Component.ShareButtons(),
+  condition: (page) => page.fileData.slug !== "index",
+}),
 
   ],
   footer: Component.Footer({
