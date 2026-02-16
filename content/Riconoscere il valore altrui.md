@@ -13,4 +13,4 @@ Ricordo di aver sentito una frase da un formatore che più o meno recitava:
 
 In un mondo di demolitori, chi sceglie di onorare il successo altrui dimostra di avere già l'edificio più alto di tutti, fatto di integrità e valore.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7429096256976646144?collapsed=1" height="874" width="504" frameborder="0" allowfullscreen="" title="Post incorporato"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7429096256976646144?collapsed=1" height="900" width="504" frameborder="0" allowfullscreen="" title="Post incorporato"></iframe>
