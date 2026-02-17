@@ -72,3 +72,24 @@
     margin-bottom: 1rem;
   }
 }
+/* da qui nuovo mio */
+/* Container per mantenere le proporzioni (opzionale ma consigliato) */
+.iframe-container {
+  position: relative;
+  width: 100%;
+  max-width: 404px; /* Limite massimo per non farlo sgranare su desktop */
+  margin: 0 auto;   /* Lo centra nella pagina */
+}
+
+.responsive-iframe {
+  width: 100%;      /* Occupa tutto lo spazio disponibile nel container */
+  height: 900px;    /* Altezza fissa */
+  border: none;
+}
+
+/* Comportamento specifico per Mobile */
+@media (max-width: 480px) {
+  .responsive-iframe {
+    height: 700px;  /* Puoi accorciarlo su mobile per non farlo sembrare infinito */
+  }
+}
