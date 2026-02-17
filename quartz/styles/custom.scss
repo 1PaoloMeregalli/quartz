@@ -2,12 +2,12 @@
 
 // put your custom CSS here!
 /* Aumenta il testo solo sui dispositivi mobili */
-@media (max-width: 750px) {
-  body, p, li {
-    font-size: 20px !important; /* Dimensione aumentata per mobile */
-    line-height: 1.6;           /* Più spazio tra le righe per leggere meglio */
-  }
-}
+// @media (max-width: 750px) {
+//  body, p, li {
+//    font-size: 20px !important; /* Dimensione aumentata per mobile */
+//    line-height: 1.6;           /* Più spazio tra le righe per leggere meglio */
+//  }
+// } */
 /* Aumenta il riquadro del grafo inline ovunque */
 .graph .graph-outer {
   height: 70vh !important;
@@ -41,7 +41,7 @@
 
 /* Mobile */
 /* Fix layout mobile per la colonna RIGHT */
-@media (max-width: 800px) {
+@media (max-width: 1200px) {
 
   .graph .graph-outer {
     height: 55vh !important;
