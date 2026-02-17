@@ -15,6 +15,7 @@ In un mondo di demolitori, chi sceglie di onorare il successo altrui dimostra di
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7429096256976646144?collapsed=1" height="900" width="350" frameborder="0" allowfullscreen="" title="Post incorporato"></iframe>
 
+
 <div class="iframe-container">
   <iframe 
     src="https://www.linkedin.com/embed/feed/update/urn:li:share:7429096256976646144?collapsed=1" 
