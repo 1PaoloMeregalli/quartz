@@ -31,4 +31,4 @@ Quali logiche vincono ? 
 ____
 Ho elaborato il mio pensiero su substack, a questo [link]( https://open.substack.com/pub/paolomeregalli/p/il-lusso-non-ha-fretta-o-forse-si?r=g65n4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
-<a href="https://paolomeregalli.substack.com/" style="background-color: #000; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 5px;"> Iscriviti al Substack </a>
+<a href="https://paolomeregalli.substack.com/" style="background-color: #9CC3D5; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 5px;"> Iscriviti al Substack </a>
