@@ -12,7 +12,7 @@ image:
 ---
 ![[Il mio pane.jpg]]
 
-Oggi parlando con un possibile cliente del mondo del lusso e cercando di leggere alcuni elementi di tendenze nel mondo del fashion ci siamo ricordati a vicenda che ci sono cose che richiedono un tempo di maturazione.
+Oggi, parlando con un possibile cliente del mondo del lusso, e cercando di leggere alcuni elementi di tendenze nel mondo del fashion ci siamo ricordati a vicenda che ci sono cose che richiedono un tempo di maturazione.
 
 Oggi ci siamo abituati ad una soglia di attenzione rovinata dai social che, nel momento in cui scrivo, è inferiore ai 10 secondi. Ti dicono che devi scrivere un buon "hook" perchè altrimenti le persone continuano a "scrollare" (anche se a me viene in mente altro) e che se non catturi l'attenzione nei primi due secondi allora hai perso il giro.
 ## ma davvero ?
