@@ -30,3 +30,5 @@ Quali logiche vincono ? 
   A contrapporsi a queste logiche è arrivato il #fastfashion (e in opposizione estrema lo #slowfashion) ... ma quanto è sostenibile per il pianeta, per l'essere umano questa visione ?
 ____
 Ho elaborato il mio pensiero su substack, a questo [link]( https://open.substack.com/pub/paolomeregalli/p/il-lusso-non-ha-fretta-o-forse-si?r=g65n4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+<a href="https://paolomeregalli.substack.com/" style="background-color: #000; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 5px;"> Iscriviti al Substack </a>
