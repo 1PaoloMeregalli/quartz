@@ -1,13 +1,13 @@
 ---
-title: A cosa pensi quando fai yoga?
+title: Il lusso non è fast (riflessioni sul tempo)
 date: 2026-04-01
 description: Riflessione sullo yoga
 tags:
-  - fashion
   - fastfashion
   - slowfashion
   - lusso
   - tempo
+  - fashion
 image:
 ---
 ![[Il mio pane.jpg]]
