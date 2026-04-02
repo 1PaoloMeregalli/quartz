@@ -28,8 +28,8 @@ Su [[Substack]] trovi invece approfondimenti più lineari e maturi, nati a volte
 
 Poi ci sono le [[Riflessioni]], la [[Vita]] oppure il [[Zettelkasten]].
 
-Se vuoi restare in contatto, trovi come fare in [[Restiamo in contatto]].  
-Se invece pensi che potremmo mettere a terra qualche idea oppure anche solo bere qualche birra insieme sull'onda di qualche riflessione che potrebbe cambiare il mondo, o anche solo accendere le nostre passioni, allora la pagina giusta è [[Progettiamo insieme]].
+Se vuoi restare in contatto, trovi come fare in [[Restiamo In Contatto]].  
+Se invece pensi che potremmo mettere a terra qualche idea oppure anche solo bere qualche birra insieme sull'onda di qualche riflessione che potrebbe cambiare il mondo, o anche solo accendere le nostre passioni, allora la pagina giusta è [[Progettiamo Insieme]].
 
 ## Esplora i sentieri del mio giardino
 
