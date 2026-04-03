@@ -11,7 +11,6 @@ socialImage: "[[PaoloMeregalli.jpg]]"
 Ciao, sono **Paolo Meregalli**.
 Questo è il mio [[Digital Garden]]: uno spazio vivo dove raccolgo note, riflessioni, intuizioni e collegamenti nati lungo il lavoro, i progetti, gli incontri e la vita quotidiana.
 
-
 > [!quote]**Un luogo dove semino idee e coltivo passioni.
 
 Mi occupo di automazione, processi, digitale, immagini e impresa. Nel tempo ho capito che le cose più interessanti nascono spesso nei punti di contatto tra mondi diversi. Qui provo a seguirli, senza forzarli dentro una forma, lasciando tutto molto fluido.
