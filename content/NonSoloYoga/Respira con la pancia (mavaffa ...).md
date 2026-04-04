@@ -61,7 +61,8 @@ Invece di pensare alla pancia, prova a visualizzare questo:
 
 
 > [!tip] Trucchetto (prova del 9):
-**Le mani sulle costole ** Metti le mani sui fianchi, proprio sopra le ultime costole. Invece di spingere in fuori la pancia, prova a **spingere le tue mani verso l'esterno** usando il respiro. Se le tue mani si allontanano lateralmente, stai usando il diaframma.
+> **Le mani sulle costole** Metti le mani sui fianchi, proprio sopra le ultime costole. Invece di spingere in fuori la pancia, prova a **spingere le tue mani verso l'esterno** usando il respiro.
+> Se le tue mani si allontanano lateralmente, stai usando il diaframma
 
 Alla fine era facile,
 **per respirare con il diaframma devi respirare con il diaframma, non con la pancia**
