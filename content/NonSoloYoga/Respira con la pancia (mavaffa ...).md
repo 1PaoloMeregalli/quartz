@@ -10,7 +10,7 @@ image: "[[candele.jpg]]"
 socialize_text:
   - Se almeno una volta lo hai sentito anche tu, forse hai già capito che non è proprio così
 ---
-## L'ho scoperto (solo) oggi
+## L'intuizione
 
 ma quante volte ho sentito a proprio della respirazione difarammatica per speigare come fare, la frase "respira con la pancia".
 E niente non ci sono mai riuscito, c'è semrpe stato qualche cosa che sentivo non essere giusto, una sensazione interna, e piu mi sofrzavo di respirare con la pancia e piu mi sentivo sbagliato.
