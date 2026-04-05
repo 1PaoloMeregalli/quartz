@@ -1,5 +1,5 @@
 ---
-title: ppinch - Digital Production per lo ed E-commerce
+title: "ppinch.com: L'ingegneria dietro l'immagine"
 categories:
   - Progetti
 tags:
