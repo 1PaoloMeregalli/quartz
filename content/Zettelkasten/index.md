@@ -45,3 +45,5 @@ Ogni nota è collegata ad altre note tramite dei link. Cliccando, potresti parti
 Buona esplorazione nel mio disordine organizzato.
 
 PS: alcune di queste idee sono i prodromi di post di approfondimento che invece finiscono sul [Substack](https://substack.com/@paolomeregalli)
+___
+
