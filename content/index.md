@@ -5,8 +5,9 @@ tags:
   - Multipotenziale
   - DigitalGarden
 description: Boosting Productivity with Technology | Ottimizzazione e robotica per Fashion, Food & Manufacturing. Founder 255.it & ppinch.com | Il mio Digital Garden
-socialDescription: "Il digital garden di Paolo Meregalli: pensieri e semi da far crescere"
+socialDescription: Boosting Productivity with Technology | Ottimizzazione e robotica per Fashion, Food & Manufacturing. Founder 255.it & ppinch.com | Il mio Digital Garden
 socialImage: "[[PaoloMeregalli.jpg]]"
+socialize_text:
 ---
 Ciao, sono **Paolo Meregalli**.
 Questo è il mio [[Digital Garden]]: uno spazio vivo dove raccolgo note, riflessioni, intuizioni e collegamenti nati lungo il lavoro, i progetti, gli incontri e la vita quotidiana.
