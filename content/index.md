@@ -9,19 +9,20 @@ socialDescription: Boosting Productivity with Technology | Ottimizzazione e robo
 socialImage: "[[PaoloMeregalli.jpg]]"
 socialize_text:
 ---
-## Questo è un [[Digital Garden]] non un sito tradizionale, attenzione, **genera dipendenza**
+## Questo è un [[Digital Garden]].
+#### Non un sito tradizionale, attenzione, **genera dipendenza**
 
-Un luogo dove raccolgo semi, note vive, riflessioni e collegamenti nati lungo il lavoro, i progetti, gli incontri ... lungo e la **vita**.
+Un luogo dove raccolgo semi, note vive, riflessioni e collegamenti nati dal lavoro, dai progetti, dagli incontri e dalla **vita**.
 
-> [!quote]**Un luogo dove semino idee e coltivo passioni.
+**Un luogo dove semino idee e coltivo passioni.
 
 Per capire meglio cosa muove questo spazio, puoi partire da [[Intro]], da [[Digital Garden]] o da [[Il filo conduttore]].
 
-Se preferisci entrare a gamba tesa, puoi iniziare da [[Riflessioni]], [[Vita]] o [[Zettelkasten]].
+**Se preferisci entrare a gamba tesa, puoi iniziare da [[Riflessioni]], [[Vita]] o [[Zettelkasten]].**
 
 Se vuoi restare in contatto, trovi come fare in [[Restiamo In Contatto]].  
 
-Se invece pensi che potremmo mettere a terra qualche idea oppure anche solo bere qualche birra insieme sull'onda di qualche riflessione che potrebbe cambiare il mondo, accendere  passioni, allora la pagina giusta è [[Progettiamo Insieme]].
+Se invece pensi che potremmo mettere a terra qualche idea, oppure anche solo bere una birra insieme sull’onda di una riflessione capace di cambiare il mondo o almeno di accendere qualche passione, allora la pagina giusta è [[Progettiamo Insieme]].
 
 ## Esplora i sentieri del mio giardino
 
