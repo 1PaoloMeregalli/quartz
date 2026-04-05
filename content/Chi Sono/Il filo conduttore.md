@@ -1,5 +1,7 @@
 ---
 date: 2026-04-04
+description: Per molto tempo le ho vissute come territori diversi. Poi, con gli anni, ho capito che il punto non era separarli meglio, ma osservare cosa succede quando si toccano.
+socialDescription: Per molto tempo le ho vissute come territori diversi. Poi, con gli anni, ho capito che il punto non era separarli meglio, ma osservare cosa succede quando si toccano.
 ---
 A prima vista le cose di cui mi occupo possono sembrare lontane tra loro.
 Automazione, ottimizzazione di processi, mondo digitale, immagini, impresa, mondo fashion e mondo food, fotografia, AI, ricette, yoga, meditazione ... 
