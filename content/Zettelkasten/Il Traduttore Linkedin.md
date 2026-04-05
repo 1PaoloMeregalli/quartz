@@ -1,6 +1,9 @@
 ---
 categories:
   - Zettelkasten
+tags:
+  - processi
+  - business
 ---
 # Il traduttore Linkedin
 
