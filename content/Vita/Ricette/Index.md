@@ -14,7 +14,7 @@ Durante il lockdown del Covid ho persino frequentato dei corsi di cucina "clande
 
 È stata una delle fortune più grandi che mi potessero capitare. Quei momenti hanno ribaltato completamente la mia percezione di cosa sia davvero una cucina professionale. A chi sa di esserci stato, va il mio grazie più profondo.
 
-Qui dentro pubblicherò le mie ricette. 
+Qui dentro pubblicherò le mie **ricette.**
 Nessuna presunzione di perfezione o di verità assoluta. Sono semplicemente la mia interpretazione, messa a punto dopo innumerevoli prove, test ed errori sul campo. 
 
 Nascono dallo studio su decine di libri, dalle basi rubate ai miei amici chef e da infinite serate di confronto attorno a un tavolo.
