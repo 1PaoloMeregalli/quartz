@@ -1,5 +1,5 @@
 ---
-title: Benvenuto
+title: Benvenuto nel mio digital garden
 tags:
   - PaoloMeregalli
   - Multipotenziale
@@ -28,5 +28,4 @@ Se invece pensi che potremmo mettere a terra qualche idea oppure anche solo bere
 > [!quote]**Tutte le cose sono collegate. Ciò che accade alla terra, accade ai figli della terra.**
 > Attribuita a Capo Seattle (Si'ahl)
 
-p
 ---
