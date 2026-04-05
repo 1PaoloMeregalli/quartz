@@ -2,23 +2,25 @@
 date: 2026-04-04
 ---
 A prima vista le cose di cui mi occupo possono sembrare lontane tra loro.
-Automazione, processi, digitale, immagini, impresa, appunti, osservazione, vita quotidiana.
+Automazione, ottimizzazione di processi, mondo digitale, immagini, impresa, mondo fashion e mondo food, fotografia, AI, ricette, yoga, meditazione ... 
 
-Per molto tempo le ho vissute come territori diversi. Poi, con gli anni, ho capito che il punto non era separarli meglio, ma osservare cosa succede quando si toccano.
+### Per molto tempo le ho vissute come territori diversi. Poi, con gli anni, ho capito che il punto non era separarli meglio, ma osservare cosa succede quando si toccano.
 
-Il mio filo conduttore è qui.
+**Il mio filo conduttore è qui.**
 
 Mi interessa capire come funzionano i sistemi.  
 Come si muovono le persone dentro i processi.  
 Come nasce il valore.  
 Come si progettano strumenti, relazioni e organizzazioni più chiare, più fluide, più efficaci.  
-E, possibilmente, anche più umane.
+E più umane.
 
-Cambio spesso contesto, ma la domanda resta quasi sempre la stessa:
+Sono innamorato della vita e dell'essere umano e dei suoi misteri.
 
-**come si progetta qualcosa che funzioni bene, abbia senso e resti vivo nel tempo?**
+### Cambio spesso contesto, ma non le domande, quelle sono quasi sempre le stesse.
 
-È una domanda che ritrovo in [[255HEC]], in [[ppinch]], nelle note del [[Digital Garden]], in certe [[Riflessioni]], in [[Zettelkasten]] e perfino nelle cose che finiscono in [[Vita]].
+E così trovo risposte e riflessioni mentre sono in [[255HEC]] oppure in [[ppinch]], mentre cucino o aspetto in una sala di attesa, mentre cerco di vivere la migliore vita possibile e di capire la mia missione su questa terra.
+
+nelle note del [[Digital Garden]], in certe [[Riflessioni]], in [[Zettelkasten]] e perfino nelle cose che finiscono in [[Vita]].
 
 Non mi interessa tenere insieme mondi diversi per il gusto di farlo.  
 Mi interessa far emergere il disegno che li attraversa.
