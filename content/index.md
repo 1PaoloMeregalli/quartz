@@ -24,8 +24,6 @@ Se vuoi restare in contatto, trovi come fare in [[Restiamo In Contatto]].
 
 Se invece pensi che potremmo mettere a terra qualche idea, oppure anche solo bere una birra insieme sull’onda di una riflessione capace di cambiare il mondo o almeno di accendere qualche passione, allora la pagina giusta è [[Progettiamo Insieme]].
 
-## Esplora i sentieri del mio giardino
-
 > [!quote]**Tutte le cose sono collegate. Ciò che accade alla terra, accade ai figli della terra.**
 > Attribuita a Capo Seattle (Si'ahl)
 
