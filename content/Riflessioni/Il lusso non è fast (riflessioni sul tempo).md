@@ -3,9 +3,6 @@ title: Il lusso non è fast (riflessioni sul tempo)
 date: 2026-04-01
 description: Riflessione sullo yoga
 tags:
-  - lusso
-  - tempo
-  - fashion
 image:
 categories:
   - Riflessioni
@@ -19,7 +16,7 @@ Oggi ci siamo abituati ad una soglia di attenzione rovinata dai social che, nel 
 
 Il lusso non è veloce, il lusso dura nel tempo, gli abiti iconici sono sempre attuali, sono sempre bellissimi. Un gioiello di lusso è sempre di moda.
 
-Spesso #fashion e #lusso sono usati come sinonimi ma la differenza è notevole: il lusso è esclusività, artigianato, durta nel tempo mentre il fashion (inteso come #moda) si basa sul principio della stagionalità, della accesibilità e della tendenza.
+Spesso fashion e lusso sono usati come sinonimi ma la differenza è notevole: il lusso è esclusività, artigianato, durta nel tempo mentre il fashion (inteso come moda) si basa sul principio della stagionalità, della accesibilità e della tendenza.
 
 Il lusso crea uno status, mantiene il porprio valore, quando addirittura non lo amplifica nel tempo.
 Il lusso è investimento mentre la moda è consumo.
@@ -27,7 +24,7 @@ Il lusso è investimento mentre la moda è consumo.
 Ma cosa accade che quando un abito, un oggetto di moda è anche un oggetto di lusso ?
 Quali logiche vincono ? 
 
-  A contrapporsi a queste logiche è arrivato il #fastfashion (e in opposizione estrema lo #slowfashion) ... ma quanto è sostenibile per il pianeta, per l'essere umano questa visione ?
+  A contrapporsi a queste logiche è arrivato il fast-fashion (e in opposizione estrema lo slow-fashion) ... ma quanto è sostenibile per il pianeta, per l'essere umano questa visione ?
 ____
 Ho elaborato il mio pensiero su substack, a questo [link]( https://open.substack.com/pub/paolomeregalli/p/il-lusso-non-ha-fretta-o-forse-si?r=g65n4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 

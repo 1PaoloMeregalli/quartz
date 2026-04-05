@@ -6,12 +6,6 @@ author: Paolo Meregalli
 post_image:
   - "[[LoganLaPlante.png]]"
 tags:
-  - education
-  - formazione
-  - PaoloMeregalli
-  - Multipotenziale
-  - happy
-  - DigitalGarden
 socialDescription: What do you wanna be when you grow up ? I wanna be happy !!!
 categories:
   - Riflessioni
