@@ -2,7 +2,6 @@
 title: Ing. Paolo Meregalli (chi sono)
 description: Boosting Productivity with Technology | Ottimizzazione e robotica per Fashion, Food & Manufacturing. Founder 255.it & ppinch.com | Il mio Digital Garden
 ---
-
 # Progetto sistemi, collego mondi, coltivo semi e senso
 
 In questo spazio convivono lavoro, ricerca, esperienze e domande nate lungo il mio percorso tra industria, tecnologia, immagini, pratica interiore e qualità della vita.

@@ -23,7 +23,7 @@ Lasciati trasportare da quell'energia sottile che collega tutto e tutti ... dall
 
 Poi se qualche cosa ti ha colpito allora [[Restiamo In Contatto]] oppure cominciamo a collaborare e [[Progettiamo Insieme]] qualche cosa.
 
-Un ultimo appunto, qui **non sei tu il prodotto**, abbiamo voluto alzare l'asticella del rispetto della tua [[privacy]].
+Un ultimo appunto, qui **non sei tu il prodotto**, abbiamo voluto alzare l'asticella del rispetto della tua [[Privacy]].
 Qui non troverai nessun banner di cookies o della classica informativa sulla privacy: semplicemente perchè, qui, non ce n'è bisogno.
 
 Se vuoi saperne di più su come ho deciso di proteggere la tua privacy, leggi [[Privacy]]

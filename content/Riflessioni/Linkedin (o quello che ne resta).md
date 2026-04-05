@@ -34,3 +34,5 @@ Ci sono perchè spero che anche il mio piccolo contributo possa in qualche modo 
 Mentre se vuoi connetterti e seguire le pagine di due dei miei [[Progetti]]  eccoti i link:
 * La pagina di **[[255.it]]** su [Linkedin](linkedin.com/company/255hec/)
 * La pagina di **[[ppinch.com]]** su [Linkedin](https://www.linkedin.com/company/ppinch/)
+
+Ma se vuoi farmi davvero felice, rimani in contatto con me attraverso [[Restiamo In Contatto]]
