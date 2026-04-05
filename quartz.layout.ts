@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import SubstackFeed from "./quartz/components/SubstackFeed"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -127,6 +128,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    SubstackFeed(),
   ],
 }
 // components for pages that display lists of pages  (e.g. tags or folders)
