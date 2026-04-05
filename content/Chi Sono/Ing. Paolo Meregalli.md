@@ -20,7 +20,7 @@ Parallelamente ho coltivato spazi di ricerca seguendo le mie passioni che, da **
 * Yoga
 * Meditazione
 * Ipnosi conversazionale
-* ...e chissà cosa c'è già nella mia testa ora che dovrei aggiungere.
+* ... e chissà cosa altro dovrei già aggiungere.
 ___
 ### Come faccio a raccontarlo in un CV?
 
