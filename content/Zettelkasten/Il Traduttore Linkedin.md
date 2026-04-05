@@ -1,3 +1,7 @@
+---
+categories:
+  - Zettelkasten
+---
 # Il traduttore Linkedin
 
 Se non lo hai ancora provato fallo subito !

@@ -1,10 +1,9 @@
 ---
 tags:
-  - PaoloMeregalli
-  - DigitalGarden
-  - Multipotenziale
 title: Il Digital Garden
 date: 2026-02-03
+categories:
+  - Home
 ---
 ## L’arte di coltivare il caos: perché un Giardino Digitale
 

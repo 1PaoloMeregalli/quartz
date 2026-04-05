@@ -1,3 +1,7 @@
+---
+categories:
+  - Home
+---
 
 Bhe, grazie anche solo per aver deciso di curiosare in questa pagina, significa che tra i diversi semi qualcuno ti ha incuriosito e forse vorresti capire se insieme potremmo prendercene cura meglio.
 

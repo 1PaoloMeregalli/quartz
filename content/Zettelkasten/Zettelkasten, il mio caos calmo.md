@@ -5,6 +5,8 @@ tags:
   - PaoloMeregalli
   - metodo
 socialDescription: La mia vita non è a compartimenti stagni...
+categories:
+  - Zettelkasten
 ---
 Se sei finito in questa sezione del [[Digital Garden]], probabilmente ti sei chiesto: **Zettelkasten che ?"**
 Letteralmente significa "scatola con i bigliettini".

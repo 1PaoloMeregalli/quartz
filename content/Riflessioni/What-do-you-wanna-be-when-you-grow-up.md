@@ -13,6 +13,8 @@ tags:
   - happy
   - DigitalGarden
 socialDescription: What do you wanna be when you grow up ? I wanna be happy !!!
+categories:
+  - Riflessioni
 ---
 Amazing 11 minutes video for my english speaking friends! Believe me, invest your next 11 minutes listening this 10 years old genius! Touching my heart and my brain! 
 ## I wanna be happy!!!

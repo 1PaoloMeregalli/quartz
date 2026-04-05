@@ -2,9 +2,8 @@
 title: Privacy & Trasparenza
 date: 2026-02-04
 tags:
-  - privacy
 categories:
-  - Paolo
+  - Home
 ---
 ## Note sulla Privacy (e sul perché non ti sto pedinando)
 

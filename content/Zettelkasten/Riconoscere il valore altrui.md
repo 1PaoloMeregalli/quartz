@@ -4,6 +4,8 @@ socialImage: "[[Federica Brignone 2026 Medaglia.jpeg]]"
 tags:
   - valori
 date: 2026-02-16
+categories:
+  - Zettelkasten
 ---
 ## C'è una luce immensa nel riconoscere il valore altrui. Celebrare l'altro senza temere per la propria ombra: ecco la vera lezione.
 

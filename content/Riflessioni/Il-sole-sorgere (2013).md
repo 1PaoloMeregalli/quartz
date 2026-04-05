@@ -6,6 +6,8 @@ author: Paolo Meregalli
 tags:
   - elisa
   - musica
+categories:
+  - Riflessioni
 ---
 ## Il sole sorgere
 

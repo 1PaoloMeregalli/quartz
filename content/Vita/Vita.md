@@ -1,3 +1,7 @@
+---
+categories:
+  - Vita
+---
 # Vita
 
 Ci sono le riflessioni, ci sono i progetti, i sistemi, e poi c'è semplicemente... la vita.

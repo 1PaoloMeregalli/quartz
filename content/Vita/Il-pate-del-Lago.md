@@ -5,6 +5,8 @@ author: Paolo Meregalli
 tags:
   - Antipasto
   - Ricette
+categories:
+  - Vita
 ---
 ## 3 generazioni di Patè
 

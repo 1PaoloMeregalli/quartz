@@ -5,6 +5,8 @@ tags:
   - health
 draft: "true"
 description:
+categories:
+  - Vita
 ---
 
 Piccole meditazioni. Progetto nato con  #19respiri in occasione del lockdown Covid19 per meditare in diretta tutti i giorni, restare uniti e riportare equilibrio. Dalla mindfulness, alle visualizzazioni, all'utilizzo delle metafore e della ipnosi.

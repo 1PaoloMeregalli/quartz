@@ -1,3 +1,7 @@
+---
+categories:
+  - Riflessioni
+---
 # Linkedin (o quello che ne resta)
 
 Cosa è diventato [LinkedIn](https://it.wikipedia.org/wiki/LinkedIn) negli ultimi anni penso sia sotto gli occhi di tutti.

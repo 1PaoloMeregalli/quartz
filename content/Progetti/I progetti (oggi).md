@@ -1,3 +1,7 @@
+---
+categories:
+  - Progetti
+---
 Ci sono idee che restano a lungo sotto forma di appunti, connessioni e intuizioni.  
 E poi ci sono idee che, a un certo punto, chiedono di prendere forma.
 
