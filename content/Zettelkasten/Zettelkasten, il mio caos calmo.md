@@ -6,7 +6,7 @@ tags:
   - metodo
 socialDescription: La mia vita non è a compartimenti stagni...
 ---
-Se sei finito in questa sezione del sito, probabilmente ti sei chiesto: **Zettelkasten che ?"**
+Se sei finito in questa sezione del [[Digital Garden]], probabilmente ti sei chiesto: **Zettelkasten che ?"**
 Letteralmente significa "scatola con i bigliettini".
 
 ### Perché ho bisogno di questa "scatola"?
@@ -16,7 +16,7 @@ Mentre cerco di capire un ciclo `for` in Python, magari sto pensando ai tempi di
 
 **Il problema:** Se tengo tutto separato, perdo le connessioni ... ma sopratutto **schiatto**
 
-### Cosa troverai qui dentro?
+### Cosa troverai in questa sezione?
 
 Questa non è la sezione degli articoli "belli e finiti".
 Questa è la mia officina. Qui trovi le **Note Atomiche**.
@@ -35,7 +35,7 @@ Qui dentro potresti trovare:
 Non c'è un ordine di lettura. È questo il bello.
 Lo Zettelkasten è fatto per **perdersi**.
 
-Ogni nota è collegata ad altre note tramite dei link. Cliccando, potresti partire da un concetto di informatica e finire su una riflessione filosofica, passando per una ricetta. È così che funziona la mia testa, ed è così che funziona questo sito.
+Ogni nota è collegata ad altre note tramite dei link. Cliccando, potresti partire da un concetto di informatica e finire su una riflessione filosofica, passando per una ricetta. È così che funziona la mia testa, ed è così che funziona un [[Digital Garden]].
 
 > [!warning] Attenzione: Lavori in corso
 > Molte di queste note sono bozze, pensieri a metà, frasi sgrammaticate scritte alle 2 di notte.
@@ -43,3 +43,5 @@ Ogni nota è collegata ad altre note tramite dei link. Cliccando, potresti parti
 
 È qui che le idee fanno amicizia.
 Buona esplorazione nel mio disordine organizzato.
+
+PS: alcune di queste idee sono i prodromi di post di approfondimento che invece finiscono sul [Substack](https://substack.com/@paolomeregalli)
