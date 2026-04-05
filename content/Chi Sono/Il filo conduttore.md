@@ -20,13 +20,10 @@ Sono innamorato della vita e dell'essere umano e dei suoi misteri.
 
 E così trovo risposte e riflessioni mentre sono in [[255HEC]] oppure in [[ppinch]], mentre cucino o aspetto in una sala di attesa, mentre cerco di vivere la migliore vita possibile e di capire la mia missione su questa terra.
 
-nelle note del [[Digital Garden]], in certe [[Riflessioni]], in [[Zettelkasten]] e perfino nelle cose che finiscono in [[Vita]].
-
-Non mi interessa tenere insieme mondi diversi per il gusto di farlo.  
-Mi interessa far emergere il disegno che li attraversa.
+#### Non mi interessa tenere insieme mondi diversi per il gusto di farlo. Mi interessa esplorare il disegno che li attraversa.
 
 Forse è questo, più di tutto, il mio filo conduttore:  
-cercare connessioni fertili tra ciò che sembra distante, e usarle per progettare meglio.
+cercare connessioni fertili tra ciò che sembra distante, e usarle.
 
 Se vuoi vedere dove questo filo prende forma concreta, puoi passare da [[Progetti]].  
 Se invece preferisci seguire il pensiero mentre cresce, puoi tornare al [[Digital Garden]].
