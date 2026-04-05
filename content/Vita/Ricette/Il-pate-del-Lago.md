@@ -3,7 +3,6 @@ title: Il Patè del Lago
 date: 2012-12-25T11:28:35+01:00
 author: Paolo Meregalli
 tags:
-  - Antipasto
   - Ricette
 categories:
   - Vita
