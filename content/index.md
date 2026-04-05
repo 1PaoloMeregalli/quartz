@@ -2,7 +2,6 @@
 title: Benvenuto nel mio digital garden
 tags:
 description: Boosting Productivity with Technology | Ottimizzazione e robotica per Fashion, Food & Manufacturing. Founder 255.it & ppinch.com | Il mio Digital Garden
-socialDescription: Boosting Productivity with Technology | Ottimizzazione e robotica per Fashion, Food & Manufacturing. Founder 255.it & ppinch.com | Il mio Digital Garden
 socialImage: "[[PaoloMeregalli.jpg]]"
 socialize_text:
 categories:
@@ -17,7 +16,7 @@ Un luogo dove raccolgo semi, note vive, riflessioni e collegamenti nati dal lavo
 
 Per capire meglio cosa muove questo spazio, puoi partire da [[Intro]], da [[Digital Garden]] o da [[Il filo conduttore]].
 
-**Se preferisci entrare a gamba tesa, puoi iniziare da [[Riflessioni]], [[Vita]] o [[Zettelkasten]].**
+**Se preferisci entrare a gamba tesa, puoi iniziare da [[Riflessioni]], [[Vita/index]] o [[Zettelkasten]].**
 
 Se vuoi restare in contatto, trovi come fare in [[Restiamo In Contatto]].  
 

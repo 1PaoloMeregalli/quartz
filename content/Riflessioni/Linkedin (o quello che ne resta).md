@@ -1,6 +1,9 @@
 ---
 categories:
   - Riflessioni
+tags:
+  - digitale
+  - business
 ---
 # Linkedin (o quello che ne resta)
 

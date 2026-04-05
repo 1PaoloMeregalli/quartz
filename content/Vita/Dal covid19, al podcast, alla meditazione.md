@@ -1,8 +1,5 @@
 ---
 tags:
-  - NonSoloYoga_Podcast
-  - 19respiri
-  - health
 draft: "true"
 description:
 categories:

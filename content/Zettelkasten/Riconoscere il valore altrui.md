@@ -2,7 +2,6 @@
 description: "C'è una luce immensa nel riconoscere il valore altrui. Celebrare l'altro senza temere per la propria ombra: ecco la vera lezione.Ricordo di aver sentito una frase da un formatore che piu o meno recitava:\"Ci sono solo due modi per ..."
 socialImage: "[[Federica Brignone 2026 Medaglia.jpeg]]"
 tags:
-  - valori
 date: 2026-02-16
 categories:
   - Zettelkasten

@@ -2,8 +2,6 @@
 title: Zettelkasten, il mio caos calmo
 date: 2026-02-06
 tags:
-  - PaoloMeregalli
-  - metodo
 socialDescription: La mia vita non è a compartimenti stagni...
 categories:
   - Zettelkasten
