@@ -1,6 +1,7 @@
 ---
 categories:
   - Vita
+title: Le mie ricette
 ---
 # La mia ossessione per la cucina (e le ricette clandestine)
 
