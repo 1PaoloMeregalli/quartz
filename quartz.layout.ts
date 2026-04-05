@@ -8,6 +8,7 @@ export const sharedPageComponents: SharedLayout = {
 //  afterBody: [],
 //CORREZIONE MIA E IL PRECEDNETE AFETRBODY LHO SPENTO IO
 afterBody: [
+/*
 // Grafico Grande: VISIBILE SOLO IN HOME
     Component.ConditionalRender({
       component: Component.Graph({
@@ -44,13 +45,13 @@ afterBody: [
       // condition: (_) => true, // da inserire se voglio che compaia su tuttte le pagine
       condition: (page) => page.fileData.slug === "index",
     }),
-
+  */
 
     // --- LISTA ARTICOLI RECENTI (Solo in Home) ---
     Component.ConditionalRender({
       component: Component.RecentNotes({ 
         title: "Ultimi Aggiornamenti", 
-        limit: 3,
+        limit: 5,
         showTags: true
       }),
       // condition: (_) => true,
