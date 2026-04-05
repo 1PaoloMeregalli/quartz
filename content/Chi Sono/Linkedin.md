@@ -23,10 +23,16 @@ Sperimento, anche lì, sì.
 
 <div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="paolomeregalli" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/paolomeregalli?trk=profile-badge">Paolo Meregalli</a></div>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="paolomeregalli" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/paolomeregalli?trk=profile-badge">Paolo Meregalli</a>
+</div>
+
 Se vuoi connetterti con me ed evitare i messaggi automatici, mi trovi qui:
 * [Il mio profilo personale Linkedin]
-* La pagina di **[[255HEC]]** su [Linkedin]
-* La pagina di **[[ppinch]]** su [Linkedin]
+* La pagina di **[[255.it]]** su [Linkedin](linkedin.com/company/255hec/)
+* La pagina di **[[ppinch.com]]** su [Linkedin](https://www.linkedin.com/company/ppinch/)
 
 Ci sono perchè spero che qualcuno possa ancora usare LinkedIn nel modo giusto: con professionalità, con il sorriso e la giusta leggerezza, per creare nuove e vere opportunità.
 Ci sono perchè spero che anche il mio piccolo contributo possa in qualche modo migliorare una piattaforma che ha perso di vista il vero suo scopo.
