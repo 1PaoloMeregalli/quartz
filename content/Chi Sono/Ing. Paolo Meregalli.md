@@ -22,7 +22,7 @@ Parallelamente ho coltivato spazi di ricerca seguendo le mie passioni che, da #M
 Come faccio a raccontarlo in un [[CV]] ?
 Un percorso che non è mai **lineare**, ma che mi permette di vedere e trovare soluzioni che non sono immediate, che non sono così visibili.
 
-## I mondi che cerco di collegare
+## I mondi che cerco di integrare
 
 ### **Automazione e innovazione industriale**
 
