@@ -1,0 +1,63 @@
+.share-buttons {
+  margin-top: 2rem;
+}
+
+.share-buttons-label {
+  margin: 0 0 0.9rem 0;
+  color: var(--gray);
+  font-family: var(--bodyFont);
+  font-size: 0.98rem;
+  line-height: 1.5;
+}
+
+.share-buttons-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+a.share-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.6rem;
+  padding: 0.7rem 1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 0.8rem;
+  background-color: color-mix(in srgb, var(--light) 92%, var(--highlight) 8%);
+  color: var(--dark);
+  font-family: var(--bodyFont);
+  font-size: 0.98rem;
+  font-weight: 600;
+  line-height: 1;
+  text-decoration: none;
+  box-shadow: none;
+  transition:
+    background-color 0.2s ease,
+    border-color 0.2s ease,
+    color 0.2s ease,
+    transform 0.15s ease;
+}
+
+a.share-button:hover {
+  background-color: color-mix(in srgb, var(--light) 84%, var(--highlight) 16%);
+  border-color: color-mix(in srgb, var(--secondary) 28%, var(--lightgray) 72%);
+  color: var(--secondary);
+  transform: translateY(-1px);
+}
+
+a.share-button:active {
+  transform: translateY(0);
+}
+
+@media (max-width: 750px) {
+  .share-buttons-actions {
+    gap: 0.6rem;
+  }
+
+  a.share-button {
+    min-height: 2.45rem;
+    padding: 0.65rem 0.9rem;
+    font-size: 0.95rem;
+  }
+}
