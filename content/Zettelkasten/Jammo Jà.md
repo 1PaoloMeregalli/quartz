@@ -4,7 +4,9 @@ date: 2026-04-06
 categories:
   - Zettelkasten
 tags:
-  - business
+  - persone
+  - bias
+  - lavoro
 ---
 # Quando l'accento ti può fregare
 

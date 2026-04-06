@@ -56,3 +56,34 @@ Questa è la lista blindata. Se stai scrivendo un post e ti viene la tentazione 
 - `#immagini` (Elaborazione visiva, rendering, CGI)
 - `#python`
 - 
+
+# Proposta finale pronta da usare
+
+## Categorie definitive
+
+- Chi Sono
+- Progetti
+- Riflessioni
+- Substack
+- Vita
+- Zettelkasten
+
+## Tag definitivi
+
+### Professionali
+
+- `#automazione`
+- `#processi`
+- `#sistemi`
+- `#digitale`
+- `#immagini`
+- `#ecommerce`
+- `#business`
+- `#tracciabilita`
+
+### Umano-riflessivi
+
+- `#lavoro`
+- `#persone`
+- `#bias`
+- `#linguaggio`
