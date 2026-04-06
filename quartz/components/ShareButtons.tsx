@@ -3,20 +3,12 @@ import styles from "./styles/shareButtons.scss"
 
 export default (() => {
   function ShareButtons(props: QuartzComponentProps) {
-    const title =
-      props.fileData.frontmatter?.title ??
-      props.fileData.slug ??
-      props.cfg.pageTitle
-
     const baseUrl = `https://${props.cfg.baseUrl}`
     const slug = props.fileData.slug === "index" ? "" : `/${props.fileData.slug}`
     const url = `${baseUrl}${slug}`
-
     const encodedUrl = encodeURIComponent(url)
-    const encodedTitle = encodeURIComponent(title)
 
     const linkedinUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`
-    const twitterUrl = `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`
 
     return (
       <section class="share-buttons">
@@ -33,16 +25,55 @@ export default (() => {
             LinkedIn
           </a>
 
-          <a
-            class="share-button"
-            href={twitterUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Condividi su X"
+          <button
+            class="share-button share-button-copy"
+            type="button"
+            data-share-url={url}
+            aria-label="Copia il link della pagina"
           >
-            X
-          </a>
+            Copia link
+          </button>
         </div>
+
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              document.addEventListener("click", async function (event) {
+                const target = event.target;
+                if (!(target instanceof Element)) return;
+
+                const button = target.closest(".share-button-copy");
+                if (!(button instanceof HTMLButtonElement)) return;
+
+                const url = button.getAttribute("data-share-url") || window.location.href;
+                const originalText = button.textContent || "Copia link";
+
+                try {
+                  if (navigator.clipboard && window.isSecureContext) {
+                    await navigator.clipboard.writeText(url);
+                  } else {
+                    const input = document.createElement("input");
+                    input.value = url;
+                    document.body.appendChild(input);
+                    input.select();
+                    document.execCommand("copy");
+                    input.remove();
+                  }
+
+                  button.textContent = "Copiato";
+                  window.setTimeout(() => {
+                    button.textContent = originalText;
+                  }, 1400);
+                } catch {
+                  button.textContent = "Errore";
+                  window.setTimeout(() => {
+                    button.textContent = originalText;
+                  }, 1400);
+                }
+              });
+            `,
+          }}
+        />
       </section>
     )
   }
