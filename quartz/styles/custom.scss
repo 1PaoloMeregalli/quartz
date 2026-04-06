@@ -3,6 +3,25 @@
 /* Mantieni il sito il più vicino possibile ai default di Quartz.
    Qui sotto restano solo le personalizzazioni davvero utili. */
 
+/* ===== Link inline più sobri ===== */
+
+article a.internal {
+  background-color: color-mix(in srgb, var(--highlight) 45%, transparent);
+  padding: 0 0.04rem;
+  border-radius: 3px;
+  line-height: inherit;
+}
+
+article a.internal:hover {
+  background-color: color-mix(in srgb, var(--highlight) 30%, transparent);
+}
+
+article a.internal:has(> img) {
+  background-color: transparent;
+  padding: 0;
+  border-radius: 0;
+}
+
 /* ===== Grafo ===== */
 
 .graph {
