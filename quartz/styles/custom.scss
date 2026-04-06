@@ -1,4 +1,25 @@
-/* ===== Callout: seconda finitura, con dark mode leggibile ===== */
+@use "./base.scss";
+
+/* ===== Link inline più sobri ===== */
+
+article a.internal {
+  background-color: color-mix(in srgb, var(--highlight) 45%, transparent);
+  padding: 0 0.04rem;
+  border-radius: 3px;
+  line-height: inherit;
+}
+
+article a.internal:hover {
+  background-color: color-mix(in srgb, var(--highlight) 30%, transparent);
+}
+
+article a.internal:has(> img) {
+  background-color: transparent;
+  padding: 0;
+  border-radius: 0;
+}
+
+/* ===== Callout: seconda finitura ===== */
 
 .callout {
   border-radius: 0.9rem;
@@ -46,8 +67,6 @@
 .callout[data-callout] .callout-icon svg {
   color: var(--callout-accent);
 }
-
-/* ===== Light mode ===== */
 
 /* Info / Note / Todo */
 .callout[data-callout="info"],
@@ -118,84 +137,52 @@
   border-color: color-mix(in srgb, #8a857e 12%, white);
 }
 
-/* ===== Dark mode ===== */
+/* ===== Grafo ===== */
 
-html[saved-theme="dark"] .callout {
-  border-color: color-mix(in srgb, var(--lightgray) 92%, black);
+.graph {
+  margin: 2rem 0;
+  width: 100%;
 }
 
-html[saved-theme="dark"] .callout .callout-content {
-  color: var(--darkgray);
+.graph .graph-outer {
+  position: relative;
+  width: 100% !important;
+  height: 70vh !important;
+  min-height: 500px;
 }
 
-/* Info / Note / Todo */
-html[saved-theme="dark"] .callout[data-callout="info"],
-html[saved-theme="dark"] .callout[data-callout="note"],
-html[saved-theme="dark"] .callout[data-callout="todo"] {
-  --callout-accent: #a9c3df;
-  background-color: #1f2831;
-  border-color: #314354;
+.graph .graph-outer canvas,
+.graph .graph-outer svg {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
 }
 
-/* Abstract / Summary / TLDR / Tip */
-html[saved-theme="dark"] .callout[data-callout="abstract"],
-html[saved-theme="dark"] .callout[data-callout="summary"],
-html[saved-theme="dark"] .callout[data-callout="tldr"],
-html[saved-theme="dark"] .callout[data-callout="tip"],
-html[saved-theme="dark"] .callout[data-callout="hint"],
-html[saved-theme="dark"] .callout[data-callout="important"] {
-  --callout-accent: #aed2c2;
-  background-color: #1d2824;
-  border-color: #2f433b;
+/* Grafo nella colonna destra su desktop */
+.right .graph .graph-outer {
+  height: auto !important;
+  aspect-ratio: 1 / 1;
+  min-height: 250px;
+  max-height: 250px;
 }
 
-/* Success */
-html[saved-theme="dark"] .callout[data-callout="success"],
-html[saved-theme="dark"] .callout[data-callout="check"],
-html[saved-theme="dark"] .callout[data-callout="done"] {
-  --callout-accent: #b8d3a8;
-  background-color: #1f281d;
-  border-color: #334330;
+/* ===== Iframe responsive ===== */
+
+.iframe-container {
+  position: relative;
+  width: 100%;
+  max-width: 404px;
+  margin: 0 auto;
 }
 
-/* Question / Warning */
-html[saved-theme="dark"] .callout[data-callout="question"],
-html[saved-theme="dark"] .callout[data-callout="help"],
-html[saved-theme="dark"] .callout[data-callout="faq"],
-html[saved-theme="dark"] .callout[data-callout="warning"],
-html[saved-theme="dark"] .callout[data-callout="attention"],
-html[saved-theme="dark"] .callout[data-callout="caution"] {
-  --callout-accent: #e0b892;
-  background-color: #2d231d;
-  border-color: #4b372c;
+.responsive-iframe {
+  display: block;
+  width: 100%;
+  height: 900px;
+  border: 0;
 }
 
-/* Failure / Danger / Bug */
-html[saved-theme="dark"] .callout[data-callout="failure"],
-html[saved-theme="dark"] .callout[data-callout="missing"],
-html[saved-theme="dark"] .callout[data-callout="fail"],
-html[saved-theme="dark"] .callout[data-callout="danger"],
-html[saved-theme="dark"] .callout[data-callout="error"],
-html[saved-theme="dark"] .callout[data-callout="bug"] {
-  --callout-accent: #dfafb5;
-  background-color: #2d1f22;
-  border-color: #4b3137;
-}
-
-/* Example */
-html[saved-theme="dark"] .callout[data-callout="example"] {
-  --callout-accent: #c4b5e2;
-  background-color: #262130;
-  border-color: #3d3450;
-}
-
-/* Quote */
-html[saved-theme="dark"] .callout[data-callout="quote"],
-html[saved-theme="dark"] .callout[data-callout="cite"] {
-  --callout-accent: #c7c1b8;
-  background-color: #252321;
-  border-color: #3a3632;
-}
+/* ===== Mobile ===== */
 
 @media (max-width: 750px) {
   .callout {
@@ -208,5 +195,40 @@ html[saved-theme="dark"] .callout[data-callout="cite"] {
 
   .callout .callout-content {
     padding: 0.3rem 0.95rem 0.9rem 0.95rem;
+  }
+
+  .graph .graph-outer {
+    height: 55vh !important;
+    min-height: 0;
+  }
+
+  .right {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+  }
+
+  .right .graph {
+    width: 100% !important;
+    margin-bottom: 2rem;
+  }
+
+  .right .graph .graph-outer {
+    width: 100% !important;
+    height: 50vh !important;
+    min-height: 0;
+    max-height: none;
+  }
+
+  .right .backlinks,
+  .right .toc {
+    width: 100% !important;
+    margin-bottom: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .responsive-iframe {
+    height: 700px;
   }
 }
