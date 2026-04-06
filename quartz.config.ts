@@ -53,6 +53,39 @@ const config: QuartzConfig = {
     },
   },
 },
+    /* theme: {
+      fontOrigin: "googleFonts",
+      cdnCaching: true,
+      typography: {
+       title: "Schibsted Grotesk",
+       header: "Schibsted Grotesk",
+       body: "Source Sans Pro",
+       code: "IBM Plex Mono",
+     },
+     colors: {
+      lightMode: {
+       light: "#FCFBF7",
+       lightgray: "#E8E3D8",
+       gray: "#98A49B",
+       darkgray: "#2A312F",
+       dark: "#52627B",
+       secondary: "#B15A41",
+       tertiary: "#5C7A6B",
+       highlight: "rgba(236, 191, 128, 0.16)",
+       textHighlight: "#DCEB9266",
+       },
+      darkMode: {
+       light: "#181B1A",
+       lightgray: "#2D3431",
+       gray: "#93A097",
+       darkgray: "#DCE1DA",
+       dark: "#F7F4EE",
+       secondary: "#E4AB73",
+       tertiary: "#90B9A8",
+       highlight: "rgba(228, 171, 115, 0.15)",
+       textHighlight: "#DCEB9255",
+      },
+    },*/
    },
   },
   plugins: {
