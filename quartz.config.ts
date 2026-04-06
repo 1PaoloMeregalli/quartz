@@ -32,7 +32,7 @@ const config: QuartzConfig = {
         body: "Source Sans Pro",
         code: "IBM Plex Mono", */
       },
-      colors: {
+      /* colors: {
         lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
@@ -54,6 +54,30 @@ const config: QuartzConfig = {
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
+        },
+      },*/
+      colors: {
+        lightMode: {
+          light: "#FDFDFD", // Spazio e silenzio (255)
+          lightgray: "#E0E4E2", // Bordi discreti
+          gray: "#A0ABA4", // Grigio 255 per il grafo
+          darkgray: "#323534", // Nero 255 per il corpo del testo (Leggibilità)
+          dark: "#485470", // Indaco (Non Solo Yoga) per i Titoli
+          secondary: "#EB5046", // Rosso 255 per i Link (Azione)
+          tertiary: "#FF1E89", // Rosa Fluo (ppinch) per l'interazione
+          highlight: "rgba(194, 178, 250, 0.15)", // Accenno Lilla per i blocchi
+          textHighlight: "#D8F87088", // Verde Acido (ppinch) per evidenziare
+        },
+        darkMode: {
+          light: "#1E201F", // Il tuo Nero 255 come sfondo profondo
+          lightgray: "#323534", 
+          gray: "#A0ABA4", 
+          darkgray: "#D4D9D6", 
+          dark: "#FDFDFD", 
+          secondary: "#D8F870", // In dark mode, il Verde Acido diventa il colore dei link (massimo contrasto)
+          tertiary: "#FF1E89", // Rosa Fluo per l'hover
+          highlight: "rgba(235, 80, 70, 0.15)", // Rosso 255 in trasparenza
+          textHighlight: "#48547088", // Indaco come evidenziatore
         },
       },
     },
