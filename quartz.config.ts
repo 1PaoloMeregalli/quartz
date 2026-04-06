@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Ing. Paolo  Meregalli",
-    pageTitleSuffix: "| Paolo Meregalli",
+    pageTitleSuffix: " | Paolo Meregalli",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -22,6 +22,7 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
+      cdnCaching: true,
       typography: {
        title: "Schibsted Grotesk",
        header: "Schibsted Grotesk",
