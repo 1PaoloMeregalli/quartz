@@ -57,29 +57,29 @@ const config: QuartzConfig = {
         },
       },*/
       colors: {
-        lightMode: {
-          light: "#FCFCFA", // Un bianco impercettibilmente più caldo (quasi carta), meno clinico del bianco puro FDFDFD.
-          lightgray: "#E5E5E5", 
-          gray: "#A0ABA4", // Grigio 255 per le connessioni del grafo.
-          darkgray: "#2B2D2C", // Un nero/grigio profondissimo per il testo. Alta leggibilità, zero affaticamento.
-          dark: "#485470", // IL TERZO OCCHIO (Indaco). I titoli dei tuoi post invitano alla riflessione profonda.
-          secondary: "#EB5046", // LA RADICE (Rosso 255). Il tuo nome e i tuoi link tornano a pulsare di energia e pragmatismo.
-          tertiary: "#485470", // Quando passi il mouse su un link rosso, diventa Indaco: dall'azione alla riflessione.
-          highlight: "rgba(255, 201, 130, 0.15)", // IL CALORE (Salmone). Lo sfondo dei tag e della pagina attiva nel menu. Smorza l'aggressività del rosso creando un contrasto accogliente e organico.
-          textHighlight: "#D8F87088", // LA CREATIVITÀ (Verde ppinch). Per l'evidenziatore di testo: la scintilla di caos creativo.
+       lightMode: {
+         light: "#FAF7F1",        // carta calda, silenziosa, accogliente
+         lightgray: "#E6DFD2",    // bordi, separatori, UI soft
+         gray: "#92A095",         // grafo, metadati, elementi secondari
+         darkgray: "#27302C",     // testo principale: profondo ma non duro
+         dark: "#4E5D75",         // titoli, struttura, pensiero, profondità
+         secondary: "#A95038",    // terracotta viva: presenza umana, energia gentile
+         tertiary: "#4F7265",     // salvia profonda: hover, link secondari, respiro organico
+         highlight: "rgba(232, 185, 119, 0.18)", // albicocca morbida per tag/menu attivo
+         textHighlight: "#DDEB8A66", // evidenziatore vivo ma naturale, meno neon
         },
-        darkMode: {
-          light: "#1A1C1B", // Fondo scuro, radicato e silenzioso.
-          lightgray: "#323534", 
-          gray: "#A0ABA4", 
-          darkgray: "#D4D9D6", 
-          dark: "#FDFDFD", 
-          secondary: "#ffc982", // Nel tema scuro il rosso "spacca" troppo gli occhi. Usiamo il Salmone: caldo, creativo e molto leggibile.
-          tertiary: "#85C7AD", // Acquamarina per le interazioni.
-          highlight: "rgba(255, 201, 130, 0.15)", 
-          textHighlight: "#D8F87088", 
+       darkMode: {
+        light: "#171A19",        // fondo scuro bosco-notte
+        lightgray: "#2C3330",    // separatori e superfici secondarie
+        gray: "#8F9E95",         // grafo e metadata
+        darkgray: "#D9DED7",     // testo principale
+        dark: "#F6F3EC",         // titoli chiari, caldi, non bianchi puri
+        secondary: "#E2A56B",    // terracotta illuminata / albicocca cotta
+        tertiary: "#8AB7A4",     // salvia luminosa per hover e interazioni
+        highlight: "rgba(226, 165, 107, 0.16)",
+        textHighlight: "#DDEB8A55",
         },
-      },
+     },
     },
   },
   plugins: {
