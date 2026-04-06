@@ -130,8 +130,27 @@ article a.internal:has(> img) {
 }
 
 /* Quote */
-/* ===== Fix callout in dark mode: solo contrasto testo/sfondo ===== */
 
+/* Quote */
+.callout[data-callout="quote"],
+.callout[data-callout="cite"] {
+  --callout-accent: #8c857b; /* Un colore neutro/caldo per le citazioni */
+  background-color: #f4f2f0;
+  border-color: color-mix(in srgb, #8c857b 14%, white);
+}
+
+// Inizio modifica per contrasto con dark mode
+/* ===== Fix callout in dark mode ===== */
+
+/* 1. Applichiamo uno sfondo scuro e coerente a TUTTI i callout in dark mode, 
+      basato automaticamente sul loro colore di accento. */
+html[saved-theme="dark"] .callout {
+  background-color: color-mix(in srgb, var(--callout-accent) 15%, transparent);
+  border-color: color-mix(in srgb, var(--callout-accent) 30%, transparent);
+}
+
+/* 2. Rimuoviamo la forzatura del grigio scuro e lasciamo che il testo 
+      erediti il colore chiaro naturale del tuo tema dark. */
 html[saved-theme="dark"] .callout .callout-content,
 html[saved-theme="dark"] .callout .callout-content p,
 html[saved-theme="dark"] .callout .callout-content li,
@@ -140,9 +159,10 @@ html[saved-theme="dark"] .callout .callout-content ol,
 html[saved-theme="dark"] .callout .callout-content strong,
 html[saved-theme="dark"] .callout .callout-content em,
 html[saved-theme="dark"] .callout .callout-content blockquote {
-  color: #2b2d2c;
+  color: inherit; 
 }
 
+/* 3. Manteniamo le tue ottime ridefinizioni dei colori di accento */
 html[saved-theme="dark"] .callout[data-callout="info"],
 html[saved-theme="dark"] .callout[data-callout="note"],
 html[saved-theme="dark"] .callout[data-callout="todo"] {
@@ -188,8 +208,10 @@ html[saved-theme="dark"] .callout[data-callout="example"] {
 
 html[saved-theme="dark"] .callout[data-callout="quote"],
 html[saved-theme="dark"] .callout[data-callout="cite"] {
-  --callout-accent: #5f5a53;
+  --callout-accent: #8c857b;
 }
+
+// fine modifica per contrasto con dark mode
 
 
 /* ===== Grafo ===== */
