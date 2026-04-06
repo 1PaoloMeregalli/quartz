@@ -22,6 +22,107 @@ article a.internal:has(> img) {
   border-radius: 0;
 }
 
+/* ===== Callout più coerenti con il digital garden ===== */
+
+.callout {
+  border-radius: 0.95rem;
+  border: 1px solid var(--lightgray);
+  box-shadow: none;
+}
+
+/* Stile base titolo e contenuto */
+.callout .callout-title {
+  font-weight: 700;
+}
+
+.callout .callout-title-inner {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.callout .callout-content {
+  color: var(--darkgray);
+}
+
+/* Applica il colore del tipo a titolo e icona */
+.callout[data-callout] .callout-title,
+.callout[data-callout] .callout-title-inner,
+.callout[data-callout] .callout-icon,
+.callout[data-callout] .callout-icon svg {
+  color: var(--callout-accent);
+}
+
+/* ===== Famiglie cromatiche ===== */
+
+/* Info / Note / Todo */
+.callout[data-callout="info"],
+.callout[data-callout="note"],
+.callout[data-callout="todo"] {
+  --callout-accent: #4f6782;
+  background-color: #eef3f7;
+  border-color: color-mix(in srgb, #4f6782 16%, white);
+}
+
+/* Abstract / Summary / TLDR / Tip */
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"],
+.callout[data-callout="tip"],
+.callout[data-callout="hint"],
+.callout[data-callout="important"] {
+  --callout-accent: #5d7a6e;
+  background-color: #eef5f1;
+  border-color: color-mix(in srgb, #5d7a6e 16%, white);
+}
+
+/* Success */
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"] {
+  --callout-accent: #5f7a5d;
+  background-color: #eff5ee;
+  border-color: color-mix(in srgb, #5f7a5d 16%, white);
+}
+
+/* Question / Warning */
+.callout[data-callout="question"],
+.callout[data-callout="help"],
+.callout[data-callout="faq"],
+.callout[data-callout="warning"],
+.callout[data-callout="attention"],
+.callout[data-callout="caution"] {
+  --callout-accent: #a56a43;
+  background-color: #f8f1ea;
+  border-color: color-mix(in srgb, #a56a43 16%, white);
+}
+
+/* Failure / Danger / Bug */
+.callout[data-callout="failure"],
+.callout[data-callout="missing"],
+.callout[data-callout="fail"],
+.callout[data-callout="danger"],
+.callout[data-callout="error"],
+.callout[data-callout="bug"] {
+  --callout-accent: #a8646a;
+  background-color: #f7edef;
+  border-color: color-mix(in srgb, #a8646a 16%, white);
+}
+
+/* Example */
+.callout[data-callout="example"] {
+  --callout-accent: #7a6a9b;
+  background-color: #f1eef7;
+  border-color: color-mix(in srgb, #7a6a9b 16%, white);
+}
+
+/* Quote */
+.callout[data-callout="quote"],
+.callout[data-callout="cite"] {
+  --callout-accent: #8a857e;
+  background-color: #f3f1ed;
+  border-color: color-mix(in srgb, #8a857e 14%, white);
+}
+
 /* ===== Grafo ===== */
 
 .graph {
