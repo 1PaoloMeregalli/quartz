@@ -15,4 +15,4 @@ Appunti laterali della vita di tutti i giorni: la ricetta per un buon impasto ch
 Sono i pensieri che nascono quando il bombardamento mediatico per qualche ragione non copre tutte le voci, tutti i respiri.
 ### Forse è l'angolo più informale di tutto il Digital Garden, ma in fondo è proprio da questa terra che prende nutrimento tutto il resto.
 
-Parti da qui per perderti nei miei percorsi [[Vita/index]]
+Parti da qui per perderti nei miei percorsi.

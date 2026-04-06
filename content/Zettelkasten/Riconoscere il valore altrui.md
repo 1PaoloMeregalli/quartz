@@ -24,5 +24,3 @@ In un mondo di demolitori, chi sceglie di onorare il successo altrui dimostra di
     title="Post incorporato">
   </iframe>
 </div>
-
-

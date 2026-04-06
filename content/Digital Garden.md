@@ -39,5 +39,3 @@ E per chi preferisce la voce scritta a quella letta, suggerisco l'ascolto del **
 
 >[!warning] Entrate pure, fate attenzione a dove mettete i piedi; fate attenzione ai semi, e perdonate il disordine: qui si sta ancora lavorando.
 > C'è profumo di terra, di umidità, ci sono mani sporche e il silenzio ed il tempo di cui hanno bisogno in natura le cose belle per crescere.
->
-

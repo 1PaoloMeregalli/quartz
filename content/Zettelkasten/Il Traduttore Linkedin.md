@@ -17,7 +17,6 @@ Puoi giocare qui con il traduttore di Kagi, l'identificatore di questo linguaggi
 Così un messaggio del genere:
 > [!warning] "ho mandato a quel paese un fornitore"
 
-Si trasforma nella lingua di #linkedin in
+Si trasforma nella lingua di **Linkedin** in
 
 > [!success] "Oggi ho preso la difficile decisione di interrompere la collaborazione con un fornitore per allinearmi meglio alla nostra visione strategica a lungo termine e mantenere il nostro impegno per l'eccellenza. A volte, la leadership significa stabilire dei limiti ben precisi per proteggere la cultura del team e gli standard operativi. \#Leadership \#MentalitàDiCrescita \#TrasformazioneAziendale
-
