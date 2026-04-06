@@ -191,6 +191,58 @@ html[saved-theme="dark"] .callout[data-callout="cite"] {
   --callout-accent: #6f6a63;
 }
 
+html[saved-theme="dark"] .callout .callout-content {
+  color: #2b2d2c;
+}
+
+html[saved-theme="dark"] .callout[data-callout="info"],
+html[saved-theme="dark"] .callout[data-callout="note"],
+html[saved-theme="dark"] .callout[data-callout="todo"] {
+  --callout-accent: #3f5873;
+}
+
+html[saved-theme="dark"] .callout[data-callout="abstract"],
+html[saved-theme="dark"] .callout[data-callout="summary"],
+html[saved-theme="dark"] .callout[data-callout="tldr"],
+html[saved-theme="dark"] .callout[data-callout="tip"],
+html[saved-theme="dark"] .callout[data-callout="hint"],
+html[saved-theme="dark"] .callout[data-callout="important"] {
+  --callout-accent: #4f6b5f;
+}
+
+html[saved-theme="dark"] .callout[data-callout="success"],
+html[saved-theme="dark"] .callout[data-callout="check"],
+html[saved-theme="dark"] .callout[data-callout="done"] {
+  --callout-accent: #506a4e;
+}
+
+html[saved-theme="dark"] .callout[data-callout="question"],
+html[saved-theme="dark"] .callout[data-callout="help"],
+html[saved-theme="dark"] .callout[data-callout="faq"],
+html[saved-theme="dark"] .callout[data-callout="warning"],
+html[saved-theme="dark"] .callout[data-callout="attention"],
+html[saved-theme="dark"] .callout[data-callout="caution"] {
+  --callout-accent: #8b5a39;
+}
+
+html[saved-theme="dark"] .callout[data-callout="failure"],
+html[saved-theme="dark"] .callout[data-callout="missing"],
+html[saved-theme="dark"] .callout[data-callout="fail"],
+html[saved-theme="dark"] .callout[data-callout="danger"],
+html[saved-theme="dark"] .callout[data-callout="error"],
+html[saved-theme="dark"] .callout[data-callout="bug"] {
+  --callout-accent: #8d5960;
+}
+
+html[saved-theme="dark"] .callout[data-callout="example"] {
+  --callout-accent: #6a5c88;
+}
+
+html[saved-theme="dark"] .callout[data-callout="quote"],
+html[saved-theme="dark"] .callout[data-callout="cite"] {
+  --callout-accent: #6f6a63;
+}
+
 // fine modifica per contrasto con dark mode
 
 
