@@ -1,95 +1,88 @@
 @use "./base.scss";
 
-// put your custom CSS here!
-/* Aumenta il testo solo sui dispositivi mobili */
-// @media (max-width: 750px) {
-//  body, p, li {
-//    font-size: 20px !important; /* Dimensione aumentata per mobile */
-//    line-height: 1.6;           /* Più spazio tra le righe per leggere meglio */
-//  }
-// } */
-/* Aumenta il riquadro del grafo inline ovunque */
-.graph .graph-outer {
-  height: 70vh !important;
-  min-height: 500px;
-  width: 100% !important;
-  position: relative;
-}
+/* Mantieni il sito il più vicino possibile ai default di Quartz.
+   Qui sotto restano solo le personalizzazioni davvero utili. */
 
-/* Forza il canvas a riempire tutto SENZA deformare */
-.graph .graph-outer canvas,
-.graph .graph-outer svg {
-  width: 100% !important;
-  height: 100% !important;
-  display: block;
-}
+/* ===== Grafo ===== */
 
-/* Il contenitore principale del grafo */
 .graph {
   margin: 2rem 0;
   width: 100%;
 }
 
-/* Il grafo nella colonna RIGHT deve essere quadrato */
+.graph .graph-outer {
+  position: relative;
+  width: 100% !important;
+  height: 70vh !important;
+  min-height: 500px;
+}
+
+.graph .graph-outer canvas,
+.graph .graph-outer svg {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* Grafo nella colonna destra su desktop */
 .right .graph .graph-outer {
   height: auto !important;
   aspect-ratio: 1 / 1;
-  max-height: 250px;
   min-height: 250px;
+  max-height: 250px;
 }
 
+/* ===== Iframe responsive ===== */
 
-/* Mobile */
-/* Fix layout mobile per la colonna RIGHT */
+.iframe-container {
+  position: relative;
+  width: 100%;
+  max-width: 404px;
+  margin: 0 auto;
+}
+
+.responsive-iframe {
+  display: block;
+  width: 100%;
+  height: 900px;
+  border: 0;
+}
+
+/* ===== Mobile ===== */
+
 @media (max-width: 750px) {
-
   .graph .graph-outer {
     height: 55vh !important;
+    min-height: 0;
   }
 
-  /* Forza gli elementi della sidebar right ad essere verticali su mobile */
   .right {
     display: flex !important;
     flex-direction: column !important;
     width: 100% !important;
   }
-  
-  /* Il grafo piccolo occupa tutta la larghezza */
+
   .right .graph {
     width: 100% !important;
     margin-bottom: 2rem;
   }
-  
+
   .right .graph .graph-outer {
     width: 100% !important;
-    height: 50vh !important;  /* Altezza ridotta per mobile */
+    height: 50vh !important;
+    min-height: 0;
+    max-height: none;
   }
-  
-  /* Backlinks e TOC occupano tutta la larghezza */
+
   .right .backlinks,
   .right .toc {
     width: 100% !important;
     margin-bottom: 1rem;
   }
 }
-/* da qui nuovo mio */
-/* Container per mantenere le proporzioni (opzionale ma consigliato) */
-.iframe-container {
-  position: relative;
-  width: 100%;
-  max-width: 404px; /* Limite massimo per non farlo sgranare su desktop */
-  margin: 0 auto;   /* Lo centra nella pagina */
-}
 
-.responsive-iframe {
-  width: 100%;      /* Occupa tutto lo spazio disponibile nel container */
-  height: 900px;    /* Altezza fissa */
-  border: none;
-}
-
-/* Comportamento specifico per Mobile */
 @media (max-width: 480px) {
   .responsive-iframe {
-    height: 700px;  /* Puoi accorciarlo su mobile per non farlo sembrare infinito */
+    height: 700px;
   }
 }

@@ -9,79 +9,50 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Ing. Paolo  Meregalli",
-    pageTitleSuffix: "Ing.",
+    pageTitleSuffix: "| Paolo Meregalli",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "it-IT",
     baseUrl: "www.paolomeregalli.it",
 /*    baseUrl: "quartz.jzhao.xyz", */
     ignorePatterns: ["private", "templates", ".obsidian","__bozze"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: true,
       typography: {
-        // header: "Inter",
-        //body: "Inter",
-        //code: "Fragment Mono",
-        title: "Schibsted Grotesk",
-        //header: "Schibsted Grotesk",
-        header: "Lora",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
-      },
-      /* colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
-      },*/
-      colors: {
-       lightMode: {
-         light: "#FAF7F1",        // carta calda, silenziosa, accogliente
-         lightgray: "#E6DFD2",    // bordi, separatori, UI soft
-         gray: "#92A095",         // grafo, metadati, elementi secondari
-         darkgray: "#27302C",     // testo principale: profondo ma non duro
-         dark: "#4E5D75",         // titoli, struttura, pensiero, profondità
-         secondary: "#A95038",    // terracotta viva: presenza umana, energia gentile
-         tertiary: "#4F7265",     // salvia profonda: hover, link secondari, respiro organico
-         highlight: "rgba(232, 185, 119, 0.18)", // albicocca morbida per tag/menu attivo
-         textHighlight: "#DDEB8A66", // evidenziatore vivo ma naturale, meno neon
-        },
-       darkMode: {
-        light: "#171A19",        // fondo scuro bosco-notte
-        lightgray: "#2C3330",    // separatori e superfici secondarie
-        gray: "#8F9E95",         // grafo e metadata
-        darkgray: "#D9DED7",     // testo principale
-        dark: "#F6F3EC",         // titoli chiari, caldi, non bianchi puri
-        secondary: "#E2A56B",    // terracotta illuminata / albicocca cotta
-        tertiary: "#8AB7A4",     // salvia luminosa per hover e interazioni
-        highlight: "rgba(226, 165, 107, 0.16)",
-        textHighlight: "#DDEB8A55",
-        },
+       title: "Schibsted Grotesk",
+       header: "Schibsted Grotesk",
+       body: "Source Sans Pro",
+       code: "IBM Plex Mono",
      },
+     colors: {
+      lightMode: {
+       light: "#FCFBF7",
+       lightgray: "#E8E3D8",
+       gray: "#98A49B",
+       darkgray: "#2A312F",
+       dark: "#52627B",
+       secondary: "#B15A41",
+       tertiary: "#5C7A6B",
+       highlight: "rgba(236, 191, 128, 0.16)",
+       textHighlight: "#DCEB9266",
+       },
+      darkMode: {
+       light: "#181B1A",
+       lightgray: "#2D3431",
+       gray: "#93A097",
+       darkgray: "#DCE1DA",
+       dark: "#F7F4EE",
+       secondary: "#E4AB73",
+       tertiary: "#90B9A8",
+       highlight: "rgba(228, 171, 115, 0.15)",
+       textHighlight: "#DCEB9255",
+      },
     },
+   },
   },
   plugins: {
     transformers: [
