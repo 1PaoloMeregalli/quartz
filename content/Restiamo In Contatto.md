@@ -16,8 +16,3 @@ Come ho scritto in [[Privacy]] qui sei tu che comandi e che decidi quando e come
 - **Instagram:** Se sei curioso di vedere la parte più visiva e laterale della mia vita — un impasto che lievita, un pezzo di lago, un giro in moto o un momento di decompressione — mi trovi qui [Instagram](https://www.instagram.com/paolomer/).
 
 Se invece hai in mente un'idea da esplorare insieme, un progetto da mettere a terra o vuoi capire se c'è spazio per collaborare, c'è una porta dedicata apposta a questo: [[Progettiamo Insieme]].
-
-___
-
-
-<a href="https://paolomeregalli.substack.com/" style="background-color: #9CC3D5; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 5px;"> Iscriviti al Substack </a>

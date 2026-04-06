@@ -24,5 +24,3 @@ Se invece pensi che potremmo mettere a terra qualche idea, oppure anche solo ber
 
 > [!quote]**Tutte le cose sono collegate. Ciò che accade alla terra, accade ai figli della terra.**
 > Attribuita a Capo Seattle (Si'ahl)
-
----

@@ -59,4 +59,3 @@ Cosa pensi appena prima di utilizzarne uno? ... **SESSO**.
 *Se vuoi veramente tentare di fare qualcosa per fermare la diffusione dell'HIV, devi pensare al cliente. Quelle persone il cui comportamento ha bisogno di essere cambiato: le coppie, le giovani donne, i giovani uomini la cui vita dipende anche da questo. 
 
 *Così la lezione è questa: **non importa cosa stai vendendo; devi pensare al tuo cliente, e a quali sono i messaggi che possono cambiare le sue abitudini. Potresti salvare la loro vita.**"
-***
