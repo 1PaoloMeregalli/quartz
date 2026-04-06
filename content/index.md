@@ -12,7 +12,7 @@ categories:
 
 Un luogo dove raccolgo semi, note vive, riflessioni e collegamenti nati dal lavoro, dai progetti, dagli incontri e dalla **vita**.
 
-**Un luogo dove semino idee e coltivo passioni.
+**Un luogo dove semino idee e coltivo passioni.**
 
 Per capire meglio cosa muove questo spazio, puoi partire da [[Intro]], da [[Digital Garden]] o da [[Il filo conduttore]].
 
