@@ -58,26 +58,26 @@ const config: QuartzConfig = {
       },*/
       colors: {
         lightMode: {
-          light: "#FDFDFD", // Il foglio bianco puro, per far respirare il testo.
-          lightgray: "#E5E5E5", // Bordi leggerissimi e non invadenti.
-          gray: "#A0ABA4", // Il tuo Grigio 255 per le linee di collegamento del grafo.
-          darkgray: "#323534", // Il tuo Nero 255 per i testi. Garantisce massima leggibilità.
-          dark: "#1A1A1A", // Un nero quasi assoluto per far risaltare bene i Titoli H1 e H2.
-          secondary: "#485470", // L'Indaco: governa i link, il titolo del sito e l'albero di navigazione. Calmo, elegante, da "studio".
-          tertiary: "#EB5046", // Il Rosso 255: si accende SOLO quando passi il mouse sui link o sul grafo.
-          highlight: "rgba(72, 84, 112, 0.1)", // Sfondo delicatissimo color Indaco per i tag e i blocchi, addio effetto rosa.
-          textHighlight: "#D8F87088", // Il verde acido di ppinch, perfetto come vero e proprio evidenziatore per il testo.
+          light: "#FCFCFA", // Un bianco impercettibilmente più caldo (quasi carta), meno clinico del bianco puro FDFDFD.
+          lightgray: "#E5E5E5", 
+          gray: "#A0ABA4", // Grigio 255 per le connessioni del grafo.
+          darkgray: "#2B2D2C", // Un nero/grigio profondissimo per il testo. Alta leggibilità, zero affaticamento.
+          dark: "#485470", // IL TERZO OCCHIO (Indaco). I titoli dei tuoi post invitano alla riflessione profonda.
+          secondary: "#EB5046", // LA RADICE (Rosso 255). Il tuo nome e i tuoi link tornano a pulsare di energia e pragmatismo.
+          tertiary: "#485470", // Quando passi il mouse su un link rosso, diventa Indaco: dall'azione alla riflessione.
+          highlight: "rgba(255, 201, 130, 0.15)", // IL CALORE (Salmone). Lo sfondo dei tag e della pagina attiva nel menu. Smorza l'aggressività del rosso creando un contrasto accogliente e organico.
+          textHighlight: "#D8F87088", // LA CREATIVITÀ (Verde ppinch). Per l'evidenziatore di testo: la scintilla di caos creativo.
         },
         darkMode: {
-          light: "#1E201F", // Fondo scuro riposante (Nero 255).
+          light: "#1A1C1B", // Fondo scuro, radicato e silenzioso.
           lightgray: "#323534", 
           gray: "#A0ABA4", 
           darkgray: "#D4D9D6", 
           dark: "#FDFDFD", 
-          secondary: "#85C7AD", // L'Acquamarina di 255 per i link sul tema scuro, rilassante per gli occhi ma tecnico.
-          tertiary: "#EB5046", // Rosso 255 al passaggio del mouse.
-          highlight: "rgba(133, 199, 173, 0.15)", // Sfondo leggero Acquamarina.
-          textHighlight: "#D8F87088", // Evidenziatore verde acido.
+          secondary: "#ffc982", // Nel tema scuro il rosso "spacca" troppo gli occhi. Usiamo il Salmone: caldo, creativo e molto leggibile.
+          tertiary: "#85C7AD", // Acquamarina per le interazioni.
+          highlight: "rgba(255, 201, 130, 0.15)", 
+          textHighlight: "#D8F87088", 
         },
       },
     },
