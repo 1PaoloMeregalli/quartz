@@ -21,16 +21,16 @@ Ti scrive una macchina, non più una persona in carne e ossa che vuole davvero c
 
 Siamo arrivati al punto che qualcuno si è inventato anche il "Linkedinese" (ne parlo in un post nelle mie [[Riflessioni]]). Una lingua in cui tutto deve essere mostrato sotto un riflettore abbagliante, in cui chi scrive deve far sapere a tutti i costi che va tutto bene, che si è delle star assolute e che non si sta facendo alcuna fatica. Tutti vogliono essere influencer!
 
-In mezzo a questo guano, però, forse #LinkedIn rimane ancora l'unico riferimento (se ne avete altri da suggerirmi fatelo subito, vi prego!), e quindi, ci sono anche io.
+In mezzo a questo guano, però, forse **LinkedIn** rimane ancora l'unico riferimento (se ne avete altri da suggerirmi fatelo subito, vi prego!), e quindi, ci sono anche io.
 
 Cerco di non usarlo come un social. Cerco di creare contatti veri e mi sforzo di farlo aggiungendo valore. Qualche volta ce la faccio, qualche volta meno.
 Sperimento, anche lì, sì.
 
-Se vuoi connetterti con me sappi che non riceverai da me MAI messaggi automatici, non connetterti solo per aumentar eil nuemro dei tuoi "follower" perchè se ti connetti poi vorrei conoscerti davvero.
+Se vuoi connetterti con me sappi che non riceverai da me MAI messaggi automatici, non connetterti solo per aumentare il numero dei tuoi "follower" perché, quando ti connetti, poi vorrei conoscerti davvero.
 
-Ci sono perchè spero che qualcuno possa ancora usare LinkedIn nel modo giusto: con professionalità, con il sorriso e la giusta leggerezza, per creare nuove e vere opportunità.
+Ci sono perché spero che qualcuno possa ancora usare LinkedIn nel modo giusto: con professionalità, con il sorriso e la giusta leggerezza, per creare nuove e vere opportunità.
 
-Ci sono perchè spero che anche il mio piccolo contributo possa in qualche modo migliorare una piattaforma che ha perso di vista il vero suo scopo.
+Ci sono perché spero che anche il mio piccolo contributo possa in qualche modo migliorare una piattaforma che ha perso di vista il vero suo scopo.
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 

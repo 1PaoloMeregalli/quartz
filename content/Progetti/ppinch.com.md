@@ -11,7 +11,7 @@ tags:
 
 Se pensi alla fotografia per l'e-commerce, probabilmente immagini un set, delle luci e un fotografo. Ma quando devi scattare, post-produrre e mandare online migliaia di referenze a stagione, l'arte non basta più: ti serve un **sistema**.
 
-Con **[ppinch.com](https://www.ppinch.com)** ho unito la mia passione per le **[[immagini]]** con la mia ossessione per l'ottimizzazione.
+Con **[ppinch.com](https://www.ppinch.com)** ho unito la mia passione per le **immagini** con la mia ossessione per l'ottimizzazione.
 
 Ci occupiamo di produzione digitale di alta qualità con lo spirito per i volumi importanti ma non solo. Trasformiamo il caos creativo in una pipeline produttiva fluida, precisa e affidabile, integrando anche l'AI dove serve davvero (e non solo per fare scena).
 
@@ -19,4 +19,4 @@ Ci occupiamo di produzione digitale di alta qualità con lo spirito per i volumi
 
 Anche qui, se il tuo e-commerce ha bisogno di ingranaggi visivi che girano senza intoppi, parliamone in **[[Progettiamo Insieme]]**.
 
-Nel frattempo visita il sito di [www.piinch.com](www.ppinch.com) e segui la nostra pagina [Linkedin](https://www.linkedin.com/company/ppinch)
+Nel frattempo visita il sito di [www.ppinch.com](www.ppinch.com) e segui la nostra pagina [Linkedin](https://www.linkedin.com/company/ppinch)

@@ -30,7 +30,7 @@ Questo è il CV che invio quando mi chiedono info formali su di me.
 **Mi rappresenta? 
 Assolutamente no**
 
-Però racconta una parte della mia vita ed è sufficiente per permettermi di raccontare il resto, dal vivo, con il mio stile.
+Però racconta una parte del mio percorso, ed è sufficiente per permettermi di raccontare il resto, dal vivo, con il mio stile.
 
 ![[Profilo Paolo Meregalli r1.pdf]]
 
