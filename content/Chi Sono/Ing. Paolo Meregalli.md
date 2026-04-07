@@ -1,8 +1,7 @@
 ---
-title: Ing. Paolo Meregalli (chi sono)
+title: Ing. Paolo Meregalli
 description: Boosting Productivity with Technology | Ottimizzazione e robotica per Fashion, Food & Manufacturing. Founder 255.it & ppinch.com | Il mio Digital Garden
 categories:
-  - Chi Sono
 post_image:
   - "[[PaoloMeregalli.jpg]]"
 socialImage: "[[PaoloMeregalli.jpg]]"
