@@ -1,5 +1,5 @@
 ---
-title: Jammo Jà
+title: Se sei del New Jersey, sei fottuto
 date: 2026-04-06
 categories:
   - Zettelkasten
@@ -21,4 +21,6 @@ Su 10 accenti regionali americani, l'accento che ha ricevuto un giudizio negativ
 > [!info] Quando è stato chiesto di decidere quale tipo di lavoro fosse più adatto ai candidati solo il 5% dei reclutatori ha selezionato una persona con un accento del New Jersey per una posizione di alto livello o che avesse a che fare con il pubblico.
 
 Oltre il 64% dei reclutatori ha indicato le persone con forte accento del New Jersey per posizioni con scarsa preparazione tecnica e senza alcun contatto con il pubblico.
-## E in Italia ... sarà lo stesso?
+## Se sei del new jersey, sei fottuto
+
+(ho approfondito su [Substack](https://paolomeregalli.substack.com/p/cotoletta-e-stereotipi))
