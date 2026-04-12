@@ -14,6 +14,7 @@ Lo so che così suona male, ma ci casco ogni volta e quindi lo metto qui nella m
 ## Mi capita spesso di dare dei feedback non richiesti, ecco, non fatelo mai !
 
 Se a raccogliere le vostre perle c'è:
+
 **a. una persona che non ha voglia di discutere**
 vi dirà "grazie", e il secondo dopo se ne sarà dimenticata, nelle migliori delle ipotesi, in alternativa si sarà domandato: "ma perché non si fa gli affari suoi?"
 
