@@ -16,12 +16,15 @@ Lo so che così suona male, ma ci casco ogni volta e quindi lo metto qui nella m
 Se a raccogliere le vostre perle c'è:
 
 **a. una persona che non ha voglia di discutere**
+
 vi dirà "grazie", e il secondo dopo se ne sarà dimenticata, nelle migliori delle ipotesi, in alternativa si sarà domandato: "ma perché non si fa gli affari suoi?"
 
 **b. una persona piena di EGO**
+
 vi distruggerà dicendo che era già tutto sotto controllo e che il vostro feedback non porta alcun valore: avete perso tempo e in più "ma come vi permettete?". La probabilità che queste persone nel futuro usino il vostro feedback a loro vantaggio trasformandolo in una loro idea è molto, molto alta.
 
 **c. una persona che è in grado di ascoltare e ha il cuore aperto**
+
 bhe, ma questo non capita mai (o forse no)
 
 Comunque la devo smettere,
