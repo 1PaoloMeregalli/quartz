@@ -7,6 +7,7 @@ categories:
   - Zettelkasten
 tags:
   - persone
+image: https://upload.wikimedia.org/wikipedia/commons/8/80/Pieter_Brueghel_de_Jonge_-_Parels_voor_de_zwijnen.jpg
 ---
 Lo so che così suona male, ma ci casco ogni volta e quindi lo metto qui nella mia scatola dei bigliettini, nella mia [[Zettelkasten/index|Zettelkasten]] come monito per il futuro.
 
@@ -38,3 +39,8 @@ Vi è una orgine biblica di questo proverbio nel vangelo di Matteo:
 Quelli che hanno studiato le sacre scritture dicono che non si tratta di disprezzare il prossimo, o di non professare la parola del Vangelo, ma che si tratta di un invito al **discernimento** e alla **saggezza** per evitare di imporre verità o beni a chi ha il **il cuore chiuso o non è ricettivo**
 
 Appunto !
+
+<Hr>
+
+
+![# Pieter Brueghel de Jonge - Parels voor de zwijnen](https://upload.wikimedia.org/wikipedia/commons/8/80/Pieter_Brueghel_de_Jonge_-_Parels_voor_de_zwijnen.jpg)
