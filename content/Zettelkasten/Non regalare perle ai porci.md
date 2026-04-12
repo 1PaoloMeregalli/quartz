@@ -43,5 +43,7 @@ Appunto !
 
 <Hr>
 
+Artista: [Pieter Brueghel de Jonge](https://it.wikipedia.org/wiki/Pieter_Brueghel_il_Giovane)
+Quadro: Parels voor de zwijnen.
 
 ![# Pieter Brueghel de Jonge - Parels voor de zwijnen](https://upload.wikimedia.org/wikipedia/commons/8/80/Pieter_Brueghel_de_Jonge_-_Parels_voor_de_zwijnen.jpg)
