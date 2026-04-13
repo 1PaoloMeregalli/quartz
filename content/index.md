@@ -1,6 +1,10 @@
 ---
 title: Benvenuto nel mio digital garden
 tags:
+  - ingegneria
+  - consulenza
+  - automazione
+  - robotica
 description: Boosting Productivity with Technology | Ottimizzazione e robotica per Fashion, Food & Manufacturing. Founder 255.it & ppinch.com | Il mio Digital Garden
 socialImage: "[[PaoloMeregalli.jpg]]"
 socialize_text:
