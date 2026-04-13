@@ -4,8 +4,11 @@ tags:
 description: Boosting Productivity with Technology | Ottimizzazione e robotica per Fashion, Food & Manufacturing. Founder 255.it & ppinch.com | Il mio Digital Garden
 socialImage: "[[PaoloMeregalli.jpg]]"
 socialize_text:
+  - Boosting Productivity with Technology | Ottimizzazione e robotica per Fashion, Food & Manufacturing. Founder 255.it & ppinch.com | Il mio Digital Garden
 categories:
   - Home
+socialize:
+  - Boosting Productivity with Technology | Ottimizzazione e robotica per Fashion, Food & Manufacturing. Founder 255.it & ppinch.com | Il mio Digital Garden
 ---
 ## Questo è un [[Digital Garden]].
 #### Non un sito tradizionale, attenzione, **genera dipendenza**
