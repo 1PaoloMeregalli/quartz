@@ -31,10 +31,10 @@ Assolutamente no**
 
 Però racconta una parte del mio percorso, ed è sufficiente per permettermi di raccontare il resto, dal vivo, con il mio stile.
 
-![[Profilo Paolo Meregalli r1.pdf]]
+> [!abstract]+ Visualizza Anteprima PDF
+> ![[Profilo Paolo Meregalli r1.pdf]]
 
----
-
+[📥 Scarica il Profilo (PDF)](./Profilo%20Paolo%20Meregalli%20r1.pdf)
 ## I mondi che cerco di integrare
 
 ### **Automazione e innovazione industriale**
