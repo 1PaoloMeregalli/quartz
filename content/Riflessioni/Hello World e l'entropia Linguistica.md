@@ -1,6 +1,7 @@
 # Hello World e l'entropia Linguistica
 
 Sto notando che i file che ricevo sono diventati "obesi".
+
 Lunghi, impaginati bene, apparentemente inappuntabili. Ma quando finisci di leggerli, ti accorgi che il contenuto è evaporato.
 
 Credo che il colpevole sia l'uso (spesso pigro) dell'IA.
