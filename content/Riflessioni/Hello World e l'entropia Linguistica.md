@@ -22,4 +22,4 @@ Qualcosa del tipo:
 
 ## Dobbiamo tornare a scrivere per essere capiti, non per essere ammirati.
 
-(qualche pensiero in piu qui)[https://paolomeregalli.substack.com/p/larchitettura-del-silenzio-larte]
+[Rielaborazioni, al mio SubStack](https://paolomeregalli.substack.com/p/larchitettura-del-silenzio-larte)
