@@ -21,3 +21,5 @@ Qualcosa del tipo:
 `"Agisci come un analista ossessionato dal segnale. Prendi questa bozza ed elimina ogni parola che non aggiunge valore decisionale o informativo. Se non hai dati certi, restituisci un vuoto, non inventare un contesto. Trasforma la facciata in struttura."`
 
 ## Dobbiamo tornare a scrivere per essere capiti, non per essere ammirati.
+
+(qualche pensiero in piu qui)[https://paolomeregalli.substack.com/p/larchitettura-del-silenzio-larte]
