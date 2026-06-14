@@ -14,7 +14,8 @@ L'illusione contemporanea è che l'Intelligenza Artificiale livellerà l'umanit�
 
 ### La cruda realtà è che renderà le persone mediocri irrimediabilmente più stupide.
 
-Se deleghi a un LLM la stesura di un'email o il riassunto in dieci secondi di un libro sul Buddismo, non stai ottimizzando il tuo tempo e non stai certo raggiungendo l'illuminazione. Stai semplicemente **amputando** il processo cognitivo.
+Se deleghi a un LLM la stesura di un'email o il riassunto in dieci secondi di un libro sul Buddismo, non stai ottimizzando il tuo tempo e non stai certo raggiungendo l'illuminazione.
+Stai semplicemente **amputando** il processo cognitivo.
 
 >In qualsiasi disciplina, la costruzione e la risoluzione dei problemi sono la parte vitale del lavoro. Il viaggio non è solo il modo in cui acquisiamo abilità; il viaggio è il punto centrale di tutto.
 
