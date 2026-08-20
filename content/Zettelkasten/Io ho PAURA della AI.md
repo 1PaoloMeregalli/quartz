@@ -4,16 +4,22 @@ categories:
 title: Io ho PAURA della AI
 tags:
 draft: "true"
-image:
+image: /wp-content/uploads/2011/12/montagna.jpg
 ---
-Qualche giorno fa ero ad un evento in cui si affrontava l'AI per l'industria produttiva: 
-che impatto potrà avere sulle catene di montaggio, sulla produzione, sulla robotica.
+Qualche giorno fa ero ad un evento in cui si affrontava l'AI per l'industria: 
+che impatto potrà avere sulle catene di montaggio, sulla produzione, sulla robotica ?
 
-Un evento interessante dove però ho colto alcuni luoghi comuni che ho voluto provare a smontare, così mi sono lanciato in un commento che sapevo sarebbe stato una **bomba** e che mi avrebbe attirato le ire di diverse persone. Così è accaduto (e non credo che in molti abbiano capito davvero il mio intervento, ma alla sera un pignoletto ha curato le ferite)
+Un evento interessante dove ho colto alcuni luoghi comuni che ho voluto provare a smontare, così mi sono lanciato in un commento che sapevo sarebbe stato una **bomba** e che mi avrebbe attirato le ire di diverse persone.
+Cosa che è regolarmente accaduta anche se non credo che in molti abbiano capito davvero il mio intervento, ma alla sera un [pignoletto](https://it.wikipedia.org/wiki/Pignoletto)ha lenito le ferite.
 *****
 ## La Paura
-La paura in montagna, anche per i grandi arrampicatori e alpinisti
-non è un'assenza di emozione, ma un'emozione gestita e trasformata
+
+Occore una riflessione sulla **paura** per poter meglio esprimere la mia posizione.
+Amo la montagna, da piccolo, in tutte le sue forme, e molto di quello che sono oggi è il frutto di esperienze maturate proprio in contesti ed avventure montane (anche estreme).
+
+La paura, in montagna, anche per i grandi arrampicatori e alpinisti,
+
+> [!success] **non è un'assenza di emozione, ma un'emozione gestita e trasformata**
 
 Sebbene possa sembrare paradossale, molti scalatori provano paura, inclusa l'acrofobia (paura dell'altezza), e la gestiscono concentrandosi intensamente sulla tecnica, sul movimento e sulla respirazione. [[1](https://www.youtube.com/watch?v=W-kePLwaHzg&t=371), [2](https://www.oliunid.it/blog/stati-emotivi-dell-arrampicata-paura-guido-dacuti-te-lo-dice-oliunid/), [3](https://www.guidodacutipsicologo.it/arrampicare-senza-paura/), [4](https://www.youtube.com/watch?v=pGzM7Z4B8ms)]
 
