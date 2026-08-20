@@ -26,13 +26,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/03/preservativi.jpeg
-categories:
-    - Paolo
-tags:
-    - informazione
-    - papà
-    - pnl
-    - preservativo
 ---
 
 Su Facebook leggo un articolo dal titolo alquanto intrigante"

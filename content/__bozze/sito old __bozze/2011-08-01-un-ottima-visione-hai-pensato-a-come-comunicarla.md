@@ -8,18 +8,6 @@ guid: 'http://www.paolomeregalli.com/?p=148'
 permalink: /un-ottima-visione-hai-pensato-a-come-comunicarla/
 dsq_thread_id:
     - '471392547'
-categories:
-    - Comunicazione
-tags:
-    - coaching
-    - informare
-    - insuccessi
-    - ispirare
-    - leader
-    - 'potere delle parole'
-    - 'regola del 7'
-    - successi
-    - visione
 format: gallery
 ---
 

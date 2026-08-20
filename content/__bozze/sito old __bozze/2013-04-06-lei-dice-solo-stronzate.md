@@ -26,14 +26,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/04/vergogna.jpg
-categories:
-    - Comunicazione
-    - Professione
-tags:
-    - comunicazione
-    - ingurie
-    - 'sentenza 17 ottobre 2011 n. 37380'
-    - stronzate
 format: gallery
 ---
 

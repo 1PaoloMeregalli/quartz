@@ -26,8 +26,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/02/Cardi-Alla-Alice-Cooper.jpg
-categories:
-    - Paolo
 ---
 
 Ho pubblicato su storify questa ricetta ... leggila anche se non hai intenzione di cucinare ... garantisco rapida digestione e qualche risata :-) <script src="//storify.com/paolomeregalli/cardi-alla-alice-cooper.js" type="text/javascript"></script> <noscript>\[[View the story "Cardi alla Alice Cooper" on Storify](//storify.com/paolomeregalli/cardi-alla-alice-cooper)\]</noscript>

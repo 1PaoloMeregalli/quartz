@@ -12,10 +12,6 @@ dsq_thread_id:
     - '855515850'
 dsq_needs_sync:
     - '1'
-categories:
-    - Notizie
-tags:
-    - iphone5
 format: gallery
 ---
 

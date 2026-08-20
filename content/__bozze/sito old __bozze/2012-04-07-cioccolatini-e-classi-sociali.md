@@ -18,13 +18,6 @@ hide_post_image:
 dsq_thread_id:
     - '639908207'
 image: /wp-content/uploads/2012/04/cioccolatini.jpeg
-categories:
-    - Comunicazione
-tags:
-    - cioccolatini
-    - 'classi sociali'
-    - marketing
-    - pnl
 ---
 
 ![](http://www.paolomeregalli.com/wp-content/uploads/2012/04/cioccolatini-150x150.jpg "cioccolatini")Alla ricerca di curiosità appassionanti legate al comportamento e alla comunicazione mi sono imbattuto in uno esperimento di marketing veramente interessante. La pubblicità e gli studi di marketing si sprecano in una epoca in cui abbiamo tutto, o pensiamo di avere tutto quello che ci serve, e gli "esperti" devono trovare il modo di vendere articoli di cui probabilmente non abbiamo bisogno. Ma non è il caso dei cioccolatini ... mi sono lasciato prendere la mano ... scusatemi :-) Dicevo ... un po di anni fa, tanti anni fa, un ricercatore e psicologo americano venne incaricato di progettare la confezione di alcuni cioccolatini per aumentarne la vendita. ### Cominciate a intuire? Studiare la CONFEZIONE per aumentare la vendita di un prodotto :-)

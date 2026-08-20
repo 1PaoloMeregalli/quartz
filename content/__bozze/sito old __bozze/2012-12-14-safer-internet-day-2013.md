@@ -20,13 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/12/SID-2013-logo.jpg
-categories:
-    - Notizie
-tags:
-    - bambini
-    - internet
-    - sicurezza
-    - SID
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2012/12/SID-2013-logo-300x214.jpg "SID 2013 logo")](http://www.paolomeregalli.com/wp-content/uploads/2012/12/SID-2013-logo.jpg)

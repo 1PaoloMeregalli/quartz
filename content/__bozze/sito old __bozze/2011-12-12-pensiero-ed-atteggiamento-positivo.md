@@ -20,11 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/12/parè.jpg
-categories:
-    - Comunicazione
-tags:
-    - 'attegiamento positivo'
-    - 'pensiero positivo'
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2011/12/parè-150x150.jpg "parè")](http://www.paolomeregalli.com/wp-content/uploads/2011/12/parè.jpg)C'è stato un periodo post new-age in cui tutti parlavano di "pensiero positivo". La stessa fortunata diffusione non ha avuto invece il concetto di focalizzazione positiva o di atteggiamento positivo. Se il pensiero positivo mi "prepara" ad una certa reazione, l'atteggiamento positivo mi guida ad un comportamento mirato, alla interpretazione per l'azione. Insomma se mi ripeto più volte "domani sarà una giornata stupenda, domani sarà una giornata stupenda, domani sarà una giornata stupenda" c'è una alta probabilità che domani mattina mi svegli con altissime aspettative e con una buona energia. ### La focalizzazione o atteggiamento positivo invece mi farà concentrare su quello che di positivo c'è in una determinata situazione. Non sono due "strade" diverse ma complementari.

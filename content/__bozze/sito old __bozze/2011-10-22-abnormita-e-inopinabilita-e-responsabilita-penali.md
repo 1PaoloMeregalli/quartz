@@ -22,13 +22,6 @@ post_image:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/10/responsabilita.jpg
-categories:
-    - Professione
-tags:
-    - abnormità
-    - inopinabilità
-    - 'responsabilità datore di lavoro'
-    - 'sentenza 19494'
 format: gallery
 ---
 

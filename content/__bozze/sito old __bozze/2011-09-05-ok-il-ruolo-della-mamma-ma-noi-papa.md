@@ -10,16 +10,6 @@ dsq_thread_id:
     - '475330768'
 dsq_needs_sync:
     - '1'
-categories:
-    - Notizie
-tags:
-    - 'ansia da prestazione'
-    - bambini
-    - mamma
-    - matematica
-    - papà
-    - stress
-    - supporto
 format: gallery
 ---
 

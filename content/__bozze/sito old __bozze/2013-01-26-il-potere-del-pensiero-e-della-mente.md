@@ -26,16 +26,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/01/bevuto-troppo1.jpg
-categories:
-    - Comunicazione
-tags:
-    - abatatuono
-    - basket
-    - lievito
-    - 'mago di segrate'
-    - 'maxwell maltz'
-    - pnl
-    - psicocibernetica
 ---
 
 [![non ci credo](http://www.paolomeregalli.com/wp-content/uploads/2013/01/non-ci-credo-300x208.jpg)](http://www.paolomeregalli.com/wp-content/uploads/2013/01/non-ci-credo.jpg)"Si ma io non ci credo" Quando mi capita di raccontare quanto è potente il nostro cervello vedo spesso negli occhi di chi mi sta di fronte ... incredulità! ## Che io ne stia parlando in un corso davanti a decine di persone oppure a tavola con un amico la reazione è spesso simile: bevuto troppo ? :-)[![bevuto troppo ?](http://www.paolomeregalli.com/wp-content/uploads/2013/01/bevuto-troppo-150x150.jpg)](http://www.paolomeregalli.com/wp-content/uploads/2013/01/bevuto-troppo.jpg "Bevuto Troppo?")

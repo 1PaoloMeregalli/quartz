@@ -26,14 +26,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/05/risotto-fiori-di-zucca.jpg
-categories:
-    - Paolo
-tags:
-    - 'fiori di zucca'
-    - pm_recipe
-    - pm_ricetta
-    - risotto
-    - zafferano
 ---
 
 <div class="sfy-html" style=""><div class="s-story noborder" did="fiori-di-zucca-per-elisa-risotto"><div class="s-header"><div class="s-info"><div class="s-author">[<span>Storify</span>](http://storify.com/paolomeregalli/fiori-di-zucca-per-elisa-risotto?utm_source=embed_header "View the story on Storify.com") by [paolo meregalli](//storify.com/paolomeregalli)</div><div class="s-published">[Sat, May 04 2013 07:03:25](http://storify.com/paolomeregalli/fiori-di-zucca-per-elisa-risotto/preview)</div><div class="s-clear"></div></div>## <a class="name"></a>

@@ -20,12 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/10/takeoff.jpg
-categories:
-    - Comunicazione
-tags:
-    - balasso
-    - comunicazione
-    - scrittore
 ---
 
 ## "Mi piaceresse fare i scrittore se solo so come è che si fa ... lo facerei"

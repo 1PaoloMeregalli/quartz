@@ -26,14 +26,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/03/ce.jpg
-categories:
-    - Comunicazione
-    - Professione
-tags:
-    - corso
-    - 'direttiva macchine'
-    - esempi
-    - 'ordine ingegneri bergamo'
 ---
 
 [![ce](http://www.paolomeregalli.com/wp-content/uploads/2013/03/ce-150x150.jpg)](http://www.paolomeregalli.com/wp-content/uploads/2013/03/ce.jpg)Insieme a Filippo Scopazzo abbiamo preparato un corso sulla Direttiva Macchine per l'ordine degli Ingegneri di Bergamo con uno stile molto pratico e social, coinvolgendo i presenti in esercizi pratici ed esempi reali. Vedi il post [La Direttiva Macchine](http://www.paolomeregalli.com/2013/02/20/la-direttiva-macchine/) Abbiamo poi voluto raccontare anche la fase di preparazione, le giornate di brainstorming i pensieri, le ricerche ... e ne è uscita questa storia che rende un po l'idea del lavoro che può essere necessario per preparare 8 ore di corso. Grazie a tutti i presenti. ---

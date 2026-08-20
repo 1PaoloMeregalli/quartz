@@ -30,16 +30,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/12/Happy2014.jpg
-categories:
-    - Paolo
-tags:
-    - '2014'
-    - auguri
-    - eggs
-    - flour
-    - 'happy moment'
-    - natural
-    - unsophisticated
 ---
 
 For someone ...

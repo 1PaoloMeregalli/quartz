@@ -20,15 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/11/internet_predators_sized.sized_.jpeg
-categories:
-    - Comunicazione
-    - Notizie
-tags:
-    - danger
-    - internet
-    - kids
-    - online
-    - safety
 ---
 
 ## [![Internet Safety Kids](http://www.paolomeregalli.com/wp-content/uploads/2012/11/internet_predators_sized.sized_-150x150.jpeg "internet_predators_sized.sized")](http://www.paolomeregalli.com/wp-content/uploads/2012/11/internet_predators_sized.sized_.jpeg)Due to personal reasons I'm reading about kids privacy and danger online situation.

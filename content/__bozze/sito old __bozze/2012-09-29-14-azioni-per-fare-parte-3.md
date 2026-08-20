@@ -20,13 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/09/the-starting-line.jpg
-categories:
-    - Comunicazione
-tags:
-    - azione
-    - fare
-    - franklin
-    - gtd
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2012/09/the-starting-line-150x150.jpg "the-starting-line")](http://www.paolomeregalli.com/wp-content/uploads/2012/09/the-starting-line.jpg)Dopo il successo di "[14 Azioni per FARE - parte 1](http://www.paolomeregalli.com/2012/07/14-azioni-per-fare-parte-1/ "14 azioni per FARE – parte 1")" e "[14 Azioni per FARE - parte 2](http://www.paolomeregalli.com/2012/09/14-azioni-per-fare-parte-2/ "14 azioni per FARE – parte 2")" ... davvero, ho avuto un sacco di letture, ecco la terza ed ultima parte "14 Azioni per FARE - parte 3" ... buona lettura. ## 9. Continuare a crescere

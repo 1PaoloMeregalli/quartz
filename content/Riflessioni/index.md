@@ -1,7 +1,7 @@
 ---
-title: Riflessioni
 categories:
   - Riflessioni
+title: Riflessioni
 ---
 # Riflessioni
 

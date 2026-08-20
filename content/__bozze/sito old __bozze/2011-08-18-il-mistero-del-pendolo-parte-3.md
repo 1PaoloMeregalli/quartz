@@ -12,15 +12,6 @@ dsq_thread_id:
     - '479652720'
 dsq_needs_sync:
     - '1'
-categories:
-    - Comunicazione
-tags:
-    - integrazione
-    - pendolo
-    - politecnico
-    - ricerca
-    - shs
-    - visione
 format: gallery
 ---
 

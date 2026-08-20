@@ -26,12 +26,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/03/ipnosi.jpeg
-categories:
-    - Comunicazione
-tags:
-    - comunicazione
-    - ipnosi
-    - pnl
 ---
 
 Ho ricevuto pochi giorni una mail di cui vi riporto il testo:

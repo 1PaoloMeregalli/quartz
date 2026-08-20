@@ -20,15 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/12/sicurezza-wifi.jpg
-categories:
-    - Comunicazione
-tags:
-    - facebook
-    - minori
-    - scuola
-    - sicurezza
-    - twitter
-    - WiFi
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2012/12/sicurezza-wifi-150x150.jpg "sicurezza wifi")](http://www.paolomeregalli.com/wp-content/uploads/2012/12/sicurezza-wifi.jpg)Una raccolta chiarificatrice su come cambiano velocmente i tempi # Genitore, se non sai che cosa è una wifi, una 3g, uno switch, se non hai un account twitter, facebook, pinterest, google+ etc etc ... torna a scuola ... magari con una copertura WIFI libera ... lo potrai scoprire :-)

@@ -10,11 +10,6 @@ dsq_thread_id:
     - '479653037'
 dsq_needs_sync:
     - '1'
-categories:
-    - Comunicazione
-tags:
-    - pendolo
-    - shs
 format: gallery
 ---
 

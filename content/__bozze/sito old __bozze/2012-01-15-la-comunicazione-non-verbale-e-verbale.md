@@ -20,14 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/01/bisio.jpg
-categories:
-    - Comunicazione
-tags:
-    - 'il processo della comunicazione'
-    - 'la comunicazione non verbale'
-    - 'la comunicazione verbale'
-    - pnl
-    - Watzlawick
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2012/01/bisio-150x150.jpg "bisio")](http://www.paolomeregalli.com/wp-content/uploads/2012/01/bisio.jpg)Non capisco come mai si pensi spesso alla formazione come a qualche cosa di utile solo nel mondo del business ... sopratutto nelle aree commerciali. Quanto scoperto negli anni da grandi studiosi e ricercatori viene purtroppo spesso banalizzato, riassunto, e deformato in classificazioni sommarie. In un epoca in cui si vuole tutto e subito è difficile accettare che per apprendere nuove abilità spesso si debba "vivere" :-) e che occorra del tempo, magari meno di quello che si immagina, se ci si organizza bene e ci si fa aiutare ... ma sempre del tempo. ## Così accade che una ricerca su internet delle parole "La comunicazione non verbale e verbale" possa portare a migliaia di banalizzazioni ... molto raramente è possibile trovare il filo di Arianna del "percorso" da seguire.

@@ -1,9 +1,9 @@
 ---
+categories:
+  - Zettelkasten
 title: 1833 - Quando la giornata "normale" era di 15 ore
 date: 08/07/2011
 author: Paolo Meregalli
-categories:
-  - Zettelkasten
 tags:
   - lavoro
   - processi

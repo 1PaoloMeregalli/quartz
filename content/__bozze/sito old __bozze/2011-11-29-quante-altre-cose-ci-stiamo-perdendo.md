@@ -20,13 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/11/joshuabell.jpg
-categories:
-    - Comunicazione
-tags:
-    - ascolo
-    - 'joshua bell'
-    - metropolitana
-    - violinist
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2011/11/joshuabell-150x150.jpg "joshuabell")](http://www.paolomeregalli.com/wp-content/uploads/2011/11/joshuabell.jpg)Un uomo si mise a sedere in una stazione della metro a Washington DC ed iniziò a suonare il violino; era un freddo mattino di gennaio. Suonò sei pezzi di Bach per circa 45 minuti. Durante questo tempo, poiché era l'ora di punta, era stato calcolato che migliaia di persone sarebbero passate per la stazione, molte delle quali sulla strada per andare al lavoro. Passarono 3 minuti ed un uomo di mezza età notò che c'era un musicista che suonava. Rallentò il passo e si fermò per alcuni secondi e poi si affrettò per non essere in ritardo sulla tabella di marcia ... Quello che prestò maggior attenzione fu un bambino di 3 anni. Sua madre lo tirava, ma il ragazzino si fermò a guardare il violinista. Finalmente la madre lo tirò con decisione ed il bambino continuò a camminare girando la testa tutto il tempo. ### Questo comportamento fu ripetuto da diversi altri bambini. Tutti i genitori, senza eccezione, li forzarono a muoversi.

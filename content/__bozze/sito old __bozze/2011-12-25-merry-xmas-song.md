@@ -20,11 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/12/relient.jpg
-categories:
-    - Notizie
-tags:
-    - Christmas
-    - 'Relient K'
 ---
 
 ## [![](http://www.paolomeregalli.com/wp-content/uploads/2011/12/relient.jpg "relient")](http://www.paolomeregalli.com/wp-content/uploads/2011/12/relient.jpg)I want a <span style="color: #ff0000;">sweety</span> and <span style="color: #00ff00;">funny</span> song for all my friends :-)

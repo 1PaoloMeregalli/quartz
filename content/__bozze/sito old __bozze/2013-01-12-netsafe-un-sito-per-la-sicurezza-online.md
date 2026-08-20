@@ -20,13 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/01/bambini_internet.jpg
-categories:
-    - Comunicazione
-tags:
-    - bambini
-    - internet
-    - online
-    - sicurezza
 ---
 
 ## Spiegare ai bambini come proteggersi da Internet non è difficile, raccontarlo ad un adulto ... è molto piu complesso.

@@ -10,11 +10,6 @@ jwplayermodule_fb_headers_id:
     - '263'
 dsq_thread_id:
     - '1407050064'
-categories:
-    - Comunicazione
-tags:
-    - 'mad as hell'
-    - window
 format: gallery
 ---
 

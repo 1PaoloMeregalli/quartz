@@ -20,13 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/07/motore.jpg
-categories:
-    - Comunicazione
-tags:
-    - azione
-    - fare
-    - franklin
-    - gtd
 ---
 
 ![](http://www.paolomeregalli.com/wp-content/uploads/2012/07/motore-150x150.jpg "motore")Nelle mie peregrinazioni internettiane mi sono trovato faccia a faccia con un bel articolo che voglio riproporre, come al solito il link della versione originale è in fondo all'articolo stesso ... io l'ho personalizzato un pochettino :-) Si tratta di una serie di suggerimenti inspirati a Benjamin Franklin, certamente un uomo d'azione con una vastissima gamma di interessi: scrittore, editore, diplomatico, inventore e uno dei Padri Fondatori degli Stati Uniti. Ecco i 14 saggissimi suggerimenti: ## 1. Parla Meno, Agisci di più

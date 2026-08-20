@@ -26,12 +26,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/04/8681955543_d478c59a02.jpg
-categories:
-    - Paolo
-tags:
-    - relax
-    - rumore
-    - silenzio
 ---
 
 Ore 07.00 ... ho bisogno di rilassarmi un po, fuori piove e la primavera ancora mi fa lo spernacchio. Non che la pioggia mi spaventi, ma anche un po di sole ogni tanto non guasta. Faccio per tornare a letto ma capisco che mi sarei girato e rigirato aspettando un ora che ritenevo "giusta" (per quale motivo poi) per alzarmi. Ok ... fottiti, tempo: calzoni da montagna, maglia tecnica, cappellino impermeabile, zaino, due mele, albicocche secche, noci ... e sono in macchina, scarponi dallo scaffale e via. Entro nel bosco accompagnato dal suono della pioggia sulle foglie, comincio a camminare ... Relax ... Dopo poco piu di una oretta mi ritrovo a ripararmi in una chiesetta di Alpini, spio da una grata e leggo un quadretto segnato dal tempo ... cosa vuoi di piu !

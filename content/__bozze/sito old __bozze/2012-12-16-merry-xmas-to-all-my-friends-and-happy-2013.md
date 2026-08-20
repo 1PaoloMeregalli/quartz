@@ -20,12 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/12/auguri_buon_natale.jpg
-categories:
-    - Notizie
-tags:
-    - '2013'
-    - natale
-    - xmas
 ---
 
 # [![](http://www.paolomeregalli.com/wp-content/uploads/2012/12/auguri_buon_natale-300x207.jpg "auguri_buon_natale")](http://www.paolomeregalli.com/wp-content/uploads/2012/12/auguri_buon_natale.jpg)

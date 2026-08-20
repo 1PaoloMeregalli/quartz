@@ -20,14 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/06/Boing.jpg
-categories:
-    - Comunicazione
-tags:
-    - app
-    - 'associazioni consumatori'
-    - bambini
-    - boing
-    - comunicazione
 ---
 
 ![](http://www.paolomeregalli.com/wp-content/uploads/2012/06/Boing-150x150.jpg "Boing")Urca ... intanto i miei complimenti agli inventori di questa App per la fantasia ... nello stesso tempo ... siamo sicuri sia etica? Se volete vedere la promo, che ovviamente viene trasmessa su Boing da un po di giorni, potete cliccare qui <http://www.boingtv.it/boingapp/> La promo termina con la scritta "**<span style="color: #993300;">Boing, TV lbera tutti</span>**" ... sinceramente sul concetto di "liberare" vorrei tornare tra un pochettino. La App funziona così: - 1) dopo accurato lavaggio del cervello, di cui non dovrai preoccuparti perchè ci pensa **<span style="color: #993300;">mamma televisione</span>**, tuo figlio ti chiederà di avere la App.

@@ -20,13 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/05/bambino.jpeg
-categories:
-    - Comunicazione
-tags:
-    - bambini
-    - comunicazione
-    - semplificare
-    - vendita
 ---
 
 Mi sono imbattuto i questo articolo scritto da **Tom Searcy,** un esperto di marketing. Poichè la versione originale è in inglese ho provato a tradurre il suo articolo.Per chi invece vuole godersi la lettura in lingua originale ecco il link da seguire: <http://www.inc.com/tom-searcy/what-a-9-year-old-can-teach-you-about-selling.html>

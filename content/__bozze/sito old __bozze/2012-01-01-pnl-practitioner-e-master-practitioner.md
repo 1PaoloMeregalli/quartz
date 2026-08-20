@@ -20,15 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/01/the-society-of-nlp.jpg
-categories:
-    - Comunicazione
-tags:
-    - 'master practitioner'
-    - nlp
-    - 'nlp society'
-    - pnl
-    - practitioner
-    - trainer
 ---
 
 Questa mattina stavo navigando sui motori di ricerca e ho avuto l'impressione di un crescente aumento di siti che propongono la PNL (programmazione neurolinguistica) in varie salse. Sarà la crisi, sarà la moda ma chi dovesse inserire nei motori di ricerca la parola PNL si troverebbe di fronte ad un ginepraio inestricabile. Nei casi migliori porterebbe a casa affrettate conclusioni su strani personaggi che camminano sui carboni ardenti, su corsi di seduzione in cui ti spiegano come fare più sesso con la PNL, su come vendere anche tua mamma e diventare ricco, su come poter girare il mondo ipnotizzando tutti quelli che incontri ... A chi credere? Intanto a nessuno di quelli che promette quello che ho appena descritto (e purtroppo ce ne sono) in seconda battuta raccogliendo quante più informazioni possibili. Si tratta di un argomento delicato e a cui prestare molta attenzione, sono tecniche potenti e se state pensando di frequentare un corso di PNL ... dedicate del tempo a scegliere la scuola e il trainer giusto.

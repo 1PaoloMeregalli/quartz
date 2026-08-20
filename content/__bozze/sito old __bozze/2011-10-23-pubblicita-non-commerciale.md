@@ -13,14 +13,6 @@ post_image:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/10/pericolo_taglio.gif
-categories:
-    - Comunicazione
-    - Professione
-tags:
-    - cesoiamento
-    - ctp
-    - pittogramma
-    - sicurezza
 format: gallery
 ---
 

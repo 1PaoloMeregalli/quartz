@@ -20,13 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/11/100-satisfaction-paint-warranty.jpg
-categories:
-    - Comunicazione
-tags:
-    - 'comandi nascosti'
-    - comunicazione
-    - ipnosi
-    - sorridere
 ---
 
 ## Dopo anni di studi e di ricerche scientifiche, dopo notti insonni alla ricerca provata di cosa possa migliorare il nostro <span style="color: #ff0000;">STILE DI VITA ...</span>

@@ -20,14 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/10/Paolo-Meregalli.jpg
-categories:
-    - Comunicazione
-tags:
-    - 'curriculum vitae'
-    - cv
-    - 'mappe mentali'
-    - 'paolo meregalli'
-    - 'tony buzan'
 format: gallery
 ---
 

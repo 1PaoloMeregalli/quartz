@@ -22,13 +22,6 @@ post_image:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/12/cervello.jpg
-categories:
-    - Comunicazione
-    - Professione
-tags:
-    - comportamento
-    - razionale
-    - sicurezza
 ---
 
 ### [![](http://www.paolomeregalli.com/wp-content/uploads/2011/12/cervello-150x150.jpg "cervello")](http://www.paolomeregalli.com/wp-content/uploads/2011/12/cervello.jpg)Ho trovato un bello spunto di riflessione in merito al binomio comportamento-sicurezza.

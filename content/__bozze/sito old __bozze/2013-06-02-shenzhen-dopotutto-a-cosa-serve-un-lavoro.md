@@ -30,13 +30,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/06/Screen-Shot-2013-06-02-at-18.20.38.png
-categories:
-    - Comunicazione
-tags:
-    - 'a cosa serve un lavoro'
-    - giovani
-    - shenzhen
-    - vita
 ---
 
 ---

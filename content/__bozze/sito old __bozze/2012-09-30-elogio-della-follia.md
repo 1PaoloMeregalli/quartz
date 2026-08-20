@@ -17,11 +17,6 @@ hide_post_image:
     - default
 dsq_thread_id:
     - '865362799'
-categories:
-    - Comunicazione
-tags:
-    - 'elogio della follia'
-    - 'erasmo da rotterdam'
 ---
 
 https://twitter.com/paolomeregalli/status/252325862903521282 https://twitter.com/paolomeregalli/status/252327878270808065

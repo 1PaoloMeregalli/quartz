@@ -20,12 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/10/Screen-Shot-2012-10-02-at-16.00.36.png
-categories:
-    - Comunicazione
-tags:
-    - comunicazione
-    - minetti
-    - parah
 ---
 
 ## Un articolo che ho sentito il dovere di commentare ... clicca sulla Minetti :-) dove vuoi tu :-) per andare all'articolo originale sul sito di [Manager Italia](http://www.manageritalia.it/) !!!

@@ -30,15 +30,6 @@ post_image:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/09/heathrow.jpeg
-categories:
-    - Notizie
-    - Professione
-tags:
-    - aeroporto
-    - agv
-    - Heathrow
-    - Londra
-    - pod
 format: gallery
 ---
 

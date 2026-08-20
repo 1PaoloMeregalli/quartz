@@ -20,13 +20,6 @@ post_image:
 dsq_thread_id:
     - '590067062'
 image: /wp-content/uploads/2012/01/chips.jpg
-categories:
-    - Comunicazione
-    - Professione
-tags:
-    - formazione
-    - pollo
-    - sicurezza
 ---
 
 ![](http://www.paolomeregalli.com/wp-content/uploads/2012/01/peschereccio-150x150.jpg "peschereccio")Vi voglio raccontare un progetto di formazione mirato ad incrementare la sicurezza sul posto di lavoro in modo ... non usuale! ### Ambiente:

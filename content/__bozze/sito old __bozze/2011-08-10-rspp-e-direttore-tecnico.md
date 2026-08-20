@@ -10,13 +10,6 @@ dsq_thread_id:
     - '474702450'
 dsq_needs_sync:
     - '1'
-categories:
-    - Professione
-tags:
-    - 'direttore tecnico'
-    - disposizione
-    - formazione
-    - rspp
 format: gallery
 ---
 

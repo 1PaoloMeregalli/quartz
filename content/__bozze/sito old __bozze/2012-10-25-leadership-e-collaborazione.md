@@ -22,13 +22,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/10/Locandina-Tavola-rotonda-2012.png
-categories:
-    - Notizie
-    - Professione
-tags:
-    - EU-OSHA
-    - leadership
-    - sicurezza
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2012/10/Locandina-Tavola-rotonda-2012-150x150.png "Locandina Tavola rotonda 2012")](http://www.paolomeregalli.com/wp-content/uploads/2012/10/Locandina-Tavola-rotonda-2012.png) Abbiamo tutti vissuto le Olimpiadi guardando atleti gareggiare, ci siamo emozionati, abbiamo sofferto (va bhe forse sto esagerando ... sofferto, sofferto ... anche no ) :-) ... ed in realtà uno dei piu grossi obiettivi è stato raggiunto in silenzio, come spesso accade ... ## La costruzione del Parco Olimpico di Londra del 2012 è stato il piu grande cantiere di infrastrutture in Europa -circa 36.000 dipendenti ! NESSUN INCIDENTE MORTALE !!! (RECORD assoluto per la costruzione di una opera olimpica)

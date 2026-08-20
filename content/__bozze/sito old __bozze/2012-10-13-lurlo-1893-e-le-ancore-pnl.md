@@ -20,14 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/10/1893_Edvard_Munch_The_Scream-WR400.jpg
-categories:
-    - Comunicazione
-tags:
-    - ancora
-    - comunicazione
-    - 'l''urlo'
-    - munch
-    - pnl
 ---
 
 Quanto può raccontare l'arte lo sappiamo tutti, quanto possa apprendere in modo inconscio la nostra mente è altrettanto noto ... meno evidenti sono invece le connessioni che la nostra mente è in grado di fare generando "ancore" involontarie e ricordi automatici. Correva l'anno 1893 quando Edvard Munch dipinse il celebre "Urlo" ... un dipinto che mi ha sempre affascinato e spaventato nello stesso tempo: [![](http://www.paolomeregalli.com/wp-content/uploads/2012/10/1893_Edvard_Munch_The_Scream-WR400-200x300.jpg "1893_Edvard_Munch_The_Scream-WR400")](http://www.paolomeregalli.com/wp-content/uploads/2012/10/1893_Edvard_Munch_The_Scream-WR400.jpg) Si tratta di una "fotografia" dello stato d'animo di Munch ...lo stesso Munch racconta così nel suo diario quel giorno di ispirazione:

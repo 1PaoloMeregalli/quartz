@@ -11,11 +11,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/11/emulsione.jpg
-categories:
-    - Notizie
-tags:
-    - reversibilità
-    - vinaigrette
 format: gallery
 ---
 

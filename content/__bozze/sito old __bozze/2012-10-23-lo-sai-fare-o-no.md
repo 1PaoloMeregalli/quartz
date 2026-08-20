@@ -20,12 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/10/vincere-facile-cubo.jpg
-categories:
-    - Comunicazione
-tags:
-    - comunicazione
-    - 'cose facili'
-    - velasco
 ---
 
 ## [![](http://www.paolomeregalli.com/wp-content/uploads/2012/10/vincere-facile-cubo-150x150.jpg "vincere-facile-cubo")](http://www.paolomeregalli.com/wp-content/uploads/2012/10/vincere-facile-cubo.jpg)Amo Velasco per il suo accento, per come muove le mani, per la precisione chirurgica delle dita e per la sua capacità di evidenziare atteggiamenti normalmente usuali ed il loro reale significato:

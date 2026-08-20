@@ -11,18 +11,6 @@ post_image:
 dsq_thread_id:
     - '594251447'
 image: /wp-content/uploads/2011/09/bobina.jpg
-categories:
-    - Professione
-tags:
-    - 'comando mobile'
-    - 'deficit visivo'
-    - 'dipendente qualificato'
-    - inidoneo
-    - 'manuale di uso e manutenzione'
-    - 'medico competente'
-    - 'procedura di accesso'
-    - restrizioni
-    - riparo
 format: gallery
 ---
 

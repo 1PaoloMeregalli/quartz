@@ -10,8 +10,6 @@ dsq_thread_id:
     - '587735957'
 dsq_needs_sync:
     - '1'
-categories:
-    - Notizie
 format: gallery
 ---
 

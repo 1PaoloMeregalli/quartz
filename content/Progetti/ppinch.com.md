@@ -1,7 +1,7 @@
 ---
-title: "ppinch.com: L'ingegneria dietro l'immagine"
 categories:
   - Progetti
+title: "ppinch.com: L'ingegneria dietro l'immagine"
 tags:
   - immagini
   - ecommerce

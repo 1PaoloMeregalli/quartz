@@ -20,12 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/12/burocrazia.jpg
-categories:
-    - Notizie
-tags:
-    - gentiloni
-    - rfid
-    - tag
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2011/12/burocrazia-150x150.jpg "burocrazia")](http://www.paolomeregalli.com/wp-content/uploads/2011/12/burocrazia.jpg)La memoria è sempre troppo corta e alle volte si danno per scontate cose che non lo sono affatto. Erano già un po di anni che fuori dall'Italia si potevano utilizzare sistemi RFID UHF e noi qui, dico in Italia, stavamo a discutere su minuzie, incatenati ad un palo, tecnologicamente frenati da ignoranza e burocrazia. #### Se i decreti che si occupano di tecnologia fanno spesso sorridere (ndr: non voglio usare altri termini) in quanto a inadeguatezza e sono spesso già superati nel momento stesso della pubblicazione sulla gazzetta ... figuriamoci per gli RFID.

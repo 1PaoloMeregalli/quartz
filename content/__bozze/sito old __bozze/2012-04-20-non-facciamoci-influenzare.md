@@ -20,14 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/04/roundabout.jpeg
-categories:
-    - Comunicazione
-tags:
-    - lose-lose
-    - lose-win
-    - pnl
-    - win-lose
-    - win-win
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2012/04/roundabout-150x150.jpg "roundabout")](http://www.paolomeregalli.com/wp-content/uploads/2012/04/roundabout.jpg)Prima una personale scusa: ho appena terminato di scrivere un post su [www.255.it](http://www.255.it/win-win/ "Win Win") e ritengo possa essere interessante riproporlo anche qui ... per semplificarvi la vita l'ho copiato (aggiungendo una immagine :-) ) così non dovete cliccare sul link :-) ... "Mi sono svegliato questa mattina con una riflessione in testa ... nella strada che in macchina percorro tutte le mattine per recarmi al lavoro incrocio una grande rotonda ed osservando gli automobilisti "congelati" nel tentativo di capire chi può, che deve, di chi è il turno di passare creare dei grossi ingorghi ... tutto mi è stato chiaro: ### "Possibile che il clima politico ed istituzionale, la crisi, il momento storico stiano cambiando la nostra percezione del "prossimo" e dunque il nostro modo di interagire nel mondo del lavoro e di creare "relazioni".

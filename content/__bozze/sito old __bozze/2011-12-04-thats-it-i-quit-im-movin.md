@@ -18,11 +18,6 @@ hide_post_image:
 dsq_thread_id:
     - '493302844'
 image: /wp-content/uploads/2011/12/adele.jpg
-categories:
-    - Comunicazione
-tags:
-    - adele
-    - vibrazioni
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2011/12/adele-150x150.jpg "adele")](http://www.paolomeregalli.com/wp-content/uploads/2011/12/adele.jpg) Mi sono innamorato :-) Una voce da brividi lungo la schiena, amo la musica, amo le emozioni che percorrono il mio corpo nell'ascoltare brani come questo, amo ricordare cosa mi fa "vibrare" ... ah già ... adesso spengo il telefono :-) <iframe frameborder="0" height="315" src="http://www.youtube.com/embed/3rV2RCCX-0A?rel=0" width="420"></iframe>

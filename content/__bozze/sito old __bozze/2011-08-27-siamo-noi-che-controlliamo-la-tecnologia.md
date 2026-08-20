@@ -10,9 +10,6 @@ dsq_thread_id:
     - '475769305'
 dsq_needs_sync:
     - '1'
-categories:
-    - Comunicazione
-    - Notizie
 format: gallery
 ---
 

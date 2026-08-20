@@ -26,11 +26,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/01/videopoker.jpg
-categories:
-    - Comunicazione
-tags:
-    - balasso
-    - poker
 ---
 
 ### In realtà molto di piu ...

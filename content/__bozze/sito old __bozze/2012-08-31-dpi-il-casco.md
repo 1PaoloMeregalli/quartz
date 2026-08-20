@@ -22,12 +22,6 @@ post_image:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/11/casco.jpg
-categories:
-    - Professione
-tags:
-    - casco
-    - dpi
-    - sicurezza
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2011/11/casco-150x150.jpg "casco")](http://www.paolomeregalli.com/wp-content/uploads/2011/11/casco.jpg)Convinto che le immagini valgano più di mille parole ... usa la testa :-) !!! DPI Dispositivi di Protezione Individuale ... Il casco <iframe frameborder="0" height="315" src="http://www.youtube.com/embed/-hSv8knlBx0" width="420"></iframe> Spunto da un Tweet di [**@**alessiobarbera](https://twitter.com/#!/alessiobarbera), Grazie Alessio.

@@ -10,13 +10,6 @@ dsq_thread_id:
     - '473151615'
 dsq_needs_sync:
     - '1'
-categories:
-    - Professione
-tags:
-    - avvocato
-    - ctp
-    - integrazione
-    - responsabilità
 format: gallery
 ---
 

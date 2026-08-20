@@ -20,12 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/11/jenniferlopez.jpg
-categories:
-    - Notizie
-tags:
-    - Karinthy
-    - Milgram
-    - 'sei gradi di separazione'
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2011/11/200px-Six_degrees_of_separation.svg_-150x150.png "200px-Six_degrees_of_separation.svg")](http://www.paolomeregalli.com/wp-content/uploads/2011/11/200px-Six_degrees_of_separation.svg_.png)Vi è mai capitato di parlare con una persona e dopo poco accorgervi che conosce anche lui quell'amico di cui stavate parlando ?**Eh si, il mondo è proprio piccolo** :-) #### Nel 1929 Frigyes Karinthy, uno scrittore ungherese, pubblicò una breve storia che introdusse il concetto dei "six degrees of separation": i 6 gradi di separazione.

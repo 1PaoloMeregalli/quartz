@@ -20,10 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/12/montagna.jpg
-categories:
-    - Comunicazione
-tags:
-    - montagna
 format: gallery
 ---
 

@@ -22,13 +22,6 @@ post_image:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/12/assorbitore-di-energia.jpg
-categories:
-    - Professione
-tags:
-    - 'assorbitore di energia'
-    - dpi
-    - gioco
-    - sicurezza
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2011/12/assorbitore-di-energia-150x150.jpg "assorbitore-di-energia")](http://www.paolomeregalli.com/wp-content/uploads/2011/12/assorbitore-di-energia.jpg)Bhe diciamo che dopo aver visto questo video ho contattato subito la società alcolisti anonimi per una segnalazione :-)

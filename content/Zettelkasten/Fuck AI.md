@@ -1,7 +1,7 @@
 ---
-title: Fuck AI
 categories:
   - Zettelkasten
+title: Fuck AI
 tags:
   - digitale
   - persone

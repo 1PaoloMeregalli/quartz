@@ -1,4 +1,6 @@
 ---
+categories:
+  - Riflessioni
 id: 1211
 title: What do you wanna be when you grow up ?
 date: 2014-01-14T08:44:30+01:00
@@ -9,8 +11,6 @@ tags:
   - lavoro
   - persone
 socialDescription: What do you wanna be when you grow up ? I wanna be happy !!!
-categories:
-  - Riflessioni
 ---
 Amazing 11 minutes video for my english speaking friends! Believe me, invest your next 11 minutes listening this 10 years old genius! Touching my heart and my brain! 
 ## I wanna be happy!!!

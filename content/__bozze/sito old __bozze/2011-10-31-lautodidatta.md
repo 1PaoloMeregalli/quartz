@@ -11,13 +11,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/10/andymckee-e1320083123936.jpg
-categories:
-    - Comunicazione
-    - Notizie
-tags:
-    - 'andy mckee'
-    - autodidatta
-    - chitarra
 format: gallery
 ---
 

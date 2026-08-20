@@ -1,10 +1,10 @@
 ---
+categories:
+  - Zettelkasten
 title: Non regalare perle ai porci
 date: 2026-04-12
 socialize_text:
   - Mi capita spesso di dare dei feedback non richiesti, ecco, non fatelo mai !
-categories:
-  - Zettelkasten
 tags:
   - persone
 image: https://upload.wikimedia.org/wikipedia/commons/8/80/Pieter_Brueghel_de_Jonge_-_Parels_voor_de_zwijnen.jpg

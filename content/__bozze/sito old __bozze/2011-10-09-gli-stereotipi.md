@@ -9,13 +9,6 @@ permalink: /gli-stereotipi/
 dsq_thread_id:
     - '480040976'
 image: /wp-content/uploads/2011/10/stereotipi.jpeg
-categories:
-    - Comunicazione
-    - Notizie
-tags:
-    - inglesi
-    - italiani
-    - stereotipi
 format: gallery
 ---
 

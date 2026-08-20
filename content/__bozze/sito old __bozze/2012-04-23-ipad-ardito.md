@@ -20,11 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/04/ipad.jpeg
-categories:
-    - Notizie
-tags:
-    - ipad
-    - kitchen
 ---
 
 Non mi sarebbe mai venuto in mente di usarlo così ... Che spettacolo !!! <iframe frameborder="0" height="360" src="http://www.youtube.com/embed/itUMO7VLl0M" width="480"></iframe>

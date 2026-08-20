@@ -20,14 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2011/12/ruota.jpg
-categories:
-    - Notizie
-tags:
-    - brunetta
-    - gelmini
-    - scuola
-    - tecnologia
-    - WiFi
 ---
 
 ![](http://www.paolomeregalli.com/wp-content/uploads/2011/12/ruota-150x150.jpg "ruota")###  "Ho sentito parlare di tecnologia ..." un video un pochettino volgare e scurrile ... chiedo scusa, suggerisco a tutte le persone sensibili di non guardarlo.

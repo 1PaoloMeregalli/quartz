@@ -30,17 +30,6 @@ socialize:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/05/LinkedIn.jpg
-categories:
-    - Professione
-tags:
-    - connection
-    - 'don''t know'
-    - invitation
-    - linkedin
-    - reply
-    - restriction
-    - twitter
-    - use
 ---
 
 # Today I have 16 people that want to connect with me in LinkedIN ...

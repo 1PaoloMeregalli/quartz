@@ -17,8 +17,6 @@ hide_post_image:
     - default
 dsq_thread_id:
     - '835896904'
-categories:
-    - Notizie
 ---
 
 https://twitter.com/255hec/status/241091171538059264

@@ -1,4 +1,6 @@
 ---
+categories:
+  - Riflessioni
 title: Il lusso non è fast (riflessioni sul tempo)
 date: 2026-04-01
 description: Riflessione sullo yoga
@@ -6,8 +8,6 @@ tags:
   - business
   - sostenibilita
 image:
-categories:
-  - Riflessioni
 ---
 ![[Il mio pane.jpg]]
 

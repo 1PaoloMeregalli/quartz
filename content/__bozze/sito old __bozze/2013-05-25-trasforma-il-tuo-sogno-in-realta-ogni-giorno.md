@@ -30,15 +30,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/05/15Maggio1.jpg
-categories:
-    - Paolo
-tags:
-    - comunicazione
-    - fotografia
-    - naturalistica
-    - realtà
-    - sogno
-    - wildmobil
 ---
 
 ---

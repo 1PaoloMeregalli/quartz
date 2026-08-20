@@ -18,13 +18,6 @@ hide_post_image:
 dsq_thread_id:
     - '854288606'
 image: /wp-content/uploads/2012/09/obmrellone.jpg
-categories:
-    - Comunicazione
-tags:
-    - azione
-    - fare
-    - franklin
-    - gtd
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2012/09/obmrellone-150x150.jpg "obmrellone")](http://www.paolomeregalli.com/wp-content/uploads/2012/09/obmrellone.jpg)La pausa estiva mi ha un pochettino distratto ... eccomi però di nuovo qui a continuare quel post che vi avevo promesso :-) "[14 azioni per FARE - parte 1](http://www.paolomeregalli.com/2012/07/14-azioni-per-fare-parte-1/ "14 azioni per FARE – parte 1")" ... ## 5. Muoviti !

@@ -22,12 +22,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/01/salmonezenzero.jpg
-categories:
-    - Paolo
-tags:
-    - pm_recipe
-    - pm_ricetta
-    - ricetta_2
 ---
 
 Ho deciso che non posso piu tenere tutti questi segreti solo per me ... devo diffondere ...

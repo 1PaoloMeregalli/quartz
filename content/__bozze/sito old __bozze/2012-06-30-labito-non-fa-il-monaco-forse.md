@@ -20,12 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/06/giaccaecravatta.jpg
-categories:
-    - Comunicazione
-tags:
-    - 'classi sociali'
-    - pedone
-    - semaforo
 ---
 
 ## ![](http://www.paolomeregalli.com/wp-content/uploads/2012/06/giaccaecravatta-150x150.jpg "giaccaecravatta")L'abito non fa il monaco, ma non attraversare con il semaforo rosso !!! E' pericoloso !!!

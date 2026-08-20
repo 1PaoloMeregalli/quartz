@@ -20,13 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/05/comunicazione-non-verbale.jpg
-categories:
-    - Comunicazione
-tags:
-    - comunicazione
-    - 'la comunicazione non verbale'
-    - 'la comunicazione verbale'
-    - pnl
 ---
 
 ![](http://www.paolomeregalli.com/wp-content/uploads/2012/05/comunicazione-non-verbale-150x150.jpg "Closeup of innocent young woman looking someone and smiling")Cosa cerchi quando inserisci sul tuo motore di ricerca "comunicazione verbale e non verbale"? ### Hai qualche domanda in particolare ?

@@ -10,12 +10,6 @@ dsq_thread_id:
     - '487271305'
 dsq_needs_sync:
     - '1'
-categories:
-    - Professione
-tags:
-    - domino
-    - muletto
-    - sicurezza
 format: gallery
 ---
 

@@ -20,12 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/12/proprieta-dei-bambini.jpg
-categories:
-    - Comunicazione
-tags:
-    - bambini
-    - comunicazione
-    - proprietà
 ---
 
 Stavo sistemando il mio mac quando ho ritrovato questa immagine che avevo postato un po di tempo fa ... la piu bella di tutte ?!?!

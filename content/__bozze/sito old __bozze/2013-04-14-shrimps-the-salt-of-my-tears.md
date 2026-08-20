@@ -26,13 +26,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/04/gamberetti.jpg
-categories:
-    - Paolo
-tags:
-    - antipasto
-    - gamberetti
-    - pm_recipe
-    - pm_ricetta
 ---
 
 Avevo voglia di qualche cosa di "particolare" ... così mi sono lanciato :-) <script src="//storify.com/paolomeregalli/shrimps-the-salt-of-my-tears.js" type="text/javascript"></script> <noscript>\[[View the story "Shrimps ... The Salt Of My Tears !" on Storify](//storify.com/paolomeregalli/shrimps-the-salt-of-my-tears)\] # Shrimps ... The Salt Of My Tears !

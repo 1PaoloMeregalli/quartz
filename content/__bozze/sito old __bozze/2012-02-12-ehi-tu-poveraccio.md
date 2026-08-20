@@ -20,12 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/02/balasso.jpg
-categories:
-    - Comunicazione
-tags:
-    - balasso
-    - marketing
-    - mercedes
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2012/02/balasso-150x150.jpg "balasso")](http://www.paolomeregalli.com/wp-content/uploads/2012/02/balasso.jpg)Ho iniziato ad ascoltare Balasso con il sorriso, a tratti con incontenibile divertimento ... i secondi passano e mi accorgo che non è la solita cosa ... ## si tratta di una analisi serissima di marketing

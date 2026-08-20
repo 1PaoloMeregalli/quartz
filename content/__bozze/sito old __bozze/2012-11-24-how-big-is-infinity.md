@@ -18,12 +18,6 @@ hide_post_image:
 dsq_thread_id:
     - '941848005'
 image: /wp-content/uploads/2012/11/data-nerd.jpg
-categories:
-    - Comunicazione
-tags:
-    - engineer
-    - infinity
-    - ted
 ---
 
 # Yes ... IT IS !

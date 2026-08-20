@@ -18,10 +18,6 @@ hide_post_image:
 dsq_thread_id:
     - '516516842'
 image: /wp-content/uploads/2011/12/boxingday.jpg
-categories:
-    - Notizie
-tags:
-    - 'boxing day'
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2011/12/boxingday-150x150.jpg "boxingday")](http://www.paolomeregalli.com/wp-content/uploads/2011/12/boxingday.jpg)Oggi 26 dicembre per noi Santo Stefano, per i paesi che fanno parte del Commonwealth è il ### Boxing Day

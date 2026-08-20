@@ -30,15 +30,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2013/05/mago.jpg
-categories:
-    - Professione
-tags:
-    - 'Art. 1362'
-    - 'Codice civile'
-    - 'Interpretazione del Contratto'
-    - prevedo
-    - stravedo
-    - vedo
 ---
 
 ---

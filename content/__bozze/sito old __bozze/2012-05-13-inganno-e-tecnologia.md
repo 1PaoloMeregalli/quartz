@@ -20,12 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/05/magia.jpeg
-categories:
-    - Comunicazione
-tags:
-    - inganno
-    - magia
-    - tecnologia
 ---
 
 [![](http://www.paolomeregalli.com/wp-content/uploads/2012/05/magia-150x150.jpg "magia")](http://www.paolomeregalli.com/wp-content/uploads/2012/05/magia.jpeg)Anche a me la magia piace, è sempre piaciuta ... ed è forse questo il motivo per il quale mi sono appassionato prima a studi scientifici, (quanta magia credete ci possa essere in Analisi 3 ? :-) e poi all'elemento più misterioso e magico presente in questo mondo: l'uomo. ## "La magia è l'unica professione onesta. Un mago promette di ingannarvi ... e lo fa".

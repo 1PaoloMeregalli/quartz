@@ -20,12 +20,6 @@ dsq_thread_id:
 dsq_needs_sync:
     - '1'
 image: /wp-content/uploads/2012/05/passione2.jpg
-categories:
-    - Comunicazione
-tags:
-    - interest
-    - passion
-    - pnl
 ---
 
 Great ... Great Great TED Talks (when you will see it maybe it will be something like a good TED "Walk" too :-) Larry Smith is a professor of Economics at the University of Waterloo in Canada ... all the professors in the world should have his passion ! In this video he coaches students about PASSION !!!
