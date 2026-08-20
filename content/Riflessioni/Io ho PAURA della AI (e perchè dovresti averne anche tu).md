@@ -1,13 +1,13 @@
 ---
 categories:
-  - Zettelkasten
+  - Riflessioni
 title: Io ho PAURA della AI (e perchè dovresti averne anche tu)
 tags:
   - digitale
   - automazione
   - lavoro
 draft:
-image: /wp-content/uploads/2011/12/montagna.jpg
+image: "[[Montagne.jpg]]"
 ---
 Qualche giorno fa ero a un evento in cui si parlava di **AI applicata all'industria**:
 - che impatto potrà avere sulle catene di montaggio, sulla produzione, sulla robotica?
