@@ -10,7 +10,7 @@ Qualche giorno fa ero a un evento in cui si parlava di **AI applicata all'indust
 - che impatto potrà avere sulle catene di montaggio, sulla produzione, sulla robotica?
 
 Un evento interessante, durante il quale ho colto alcuni luoghi comuni che ho voluto provare a smontare.
-Così mi sono lanciato in un commento che sapevo sarebbe stato una **bomba** e che mi avrebbe attirato le ire di diverse persone.
+Così mi sono lanciato in un commento che sapevo sarebbe stato una **bomba** e che mi avrebbe attirato le ire di diverse persone: dobbiamo aver paura della AI !
 Cosa che è regolarmente accaduta, tanto che il **CEO** della società che ci ospitava ha voluto intervenire personalmente per sottolineare che, secondo lui, l'unico in quella sala ad aver **paura della AI** potessi essere io (ovviamente senza conoscermi). 
 In un primo momento (qualche ora, sono sagittario e non è che non sono permaloso) ci sono rimasto male poi, mentre rientravo in auto verso casa ho fatto delle riflessioni e sono giunto alla conclusione che forse aveva ragione lui:
 ## Forse davvero in quella sala l'unico ad aver paura dell'a 'AI ero io
