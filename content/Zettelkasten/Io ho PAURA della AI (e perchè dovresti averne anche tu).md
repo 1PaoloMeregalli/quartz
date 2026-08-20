@@ -25,7 +25,7 @@ In quella sala c'erano manager ed imprenditori che possono fare la differenza ne
 Mi preme fare una riflessione sulla **paura**, per spiegare meglio la mia posizione e il mio intervento.
 
 Amo la montagna fin da piccolo, in tutte le sue forme, e molto di ciò che sono oggi è frutto delle esperienze maturate proprio lì: arrampicate, ferrate, ghiacciai, notti passate in una [truna](https://it.wikipedia.org/wiki/Truna) ad occhi aperti, aspettando l'alba.
-
+![[Montagne.jpg]]
 ### La **paura**, in montagna, esiste.
 
 Esiste anche per i grandi arrampicatori e per i grandi alpinisti.
