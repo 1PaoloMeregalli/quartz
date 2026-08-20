@@ -5,6 +5,7 @@ author: Paolo Meregalli
 categories:
   - Zettelkasten
 tags:
+  - lavoro
   - processi
   - sistemi
 ---

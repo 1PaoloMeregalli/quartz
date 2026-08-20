@@ -6,6 +6,8 @@ author: Paolo Meregalli
 post_image:
   - "[[LoganLaPlante.png]]"
 tags:
+  - lavoro
+  - persone
 socialDescription: What do you wanna be when you grow up ? I wanna be happy !!!
 categories:
   - Riflessioni

@@ -1,8 +1,6 @@
 ---
 post_image:
   - "[[PaoloMeregalli.jpg]]"
-categories:
-  - Home
 ---
 # Intro al Digital Garden
 

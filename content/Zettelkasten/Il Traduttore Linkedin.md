@@ -2,8 +2,8 @@
 categories:
   - Zettelkasten
 tags:
-  - processi
-  - business
+  - digitale
+  - linguaggio
 ---
 # Il traduttore Linkedin
 

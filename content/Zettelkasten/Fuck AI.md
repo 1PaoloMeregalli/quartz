@@ -1,9 +1,11 @@
 ---
 title: Fuck AI
+categories:
+  - Zettelkasten
 tags:
   - digitale
   - persone
-  - Linguaggio
+  - linguaggio
 ---
 Pochi giorni fa un [Ronny Chieng](https://it.wikipedia.org/wiki/Ronny_Chieng) davanti ai neolaureati di Harvard ha lanciato un anatema e ha fomentato gli ascoltatori indicando come loro missione la distruzione della AI
 

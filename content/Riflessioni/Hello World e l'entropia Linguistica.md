@@ -1,3 +1,10 @@
+---
+categories:
+  - Riflessioni
+tags:
+  - digitale
+  - linguaggio
+---
 # Hello World e l'entropia Linguistica
 
 Sto notando che i file che ricevo sono diventati "obesi".

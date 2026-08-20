@@ -1,8 +1,3 @@
----
-categories:
-  - Home
----
-
 Bhe, grazie anche solo per aver deciso di curiosare in questa pagina, significa che tra i diversi semi qualcuno ti ha incuriosito e forse vorresti capire se insieme potremmo prendercene cura meglio.
 
 O forse hai riconosciuto un terreno fertile per un tuo seme, una tua idea, e pensi che una persona come me possa essere un acceleratore, una vitamina per mettere a terra la tua idea.

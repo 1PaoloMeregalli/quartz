@@ -1,8 +1,3 @@
----
-categories:
-  - Home
----
-
 >[!quote] **“Non sono uno di quelli che non credono all'amore a prima vista, ma preferisco sempre dare una seconda occhiata”.**
 >Bruce Lee
 

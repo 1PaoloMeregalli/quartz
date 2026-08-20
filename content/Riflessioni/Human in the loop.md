@@ -1,3 +1,10 @@
+---
+categories:
+  - Riflessioni
+tags:
+  - digitale
+  - lavoro
+---
 Oggi alla Ai Week a Milano ho sentito questa frase come non mai ...
 
 > Human in the loop

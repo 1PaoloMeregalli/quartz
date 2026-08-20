@@ -1,3 +1,11 @@
+---
+categories:
+  - Riflessioni
+tags:
+  - digitale
+  - linguaggio
+  - persone
+---
 Non il velo di Maya, ma il velo di MaIA, cioè del velo generato dalla IA.
 
 Il termine deriva della tradizione induista, è  noto a chi pratica yoga e ha letto i testi sacri dei Veda ma anche a chi si è avvicinato a Schopenhauer.

@@ -1,6 +1,8 @@
 ---
 categories:
   - Progetti
+tags:
+  - benessere
 title: NonSoloYoga.it
 ---
 # Non Solo Yoga: Tra respiro e presenza
