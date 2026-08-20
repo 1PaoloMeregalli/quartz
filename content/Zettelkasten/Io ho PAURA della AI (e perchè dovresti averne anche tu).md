@@ -3,6 +3,9 @@ categories:
   - Zettelkasten
 title: Io ho PAURA della AI (e perchè dovresti averne anche tu)
 tags:
+  - digitale
+  - automazione
+  - lavoro
 draft:
 image: /wp-content/uploads/2011/12/montagna.jpg
 ---
