@@ -14,14 +14,19 @@ Cosa che è regolarmente accaduta anche se non credo che in molti abbiano capito
 *****
 ## La Paura
 
-Occore una riflessione sulla **paura** per poter meglio esprimere la mia posizione.
-Amo la montagna, da piccolo, in tutte le sue forme, e molto di quello che sono oggi è il frutto di esperienze maturate proprio in contesti ed avventure montane (anche estreme).
+Mi preme una riflessione sulla **paura**, per esprimere meglio la mia posizione.
+Amo la montagna fin da piccolo, in tutte le sue forme, e molto di ciò che sono oggi è il frutto di esperienze maturate proprio in contesti ed avventure montane, di arrampicate, di ferrate, su ghiacciai, di notti passate in una [truna](https://it.wikipedia.org/wiki/Truna) ad occhi aperti ad aspettare l'alba.
 
-La paura, in montagna, anche per i grandi arrampicatori e alpinisti,
+La **paura**, in montagna, anche per i grandi arrampicatori e alpinisti,
 
 > [!success] **non è un'assenza di emozione, ma un'emozione gestita e trasformata**
 
-Sebbene possa sembrare paradossale, molti scalatori provano paura, inclusa l'acrofobia (paura dell'altezza), e la gestiscono concentrandosi intensamente sulla tecnica, sul movimento e sulla respirazione. [[1](https://www.youtube.com/watch?v=W-kePLwaHzg&t=371), [2](https://www.oliunid.it/blog/stati-emotivi-dell-arrampicata-paura-guido-dacuti-te-lo-dice-oliunid/), [3](https://www.guidodacutipsicologo.it/arrampicare-senza-paura/), [4](https://www.youtube.com/watch?v=pGzM7Z4B8ms)]
+Sebbene possa sembrare paradossale, molti scalatori provano paura, inclusa la paura dell'altezza, e la gestiscono concentrandosi intensamente sulla tecnica, sul movimento e sulla respirazione.
+
+Il mitico Walter Bonatti in una intervista Rai del 19
+
+
+[[1](https://www.youtube.com/watch?v=W-kePLwaHzg&t=371), [2](https://www.oliunid.it/blog/stati-emotivi-dell-arrampicata-paura-guido-dacuti-te-lo-dice-oliunid/), [3](https://www.guidodacutipsicologo.it/arrampicare-senza-paura/), [4](https://www.youtube.com/watch?v=pGzM7Z4B8ms)]
 
 Ecco come i grandi arrampicatori gestiscono la paura:
 
