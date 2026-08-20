@@ -4,6 +4,7 @@ categories:
 title: Io ho PAURA della AI
 tags:
 draft: "true"
+image:
 ---
 Qualche giorno fa ero ad un evento in cui si affrontava l'AI per l'industria produttiva: 
 che impatto potrà avere sulle catene di montaggio, sulla produzione, sulla robotica.
@@ -11,7 +12,10 @@ che impatto potrà avere sulle catene di montaggio, sulla produzione, sulla robo
 Un evento interessante dove però ho colto alcuni luoghi comuni che ho voluto provare a smontare, così mi sono lanciato in un commento che sapevo sarebbe stato una **bomba** e che mi avrebbe attirato le ire di diverse persone. Così è accaduto (e non credo che in molti abbiano capito davvero il mio intervento, ma alla sera un pignoletto ha curato le ferite)
 *****
 ## La Paura
-La paura in montagna, anche per i grandi arrampicatori e alpinisti, ==non è un'assenza di emozione, ma un'emozione gestita e trasformata==. Sebbene possa sembrare paradossale, molti scalatori provano paura, inclusa l'acrofobia (paura dell'altezza), e la gestiscono concentrandosi intensamente sulla tecnica, sul movimento e sulla respirazione. [[1](https://www.youtube.com/watch?v=W-kePLwaHzg&t=371), [2](https://www.oliunid.it/blog/stati-emotivi-dell-arrampicata-paura-guido-dacuti-te-lo-dice-oliunid/), [3](https://www.guidodacutipsicologo.it/arrampicare-senza-paura/), [4](https://www.youtube.com/watch?v=pGzM7Z4B8ms)]
+La paura in montagna, anche per i grandi arrampicatori e alpinisti
+non è un'assenza di emozione, ma un'emozione gestita e trasformata
+
+Sebbene possa sembrare paradossale, molti scalatori provano paura, inclusa l'acrofobia (paura dell'altezza), e la gestiscono concentrandosi intensamente sulla tecnica, sul movimento e sulla respirazione. [[1](https://www.youtube.com/watch?v=W-kePLwaHzg&t=371), [2](https://www.oliunid.it/blog/stati-emotivi-dell-arrampicata-paura-guido-dacuti-te-lo-dice-oliunid/), [3](https://www.guidodacutipsicologo.it/arrampicare-senza-paura/), [4](https://www.youtube.com/watch?v=pGzM7Z4B8ms)]
 
 Ecco come i grandi arrampicatori gestiscono la paura:
 
