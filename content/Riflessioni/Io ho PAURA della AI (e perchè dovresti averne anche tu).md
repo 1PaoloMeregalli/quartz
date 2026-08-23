@@ -38,7 +38,10 @@ Esiste anche per i grandi arrampicatori e per i grandi alpinisti.
 Sebbene possa sembrare paradossale, molti scalatori provano paura, persino dell'altezza.
 Questa paura viene gestita concentrandosi intensamente sulla tecnica, sul movimento, sulla respirazione.
 
-Il mitico Walter Bonatti, in una [Intervista Rai Bonatti 1962](https://www.facebook.com/watch/?v=256861549875443) dice che la paura è la **molla biologica** necessaria ad attivare i riflessi che servono per risolvere una situazione critica.
+Il mitico Walter Bonatti, in una [Intervista Rai Bonatti 1962]([https://www.facebook.com/watch/?v=256861549875443](https://www.teche.rai.it/2021/06/il-22-giugno-1930-nasceva-il-re-delle-alpi/)) dice che la paura è la **molla biologica** necessaria ad attivare i riflessi che servono per risolvere una situazione critica.
+
+[https://www.teche.rai.it/.../Incontro-con-Walter-Bonatti-D2129.mp4](https://www.teche.rai.it/.../Incontro-con-Walter-Bonatti-D2129.mp4)
+
 
 Simone Moro, in [un'intervista](https://www.la7.it/piazzapulita/video/lalpinista-simone-moro-la-paura-e-quella-che-mi-ha-permesso-di-tornare-a-casa-27-11-2020-352615), racconta che per lui la paura è un **indicatore di pericolo**: qualcosa che impedisce al rischio di trasformarsi in panico e permette di mantenere la mente lucida e razionale.
 
