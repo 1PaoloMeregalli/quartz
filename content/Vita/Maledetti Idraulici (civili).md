@@ -1,5 +1,6 @@
 ---
 tags:
+  - personale
 title: Maledetti Idraulici (civili)
 categories:
   - Vita
@@ -29,8 +30,13 @@ Riflettevo che probabilmente il motivo è che avere a che fare con l'acqua ti ap
 del mitico Bruce Lee, forse anche lui era un idraulico !
 (nessun idraulico è stato molestato per questo post)
 
-<iframe
-width="560" height="315"
-src="https://www.youtube-nocookie.com/embed/ID_DEL_TUO_VIDEO" 
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen >
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube-nocookie.com/embed/ER5Z_MyUkJQ?si=nTKCz5C85v_z_ThI&start=930" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
 </iframe>
