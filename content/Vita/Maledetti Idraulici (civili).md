@@ -5,21 +5,21 @@ title: Maledetti Idraulici (civili)
 categories:
   - Vita
 ---
-Non so voi, ma io sono stato sempre sfortunato con gli idraulici che sono passati da casa mia.
+Non so voi, ma io sono sempre stat sfortunato con gli idraulici che sono passati da casa mia.
 Oggi comincio a pensare che si tratti di una categoria tutta a se, che vive di approssimazione.
-Dopotutto come dargli torto, già solo ,misurare un filetto è un casino, lo misuri con un calibro che ti da la misura in millimetri ma poi devi pensare in quarti di pollice.
-Poi hanno la filettatura conica e cilindrica, raccordi europei e raccordi americani ... è chiaro che alla fine uno si arrende e misura un "tot al pezzo" (avrei voluto scrivere una altra cosa ma mi sono trattenuto, tanto avete capito).
+Dopotutto, come dargli torto, già solo misurare un filetto è un casino, lo misuri con un calibro che ti dà la misura in millimetri, ma poi devi pensare in quarti di pollice.
+Poi hanno la filettatura conica e cilindrica, raccordi europei e raccordi americani… è chiaro che alla fine uno si arrende e misura un "tot al pezzo" (avrei voluto scrivere un'altra cosa ma mi sono trattenuto, tanto avete capito).
 
 > [!Info]
-> Nel caso ne conosceste uno bravo perfavore mandatemi il suo riferimento, vi prego.
+> Nel caso ne conosceste uno bravo per favore mandatemi il suo riferimento, vi prego.
 
-E credo che poi tutto questo si ribalti in ogni aspetto della loro aerea.
+E credo che poi tutto questo si ribalti in ogni aspetto della loro area.
 Oggi dovevo comprare un "attacco universale per rubinetto", devo collegare una canna dell'acqua al rubinetto della cucina.
 Ho letto "universale" e ho detto: "figo"
 
-Ed invece di universale non ha proprio nulla perchè sono cominciati i mal di testa.
-Sulla immagine del prodotto vi è scritta una misura in millimetri, nella descrizione in pollici (e fin qui sarebbe facile) ma poi entri nella scheda tecnica e le misure sono ancora diverse.
-Alcuni prodotti esprimono la misura in pollici ma scrivono millimetri, altri millimetri ma scrivono pollici altri usano sigle altri ancora in quarti di pollici.
+Ed invece di universale non ha proprio nulla perché sono cominciati i mal di testa.
+Sull'a 'immagine del prodotto vi è scritta una misura in millimetri, nella descrizione in pollici (e fin qui sarebbe facile) ma poi entri nella scheda tecnica e le misure sono ancora diverse.
+Alcuni prodotti esprimono la misura in pollici ma scrivono in millimetri; altri scrivono in millimetri ma esprimono la misura in pollici; altri usano sigle; altri ancora in quarti di pollice.
 E quando converti, non torna nulla.
 
 Ci ho messo 15 minuti per capire che mi serviva un 3/4 di pollici maschio e altri 15 minuti per trovare un prodotto su amazon in cui la scheda tecnica, la descrizione, la misura sulla immagine corrispondessero.
