@@ -5,6 +5,7 @@ tags:
   - digitale
   - lavoro
 description: "Alla Ai Week di Milano una frase diventa un dubbio: se lasciamo decidere all'AI perché è più brava di noi, chi risponde quando qualcosa va storto?"
+created: 2026-05-19T15:33:52+02:00
 ---
 Oggi alla Ai Week a Milano ho sentito questa frase come non mai ...
 

@@ -9,6 +9,7 @@ tags:
 draft:
 image: "[[Montagne.jpg]]"
 description: "Dopo aver detto in pubblico che dobbiamo avere paura dell'AI, una riflessione sulla paura degli alpinisti: non va eliminata, va trasformata in attenzione e preparazione."
+created: 2026-08-20T14:57:22+02:00
 ---
 Qualche giorno fa ero a un evento in cui si parlava di **AI applicata all'industria**:
 - che impatto potrà avere sulle catene di montaggio, sulla produzione, sulla robotica?

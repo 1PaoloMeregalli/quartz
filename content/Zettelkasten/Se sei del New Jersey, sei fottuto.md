@@ -2,7 +2,7 @@
 categories:
   - Zettelkasten
 title: Se sei del New Jersey, sei fottuto
-date: 2026-04-06
+created: 2026-04-06
 tags:
   - persone
   - bias

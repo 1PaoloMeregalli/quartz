@@ -2,7 +2,7 @@
 categories:
   - Vita
 title: Il Patè del Lago
-date: 2012-12-25T11:28:35+01:00
+created: 2012-12-25T11:28:35+01:00
 author: Paolo Meregalli
 description: "La ricetta di famiglia tramandata da Nonna Gianna: tre generazioni, un cucchiaio di legno, e tanto olio di gomito."
 ---

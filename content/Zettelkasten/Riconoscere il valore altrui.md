@@ -5,7 +5,7 @@ description: "C'è una luce immensa nel riconoscere il valore altrui. Celebrare 
 socialImage: "[[Federica Brignone 2026 Medaglia.jpeg]]"
 tags:
   - persone
-date: 2026-02-16
+created: 2026-02-16
 ---
 ## C'è una luce immensa nel riconoscere il valore altrui. Celebrare l'altro senza temere per la propria ombra: ecco la vera lezione.
 

@@ -3,7 +3,7 @@ categories:
   - Riflessioni
 id:
 title: Il sole sorgere
-date: 2013-12-21T07:58:15+01:00
+created: 2013-12-21T07:58:15+01:00
 author: Paolo Meregalli
 tags:
   - personale

@@ -2,7 +2,7 @@
 categories:
   - Riflessioni
 title: Inganno e Tecnologia
-date: 2012-05-13T15:06:53+02:00
+created: 2012-05-13T15:06:53+02:00
 author: Paolo Meregalli
 image: "[[magia.jpeg]]"
 tags:

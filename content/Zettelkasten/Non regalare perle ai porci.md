@@ -2,7 +2,7 @@
 categories:
   - Zettelkasten
 title: Non regalare perle ai porci
-date: 2026-04-12
+created: 2026-04-12
 socialize_text:
   - Mi capita spesso di dare dei feedback non richiesti, ecco, non fatelo mai !
 tags:

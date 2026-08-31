@@ -4,6 +4,7 @@ categories:
 tags:
   - personale
 description: "Una giornata di lavoro tra un cliente, un guasto imprevisto e una bottiglia di Lambrusco condivisa con uno sconosciuto in autogrill: il senso di un mestiere vissuto sulla strada."
+created: 2026-05-22T19:33:29+02:00
 ---
 Ore 21.09, modena nord, area di servizio
 Una giornata pazzesca, alle 04.00 am questa mattina il mio cervello ha deciso che dovevo alzarmi, non proprio l'orario che avevo immaginato ma, al cervello non si comanda.

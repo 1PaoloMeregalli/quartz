@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "it-IT",
     baseUrl: "www.paolomeregalli.it",
     ignorePatterns: ["private", "templates", ".obsidian", "__bozze"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       typography: {

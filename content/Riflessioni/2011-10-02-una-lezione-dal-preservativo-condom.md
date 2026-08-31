@@ -2,7 +2,7 @@
 categories:
   - Riflessioni
 title: Una Lezione dal Preservativo (Condom)
-date: 02/10/2011
+created: 2011-10-02
 author: Paolo Meregalli
 image: "[[condom 2148259717.jpg]]"
 tags:

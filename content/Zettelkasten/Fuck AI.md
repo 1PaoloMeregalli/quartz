@@ -7,6 +7,7 @@ tags:
   - persone
   - linguaggio
 description: "Se l'output della tua mente può essere replicato da un modello statistico senza che nessuno se ne accorga, il problema non è l'algoritmo: sei tu."
+created: 2026-06-14T19:48:39+02:00
 ---
 Pochi giorni fa un [Ronny Chieng](https://it.wikipedia.org/wiki/Ronny_Chieng) davanti ai neolaureati di Harvard ha lanciato un anatema e ha fomentato gli ascoltatori indicando come loro missione la distruzione della AI
 

@@ -5,6 +5,7 @@ tags:
   - digitale
   - linguaggio
 description: "I testi scritti dall'AI si sono gonfiati di parole senza contenuto: una riflessione su come tornare a scrivere, e a far scrivere alle macchine, per essere capiti, non per essere ammirati."
+created: 2026-05-15T06:54:27+02:00
 ---
 # Hello World e l'entropia Linguistica
 
