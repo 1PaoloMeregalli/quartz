@@ -5,6 +5,7 @@ tags:
   - digitale
   - linguaggio
   - persone
+description: "Le mail iniziano a sembrare tutte uguali, levigate, perfette: il velo di MaIA è l'apparenza generata dall'AI, e forse iniziamo a rimpiangere una risposta imperfetta ma sincera."
 ---
 Non il velo di Maya, ma il velo di MaIA, cioè del velo generato dalla IA.
 

@@ -8,6 +8,7 @@ socialize_text:
 tags:
   - persone
 image: https://upload.wikimedia.org/wikipedia/commons/8/80/Pieter_Brueghel_de_Jonge_-_Parels_voor_de_zwijnen.jpg
+description: "Un feedback non richiesto è quasi sempre un regalo sprecato: una nota per ricordarmelo, con radici bibliche e tanto discernimento."
 ---
 Lo so che così suona male, ma ci casco ogni volta e quindi lo metto qui nella mia scatola dei bigliettini, nella mia [[Zettelkasten/index|Zettelkasten]] come monito per il futuro.
 

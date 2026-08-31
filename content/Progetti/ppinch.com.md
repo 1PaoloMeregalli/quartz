@@ -6,6 +6,7 @@ tags:
   - immagini
   - ecommerce
   - digitale
+description: "Fotografia e post-produzione e-commerce ad alti volumi: come trasformo il caos creativo in una pipeline industriale, con l'AI usata solo dove serve davvero."
 ---
 # ppinch.com: L'ingegneria dietro l'immagine
 

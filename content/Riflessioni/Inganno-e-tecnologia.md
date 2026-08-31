@@ -7,6 +7,7 @@ author: Paolo Meregalli
 image: "[[magia.jpeg]]"
 tags:
   - digitale
+description: "Un mago promette di ingannarti, e lo fa: un pensiero del 2012 su arte, magia e inganno come chiavi per capire cosa ci lega ancora alla tecnologia."
 ---
 ## Anche a me la magia piace,
 

@@ -4,6 +4,7 @@ tags:
 title: Maledetti Idraulici (civili)
 categories:
   - Vita
+description: "Millimetri, pollici e filettature che non tornano mai: una battaglia con un rubinetto \"universale\" che non lo è affatto."
 ---
 Non so voi, ma io sono sempre stato sfortunato con gli idraulici che sono passati da casa mia.
 Oggi comincio a pensare che si tratti di una categoria tutta a sé, che vive dell'approssimazione.

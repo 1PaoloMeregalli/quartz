@@ -8,6 +8,7 @@ tags:
   - lavoro
   - processi
   - sistemi
+description: "Un estratto dal Capitale di Marx sull'Atto delle fabbriche del 1833: per ricordarsi quanto sangue e tempo ci sono dietro ogni processo, prima che diventi automazione."
 ---
 # L'ordinaria follia del 1833
 

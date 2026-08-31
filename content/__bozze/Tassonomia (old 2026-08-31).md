@@ -1,6 +1,6 @@
-> [!note] Aggiornata il 2026-08-31 — versione corrente e fonte unica di verità.
-> La versione precedente è archiviata in `Tassonomia (old 2026-08-31).md`.
-> Modifiche: aggiunto lo standard sul campo `description` (abstract in home/anteprime).
+> [!note] Aggiornata il 2026-08-20 — versione corrente e fonte unica di verità.
+> La versione precedente è archiviata in `Tassonomia (old 2026-08-20).md`.
+> Modifiche: rimossi i tag mai adottati; aggiunti `#benessere`, `#sostenibilita`, `#personale`.
 
 ### 📜 Le Regole d'Oro (da non infrangere mai)
 
@@ -53,14 +53,3 @@ Lista blindata. Se ti viene la tentazione di usare un tag fuori da questa lista:
 - `#benessere` — yoga, mindfulness, presenza, cura di sé
 - `#sostenibilita` — impatto sul pianeta e sull'essere umano, durata nel tempo
 - `#personale` — pezzi intimi, diario, introspezione, vita vissuta
-
----
-
-### 📝 Il campo `description`
-
-Ogni post pubblicato dovrebbe avere un campo `description:` nello YAML: 1-2 frasi nella tua voce, non un riassunto neutro. Serve come abstract ovunque il sito mostra un'anteprima del post (home, liste, card di "Ultimi Aggiornamenti").
-
-- Va scritta a mano (o proposta da Claude e confermata da te), mai generata come primo paragrafo grezzo: molti post iniziano con un callout, un'immagine o una citazione che da sola non funziona come anteprima.
-- Stessa cura della voce del post: aggancio concreto, niente riassunto piatto, va bene chiudere con una domanda aperta o una tensione irrisolta.
-- I file di soglia possono avercela (serve per i social/meta), ma non è un obbligo tassonomico per loro.
-- Standard adottato il 2026-08-31: retrocompilata su tutti i post pubblicati esistenti che ne erano privi.

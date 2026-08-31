@@ -4,6 +4,7 @@ categories:
 tags:
   - digitale
   - linguaggio
+description: "Un traduttore online svela il \"linkedinese\": come una frase semplice diventa un post gonfio di hashtag e leadership da manuale."
 ---
 # Il traduttore Linkedin
 

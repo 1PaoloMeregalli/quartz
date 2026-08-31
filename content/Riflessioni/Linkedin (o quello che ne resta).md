@@ -4,6 +4,7 @@ categories:
 tags:
   - digitale
   - business
+description: "Cosa resta di un social diventato spettacolo e automatismi, e perché continuo a starci cercando connessioni vere in mezzo al rumore."
 ---
 # Linkedin (o quello che ne resta)
 

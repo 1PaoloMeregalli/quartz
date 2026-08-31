@@ -7,6 +7,7 @@ author: Paolo Meregalli
 image: "[[condom 2148259717.jpg]]"
 tags:
   - business
+description: "Una lezione di marketing (e di vita) arrivata dalla vendita di preservativi in Congo: capire davvero chi è il cliente, prima di scegliere il messaggio."
 ---
 # La lezione che non ti aspetti
 

@@ -7,6 +7,7 @@ date: 2013-12-21T07:58:15+01:00
 author: Paolo Meregalli
 tags:
   - personale
+description: "Un Natale in cui il tempo si ferma per ritrovare l'equilibrio perso: dita sul pianoforte, lo Spirito Guida, e la promessa di tornare a guardare solo il sole sorgere."
 ---
 ## Il sole sorgere
 

@@ -1,16 +1,14 @@
 ---
 categories:
-  - Riflessioni
-id: 1211
+  - Vita
 title: What do you wanna be when you grow up ?
 date: 2014-01-14T08:44:30+01:00
 author: Paolo Meregalli
-post_image:
-  - "[[LoganLaPlante.png]]"
+image: "[[LoganLaPlante.png]]"
 tags:
   - lavoro
   - persone
-socialDescription: What do you wanna be when you grow up ? I wanna be happy !!!
+description: "Un video di un bambino di 10 anni che sa già cosa vuole diventare da grande: felice. Una domanda che vale la pena riproporsi anche da adulti."
 ---
 Amazing 11 minutes video for my english speaking friends! Believe me, invest your next 11 minutes listening this 10 years old genius! Touching my heart and my brain! 
 ## I wanna be happy!!!

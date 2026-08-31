@@ -4,6 +4,7 @@ categories:
 tags:
   - benessere
 title: NonSoloYoga.it
+description: "Un seme piantato nel primo lockdown, tra meditazione, podcast e ipnosi: il progetto che sta ancora germogliando per rimettere in asse le persone, non solo le aziende."
 ---
 # Non Solo Yoga: Tra respiro e presenza
 
