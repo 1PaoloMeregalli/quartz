@@ -30,6 +30,14 @@
       }
 
       .section > .desc {
+        > .related-label {
+          margin: 0 0 0.25rem 0;
+          font-size: 0.72rem;
+          text-transform: uppercase;
+          letter-spacing: 0.05em;
+          color: var(--tertiary);
+        }
+
         h3 {
           margin: 0 0 0.35rem 0;
 

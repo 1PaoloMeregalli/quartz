@@ -36,6 +36,11 @@ export const sharedPageComponents: SharedLayout = {
       condition: (page) => page.fileData.slug === "index",
     }),
     Component.ConditionalRender({
+      component: Component.RelatedNotes(),
+      condition: (page) =>
+        Boolean(page.fileData.frontmatter?.categories) && !isFolderPath(page.fileData.slug ?? ""),
+    }),
+    Component.ConditionalRender({
       component: Component.ShareButtons(),
       condition: (page) => page.fileData.slug !== "index",
     }),
