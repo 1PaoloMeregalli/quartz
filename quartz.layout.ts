@@ -1,6 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import SubstackFeed from "./quartz/components/SubstackFeed"
+import { isFolderPath } from "./quartz/util/path"
 
 const explorerOptions = {
   title: "Esplora",
@@ -30,6 +31,7 @@ export const sharedPageComponents: SharedLayout = {
         title: "Ultimi Aggiornamenti",
         limit: 5,
         showTags: true,
+        filter: (f) => Boolean(f.frontmatter?.categories) && !isFolderPath(f.slug ?? ""),
       }),
       condition: (page) => page.fileData.slug === "index",
     }),
