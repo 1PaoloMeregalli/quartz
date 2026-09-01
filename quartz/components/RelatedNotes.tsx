@@ -4,6 +4,8 @@ import { QuartzPluginData } from "../plugins/vfile"
 import style from "./styles/recentNotes.scss"
 import { Date, getDate } from "./Date"
 import { classNames } from "../util/lang"
+import { i18n } from "../i18n"
+import readingTime from "reading-time"
 
 interface Options {
   title?: string
@@ -20,6 +22,7 @@ function isRealPost(f: QuartzPluginData): boolean {
 interface RelatedItem {
   page: QuartzPluginData
   label: string
+  matchType: "tag" | "category"
 }
 
 export default ((userOpts?: Partial<Options>) => {
@@ -75,10 +78,14 @@ export default ((userOpts?: Partial<Options>) => {
       const sharedTag = ((tagMatch.frontmatter?.tags ?? []) as string[]).find((t) =>
         currentTags.includes(t),
       )
-      items.push({ page: tagMatch, label: `Stesso tag: #${sharedTag}` })
+      items.push({ page: tagMatch, label: `Stesso tag: #${sharedTag}`, matchType: "tag" })
     }
     if (categoryMatch) {
-      items.push({ page: categoryMatch, label: `Stessa categoria: ${currentCategory}` })
+      items.push({
+        page: categoryMatch,
+        label: `Stessa categoria: ${currentCategory}`,
+        matchType: "category",
+      })
     }
 
     if (items.length === 0) {
@@ -89,16 +96,21 @@ export default ((userOpts?: Partial<Options>) => {
       <div class={classNames(displayClass, "recent-notes", "related-notes")}>
         <h3>{opts.title}</h3>
         <ul class="recent-ul">
-          {items.map(({ page, label }) => {
+          {items.map(({ page, label, matchType }) => {
             const title = page.frontmatter?.title ?? page.slug
             const tags = (page.frontmatter?.tags ?? []) as string[]
             const description = page.frontmatter?.description as string | undefined
+            const pageDate = getDate(cfg, page)
+            const { minutes } = readingTime(page.text ?? "")
+            const readingTimeText = i18n(cfg.locale).components.contentMeta.readingTime({
+              minutes: Math.ceil(minutes),
+            })
 
             return (
-              <li class="recent-li">
+              <li class={`recent-li match-${matchType}`}>
                 <div class="section">
                   <div class="desc">
-                    <p class="related-label">{label}</p>
+                    <p class="card-eyebrow">{label}</p>
                     <h3>
                       <a
                         href={resolveRelative(fileData.slug!, page.slug!)}
@@ -109,11 +121,15 @@ export default ((userOpts?: Partial<Options>) => {
                     </h3>
                     {description && <p class="excerpt">{description}</p>}
                   </div>
-                  {page.dates && (
-                    <p class="meta">
-                      <Date date={getDate(cfg, page)!} locale={cfg.locale} />
-                    </p>
-                  )}
+                  <p class="meta">
+                    {pageDate && (
+                      <>
+                        <Date date={pageDate} locale={cfg.locale} />
+                        <span class="dot">·</span>
+                      </>
+                    )}
+                    {readingTimeText}
+                  </p>
                   {tags.length > 0 && (
                     <ul class="tags">
                       {tags.map((tag) => (

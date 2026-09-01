@@ -7,6 +7,7 @@ import { Date, getDate } from "./Date"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
+import readingTime from "reading-time"
 
 interface Options {
   title?: string
@@ -43,11 +44,19 @@ export default ((userOpts?: Partial<Options>) => {
             const title = page.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
             const tags = page.frontmatter?.tags ?? []
             const description = page.frontmatter?.description as string | undefined
+            const categories = (page.frontmatter?.categories ?? []) as string[]
+            const pageDate = getDate(cfg, page)
+            const catalogCode = [categories[0], pageDate?.getFullYear()].filter(Boolean).join(" · ")
+            const { minutes } = readingTime(page.text ?? "")
+            const readingTimeText = i18n(cfg.locale).components.contentMeta.readingTime({
+              minutes: Math.ceil(minutes),
+            })
 
             return (
               <li class="recent-li">
                 <div class="section">
                   <div class="desc">
+                    {catalogCode && <p class="card-eyebrow">{catalogCode}</p>}
                     <h3>
                       <a
                         href={resolveRelative(fileData.slug!, page.slug!)}
@@ -58,11 +67,15 @@ export default ((userOpts?: Partial<Options>) => {
                     </h3>
                     {description && <p class="excerpt">{description}</p>}
                   </div>
-                  {page.dates && (
-                    <p class="meta">
-                      <Date date={getDate(cfg, page)!} locale={cfg.locale} />
-                    </p>
-                  )}
+                  <p class="meta">
+                    {pageDate && (
+                      <>
+                        <Date date={pageDate} locale={cfg.locale} />
+                        <span class="dot">·</span>
+                      </>
+                    )}
+                    {readingTimeText}
+                  </p>
                   {opts.showTags && (
                     <ul class="tags">
                       {tags.map((tag) => (

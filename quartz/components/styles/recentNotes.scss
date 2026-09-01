@@ -15,26 +15,38 @@
     & > li.recent-li {
       position: relative;
       margin: 0;
-      padding: 1rem 1.2rem;
-      border: 1.5px solid var(--gray);
-      border-radius: 8px;
+      padding: 1.1rem 1.2rem 1rem;
+      border: 1px solid var(--lightgray);
+      border-top: 3px solid var(--tertiary);
+      border-radius: 3px;
       transition:
         border-color 0.2s ease,
         background-color 0.2s ease,
         transform 0.15s ease;
 
+      &.match-tag {
+        border-top-color: var(--secondary);
+      }
+
       &:hover {
-        border-color: var(--secondary);
+        border-color: var(--tertiary);
+        border-top-color: var(--tertiary);
         background-color: var(--highlight);
         transform: translateY(-1px);
       }
 
+      &.match-tag:hover {
+        border-color: var(--secondary);
+        border-top-color: var(--secondary);
+      }
+
       .section > .desc {
-        > .related-label {
-          margin: 0 0 0.25rem 0;
-          font-size: 0.72rem;
+        > .card-eyebrow {
+          margin: 0 0 0.3rem 0;
+          font-family: var(--codeFont);
+          font-size: 0.7rem;
           text-transform: uppercase;
-          letter-spacing: 0.05em;
+          letter-spacing: 0.06em;
           color: var(--tertiary);
         }
 
@@ -61,14 +73,38 @@
         }
       }
 
+      &.match-tag .section > .desc > .card-eyebrow {
+        color: var(--secondary);
+      }
+
       .section > .meta {
-        margin: 0 0 0.5rem 0;
+        display: flex;
+        align-items: center;
+        gap: 0.35rem;
+        margin: 0 0 0.6rem 0;
+        font-family: var(--codeFont);
+        font-size: 0.72rem;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
         opacity: 0.6;
       }
 
       .section > .tags {
         position: relative;
         z-index: 2;
+
+        li > a.tag-link {
+          background-color: transparent;
+          border: 1px solid var(--secondary);
+          border-radius: 2px;
+          font-family: var(--codeFont);
+          font-size: 0.78rem;
+          padding: 0.1rem 0.45rem;
+        }
+      }
+
+      &.match-category .section > .tags li > a.tag-link {
+        border-color: var(--tertiary);
       }
     }
   }
