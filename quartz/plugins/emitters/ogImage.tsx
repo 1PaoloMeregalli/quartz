@@ -2,7 +2,12 @@ import { QuartzEmitterPlugin } from "../types"
 import { i18n } from "../../i18n"
 import { unescapeHTML } from "../../util/escape"
 import { FullSlug, getFileExtension, isAbsoluteURL, joinSegments, QUARTZ } from "../../util/path"
-import { ImageOptions, SocialImageOptions, defaultImage, getSatoriFonts } from "../../util/og"
+import {
+  ImageOptions,
+  SocialImageOptions,
+  herbariumImage,
+  getSatoriFonts,
+} from "../../util/og"
 import sharp from "sharp"
 import satori, { SatoriOptions } from "satori"
 import { loadEmoji, getIconCode } from "../../util/emoji"
@@ -17,7 +22,7 @@ const defaultOptions: SocialImageOptions = {
   colorScheme: "lightMode",
   width: 1200,
   height: 630,
-  imageStructure: defaultImage,
+  imageStructure: herbariumImage,
   excludeRoot: false,
 }
 
@@ -113,7 +118,8 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       const cfg = ctx.cfg.configuration
       const headerFont = cfg.theme.typography.header
       const bodyFont = cfg.theme.typography.body
-      const fonts = await getSatoriFonts(headerFont, bodyFont)
+      const codeFont = cfg.theme.typography.code
+      const fonts = await getSatoriFonts(headerFont, bodyFont, codeFont)
 
       for (const [_tree, vfile] of content) {
         if (vfile.data.frontmatter?.socialImage !== undefined) continue
@@ -124,7 +130,8 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       const cfg = ctx.cfg.configuration
       const headerFont = cfg.theme.typography.header
       const bodyFont = cfg.theme.typography.body
-      const fonts = await getSatoriFonts(headerFont, bodyFont)
+      const codeFont = cfg.theme.typography.code
+      const fonts = await getSatoriFonts(headerFont, bodyFont, codeFont)
 
       // find all slugs that changed or were added
       for (const changeEvent of changeEvents) {

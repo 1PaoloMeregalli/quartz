@@ -14,8 +14,12 @@ import { styleText } from "util"
 const defaultHeaderWeight = [700]
 const defaultBodyWeight = [400]
 
-export async function getSatoriFonts(headerFont: FontSpecification, bodyFont: FontSpecification) {
-  // Get all weights for header and body fonts
+export async function getSatoriFonts(
+  headerFont: FontSpecification,
+  bodyFont: FontSpecification,
+  codeFont?: FontSpecification,
+) {
+  // Get all weights for header, body, and (optional) code fonts
   const headerWeights: FontWeight[] = (
     typeof headerFont === "string"
       ? defaultHeaderWeight
@@ -24,9 +28,18 @@ export async function getSatoriFonts(headerFont: FontSpecification, bodyFont: Fo
   const bodyWeights: FontWeight[] = (
     typeof bodyFont === "string" ? defaultBodyWeight : (bodyFont.weights ?? defaultBodyWeight)
   ) as FontWeight[]
+  const codeWeights: FontWeight[] = (
+    codeFont === undefined
+      ? []
+      : typeof codeFont === "string"
+        ? defaultBodyWeight
+        : (codeFont.weights ?? defaultBodyWeight)
+  ) as FontWeight[]
 
   const headerFontName = typeof headerFont === "string" ? headerFont : headerFont.name
   const bodyFontName = typeof bodyFont === "string" ? bodyFont : bodyFont.name
+  const codeFontName =
+    codeFont === undefined ? undefined : typeof codeFont === "string" ? codeFont : codeFont.name
 
   // Fetch fonts for all weights and convert to satori format in one go
   const headerFontPromises = headerWeights.map(async (weight) => {
@@ -51,15 +64,30 @@ export async function getSatoriFonts(headerFont: FontSpecification, bodyFont: Fo
     }
   })
 
-  const [headerFonts, bodyFonts] = await Promise.all([
+  const codeFontPromises = codeFontName
+    ? codeWeights.map(async (weight) => {
+        const data = await fetchTtf(codeFontName, weight)
+        if (!data) return null
+        return {
+          name: codeFontName,
+          data,
+          weight,
+          style: "normal" as const,
+        }
+      })
+    : []
+
+  const [headerFonts, bodyFonts, codeFonts] = await Promise.all([
     Promise.all(headerFontPromises),
     Promise.all(bodyFontPromises),
+    Promise.all(codeFontPromises),
   ])
 
-  // Filter out any failed fetches and combine header and body fonts
+  // Filter out any failed fetches and combine header, body, and code fonts
   const fonts: SatoriOptions["fonts"] = [
     ...headerFonts.filter((font): font is NonNullable<typeof font> => font !== null),
     ...bodyFonts.filter((font): font is NonNullable<typeof font> => font !== null),
+    ...codeFonts.filter((font): font is NonNullable<typeof font> => font !== null),
   ]
 
   return fonts
@@ -371,6 +399,228 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
               #{tag}
             </div>
           ))}
+        </div>
+      </div>
+    </div>
+  )
+}
+
+
+// "Cartellino da erbario" — treats each post like a herbarium specimen /
+// zettelkasten catalog card: a ruled frame, a catalog-style meta line,
+// a large title, and a single botanical accent. Uses only colors already
+// defined in the site theme.
+export const herbariumImage: SocialImageOptions["imageStructure"] = ({
+  cfg,
+  userOpts,
+  title,
+  description,
+  fileData,
+  iconBase64,
+}) => {
+  const { colorScheme } = userOpts
+  const colors = cfg.theme.colors[colorScheme]
+  const fontBreakPoint = 32
+  const useSmallerFont = title.length > fontBreakPoint
+
+  const rawDate = getDate(cfg, fileData)
+  const date = rawDate ? formatDate(rawDate, cfg.locale) : null
+  const year = rawDate ? rawDate.getFullYear() : undefined
+
+  const { minutes } = readingTime(fileData.text ?? "")
+  const readingTimeText = i18n(cfg.locale).components.contentMeta.readingTime({
+    minutes: Math.ceil(minutes),
+  })
+
+  const categories = (fileData.frontmatter?.categories ?? []) as string[]
+  const category = categories[0]
+  const catalogCode = [category, year].filter(Boolean).join(" · ")
+
+  const tags = (fileData.frontmatter?.tags ?? []) as string[]
+  const tag = tags[0]
+
+  const bodyFont = getFontSpecificationName(cfg.theme.typography.body)
+  const headerFont = getFontSpecificationName(cfg.theme.typography.header)
+  const codeFont = getFontSpecificationName(cfg.theme.typography.code)
+
+  return (
+    <div
+      style={{
+        display: "flex",
+        height: "100%",
+        width: "100%",
+        backgroundColor: colors.light,
+        padding: "2rem",
+        fontFamily: bodyFont,
+      }}
+    >
+      {/* Ruled frame */}
+      <div
+        style={{
+          display: "flex",
+          flexDirection: "column",
+          justifyContent: "space-between",
+          flex: 1,
+          border: `1px solid ${colors.lightgray}`,
+          padding: "2.75rem",
+        }}
+      >
+        {/* Header: seal + catalog code, domain */}
+        <div
+          style={{
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "space-between",
+          }}
+        >
+          <div style={{ display: "flex", alignItems: "center", gap: "1rem" }}>
+            {iconBase64 && (
+              <div
+                style={{
+                  display: "flex",
+                  width: 60,
+                  height: 60,
+                  borderRadius: "50%",
+                  border: `2px solid ${colors.secondary}`,
+                  padding: 4,
+                }}
+              >
+                <img src={iconBase64} width={52} height={52} style={{ borderRadius: "50%" }} />
+              </div>
+            )}
+            {catalogCode && (
+              <div
+                style={{
+                  display: "flex",
+                  fontSize: 26,
+                  fontFamily: codeFont,
+                  color: colors.tertiary,
+                  textTransform: "uppercase",
+                  letterSpacing: "0.08em",
+                }}
+              >
+                {catalogCode}
+              </div>
+            )}
+          </div>
+          <div
+            style={{
+              display: "flex",
+              fontSize: 24,
+              fontFamily: codeFont,
+              color: colors.gray,
+            }}
+          >
+            {cfg.baseUrl}
+          </div>
+        </div>
+
+        {/* Title + rule + description */}
+        <div style={{ display: "flex", flexDirection: "column", flex: 1, marginTop: "1.75rem" }}>
+          <h1
+            style={{
+              margin: 0,
+              fontSize: useSmallerFont ? 62 : 70,
+              fontFamily: headerFont,
+              fontWeight: 700,
+              color: colors.dark,
+              lineHeight: 1.15,
+              display: "-webkit-box",
+              WebkitBoxOrient: "vertical",
+              WebkitLineClamp: 2,
+              overflow: "hidden",
+              maxWidth: "90%",
+            }}
+          >
+            {title}
+          </h1>
+          <div
+            style={{
+              display: "flex",
+              width: 96,
+              height: 1,
+              backgroundColor: colors.lightgray,
+              margin: "1.5rem 0",
+            }}
+          />
+          <p
+            style={{
+              display: "-webkit-box",
+              WebkitBoxOrient: "vertical",
+              WebkitLineClamp: 3,
+              overflow: "hidden",
+              margin: 0,
+              fontSize: 32,
+              lineHeight: 1.45,
+              color: colors.darkgray,
+              maxWidth: "82%",
+            }}
+          >
+            {description}
+          </p>
+        </div>
+
+        {/* Footer: date/reading time, sprout mark, tag */}
+        <div
+          style={{
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "space-between",
+            borderTop: `1px dashed ${colors.lightgray}`,
+            paddingTop: "1.5rem",
+            marginTop: "1.5rem",
+          }}
+        >
+          <div
+            style={{
+              display: "flex",
+              fontSize: 24,
+              fontFamily: codeFont,
+              color: colors.gray,
+              textTransform: "uppercase",
+              letterSpacing: "0.05em",
+            }}
+          >
+            {[date, readingTimeText].filter(Boolean).join(" · ")}
+          </div>
+
+          <div style={{ display: "flex", alignItems: "center", gap: "1.25rem" }}>
+            <svg width="30" height="30" viewBox="0 0 24 24" style={{ opacity: 0.7 }}>
+              <path d="M12 21V9" fill="none" stroke={colors.tertiary} strokeWidth="1.6" strokeLinecap="round" />
+              <path
+                d="M12 13c0-4 3-7 7-7-1 4-3 7-7 7Z"
+                fill="none"
+                stroke={colors.tertiary}
+                strokeWidth="1.6"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+              <path
+                d="M12 17c0-3.3-2.7-6-6-6 1 3.3 2.7 6 6 6Z"
+                fill="none"
+                stroke={colors.tertiary}
+                strokeWidth="1.6"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+            {tag && (
+              <div
+                style={{
+                  display: "flex",
+                  fontSize: 24,
+                  fontFamily: codeFont,
+                  color: colors.secondary,
+                  border: `1px solid ${colors.secondary}`,
+                  borderRadius: 2,
+                  padding: "0.4rem 0.9rem",
+                  textTransform: "uppercase",
+                }}
+              >
+                #{tag}
+              </div>
+            )}
+          </div>
         </div>
       </div>
     </div>
