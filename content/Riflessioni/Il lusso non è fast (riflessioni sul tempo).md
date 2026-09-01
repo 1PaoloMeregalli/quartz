@@ -7,7 +7,6 @@ description: Riflessione sullo yoga
 tags:
   - business
   - sostenibilita
-image:
 ---
 ![[Il mio pane.jpg]]
 

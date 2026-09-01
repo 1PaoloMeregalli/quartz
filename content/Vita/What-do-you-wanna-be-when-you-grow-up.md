@@ -4,7 +4,6 @@ categories:
 title: What do you wanna be when you grow up ?
 created: 2014-01-14T08:44:30+01:00
 author: Paolo Meregalli
-image: "[[LoganLaPlante.png]]"
 tags:
   - lavoro
   - persone

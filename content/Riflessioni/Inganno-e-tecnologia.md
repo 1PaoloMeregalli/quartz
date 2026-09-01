@@ -4,7 +4,6 @@ categories:
 title: Inganno e Tecnologia
 created: 2012-05-13T15:06:53+02:00
 author: Paolo Meregalli
-image: "[[magia.jpeg]]"
 tags:
   - digitale
 description: "Un mago promette di ingannarti, e lo fa: un pensiero del 2012 su arte, magia e inganno come chiavi per capire cosa ci lega ancora alla tecnologia."
