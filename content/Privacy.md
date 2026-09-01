@@ -28,10 +28,6 @@ Sei tu a decidere se e quando cliccare per andare su YouTube.
 
 >[!info] Per i piu curiosi basta puntare la chiamata a **`youtube-nocookie.com`** 
 
-### ☕ Affiliazioni Amazon
-Se suggerisco un libro o un tool, o qualche stupidata probabilmente uso un link di affiliazione (non è detto che me ne ricordi).
-Se segui quel link potrebbe essere che corri il rischio di offrirmi un caffè.
-**A te il costo non cambia**, ma mi avrai fatto felice :-)
 ### 📡 RSS: Riprenditi il controllo (Anti-Algoritmo)
 Potrebbe sembrare una tecnologia anacronistica, ma ho scelto di offrire un feed **[RSS](/index.xml)** perché credo fermamente nel ritorno al controllo dei propri contenuti.
 
