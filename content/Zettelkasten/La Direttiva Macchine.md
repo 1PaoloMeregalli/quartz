@@ -9,6 +9,9 @@ tags:
   - lavoro
   - sistemi
 description: "Il corso sulla Direttiva Macchine tenuto con Filippo Scopazzo per RSPP e ASPP: pieno in poco tempo, seguibile a distanza con l'hashtag della community."
+related:
+  - "Non basta neppure la CE!"
+  - "Grazie Ministro Gentiloni, RFID."
 ---
 ![[safety.jpeg]]
 

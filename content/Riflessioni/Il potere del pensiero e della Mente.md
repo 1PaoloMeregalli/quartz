@@ -9,6 +9,8 @@ tags:
   - personale
   - bias
 description: "Uno studio su tre gruppi di studenti di basket dimostra che allenarsi solo mentalmente migliora la prestazione quasi quanto allenarsi davvero: il potere della pratica immaginata."
+related:
+  - "L'urlo 1893 e le ancore (pnl)"
 ---
 ![[bevuto-troppo.jpg]]
 

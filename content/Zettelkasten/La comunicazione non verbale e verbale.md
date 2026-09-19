@@ -9,6 +9,9 @@ tags:
   - linguaggio
   - persone
 description: "Un inaspettato Claudio Bisio racconta con maestria i cinque principi della comunicazione di Watzlawick: a volte la cultura pop spiega meglio di tanti manuali."
+related:
+  - "La comunicazione ..."
+  - "L'urlo 1893 e le ancore (pnl)"
 ---
 ![[bisio.jpg]]
 

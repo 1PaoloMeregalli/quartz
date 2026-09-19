@@ -9,6 +9,9 @@ tags:
   - business
   - persone
 description: "Come riconoscere una scuola di PNL seria da chi promette di farti diventare ricco in 10 giorni: tre criteri concreti prima di scegliere un corso."
+related:
+  - "La comunicazione ..."
+  - "L'urlo 1893 e le ancore (pnl)"
 ---
 ![[the-society-of-nlp.jpg]]
 

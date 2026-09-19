@@ -9,6 +9,9 @@ tags:
   - sistemi
   - lavoro
 description: "Un video da tenere a mente ogni volta che si cammina fuori dalle righe riservate ai pedoni, in un magazzino."
+related:
+  - "Muletti e attività neuronali"
+  - 'Sicurezza da "Polli"'
 ---
 ![[prontosoccorso.jpg]]
 

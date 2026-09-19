@@ -9,6 +9,8 @@ tags:
   - sistemi
   - lavoro
 description: "Un video di un muletto che demolisce una scaffalatura di magazzino: i neuroni si atrofizzano, e con loro anche le più banali norme di buon senso."
+related:
+  - "Muletti, Top 10"
 ---
 ![[muletto.jpg]]
 

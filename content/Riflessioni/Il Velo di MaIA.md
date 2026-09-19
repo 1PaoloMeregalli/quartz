@@ -7,6 +7,10 @@ tags:
   - persone
 description: "Le mail iniziano a sembrare tutte uguali, levigate, perfette: il velo di MaIA è l'apparenza generata dall'AI, e forse iniziamo a rimpiangere una risposta imperfetta ma sincera."
 created: 2026-07-10T06:25:42+02:00
+related:
+  - "Fuck AI"
+  - "Io ho PAURA della AI (e perchè dovresti averne anche tu)"
+  - "Essere IN"
 ---
 Non il velo di Maya, ma il velo di MaIA, cioè del velo generato dalla IA.
 

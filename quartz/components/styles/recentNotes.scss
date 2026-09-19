@@ -24,7 +24,8 @@
         background-color 0.2s ease,
         transform 0.15s ease;
 
-      &.match-tag {
+      &.match-tag,
+      &.match-curated {
         border-top-color: var(--secondary);
       }
 
@@ -35,7 +36,8 @@
         transform: translateY(-1px);
       }
 
-      &.match-tag:hover {
+      &.match-tag:hover,
+      &.match-curated:hover {
         border-color: var(--secondary);
         border-top-color: var(--secondary);
       }

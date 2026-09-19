@@ -6,6 +6,9 @@ tags:
   - linguaggio
 description: "Un traduttore online svela il \"linkedinese\": come una frase semplice diventa un post gonfio di hashtag e leadership da manuale."
 created: 2026-04-05T12:18:05+02:00
+related:
+  - "Why I won't connect with you (in LINKEDIN)"
+  - "Linkedin (o quello che ne resta)"
 ---
 # Il traduttore Linkedin
 

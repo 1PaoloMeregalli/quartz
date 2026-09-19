@@ -9,6 +9,8 @@ tags:
   - sistemi
   - lavoro
 description: "Un video su un uso decisamente disinvolto dei DPI: giochiamo a trovare l'errore, più ne troviamo più alleniamo il nostro istinto per il rischio."
+related:
+  - "DPI-Il casco"
 ---
 ![[assorbitore-di-energia.jpg]]
 

@@ -9,6 +9,9 @@ tags:
   - sistemi
   - lavoro
 description: "Su un peschereccio insegnano prima a istruire dei polli e poi a lavorare in sicurezza: un caso di formazione comportamentale che in Italia non ho mai visto replicare."
+related:
+  - "DPI-Il casco"
+  - "Muletti, Top 10"
 ---
 ![[chips.jpg]]
 

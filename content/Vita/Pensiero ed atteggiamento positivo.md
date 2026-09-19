@@ -9,6 +9,9 @@ tags:
   - personale
   - benessere
 description: "Una gita sul Monte Parè con tempo incerto mi ha ricordato la differenza tra pensiero positivo e atteggiamento positivo: il primo prepara, il secondo guida l'azione."
+related:
+  - "Essere IN"
+  - "Il Rumore, la Fretta, il Silenzio."
 ---
 ![[parè.jpg]]
 

@@ -9,6 +9,9 @@ tags:
   - bias
   - business
 description: "Uno studio di marketing scoprì che i cioccolatini più cari vendono meglio nella confezione più economica: la classe sociale del destinatario conta più della qualità del prodotto."
+related:
+  - "L'abito non fa il monaco, forse!"
+  - "Non facciamoci influenzare ..."
 ---
 ![[cioccolatini.jpeg]]
 

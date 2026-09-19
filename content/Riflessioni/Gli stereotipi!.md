@@ -9,6 +9,8 @@ tags:
   - bias
   - persone
 description: "Un video di inglesi in vacanza in Italia mi ha fatto ridere e riflettere insieme: quanti stereotipi ce li costruiamo da soli?"
+related:
+  - "L'abito non fa il monaco, forse!"
 ---
 ![[stereotipi.jpeg]]
 

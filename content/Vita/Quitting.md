@@ -8,6 +8,8 @@ image: "[[20140727-081846-29926361-300x210.jpg]]"
 tags:
   - personale
 description: "Uscire dalla propria comfort zone non è come esserne spinti fuori: richiede un'energia diversa. Ma con quali benefici?"
+related:
+  - "THAT'S IT I QUIT I'M MOVIN'"
 ---
 ![[20140727-081846-29926361-300x210.jpg]]
 

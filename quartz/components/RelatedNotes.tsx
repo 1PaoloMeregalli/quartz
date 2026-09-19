@@ -9,10 +9,12 @@ import readingTime from "reading-time"
 
 interface Options {
   title?: string
+  curatedTitle?: string
 }
 
 const defaultOptions: Options = {
   title: "Un altro seme",
+  curatedTitle: "Vedi anche",
 }
 
 function isRealPost(f: QuartzPluginData): boolean {
@@ -22,7 +24,7 @@ function isRealPost(f: QuartzPluginData): boolean {
 interface RelatedItem {
   page: QuartzPluginData
   label: string
-  matchType: "tag" | "category"
+  matchType: "tag" | "category" | "curated"
 }
 
 export default ((userOpts?: Partial<Options>) => {
@@ -40,11 +42,31 @@ export default ((userOpts?: Partial<Options>) => {
 
     const candidates = allFiles.filter((f) => isRealPost(f) && f.slug !== fileData.slug)
 
+    // 0) Collegamenti curati a mano, dal campo frontmatter "related"
+    // Si scrive come lista di titoli esatti dei post collegati:
+    //   related:
+    //     - "Titolo del primo post"
+    //     - "Titolo del secondo post"
+    const relatedTitles = (fileData.frontmatter?.related ?? []) as string[]
+    const curatedMatches: QuartzPluginData[] = []
+    if (relatedTitles.length > 0) {
+      for (const wanted of relatedTitles) {
+        const cleaned = wanted.replace(/^\[\[|\]\]$/g, "").trim()
+        const match = candidates.find(
+          (f) => (f.frontmatter?.title ?? "").toString().trim() === cleaned,
+        )
+        if (match && !curatedMatches.includes(match)) {
+          curatedMatches.push(match)
+        }
+      }
+    }
+
     // 1) Post che condivide più tag in comune, a parità il più recente
     let tagMatch: QuartzPluginData | undefined
     if (currentTags.length > 0) {
       let bestOverlap = 0
       for (const f of candidates) {
+        if (curatedMatches.includes(f)) continue
         const tags = (f.frontmatter?.tags ?? []) as string[]
         const overlap = tags.filter((t) => currentTags.includes(t)).length
         if (overlap === 0) continue
@@ -64,7 +86,7 @@ export default ((userOpts?: Partial<Options>) => {
     let categoryMatch: QuartzPluginData | undefined
     if (currentCategory) {
       for (const f of candidates) {
-        if (f === tagMatch) continue
+        if (f === tagMatch || curatedMatches.includes(f)) continue
         const cats = (f.frontmatter?.categories ?? []) as string[]
         if (!cats.includes(currentCategory)) continue
         if (!categoryMatch || getDate(cfg, f)!.getTime() > getDate(cfg, categoryMatch)!.getTime()) {
@@ -73,82 +95,102 @@ export default ((userOpts?: Partial<Options>) => {
       }
     }
 
-    const items: RelatedItem[] = []
+    const curatedItems: RelatedItem[] = curatedMatches.map((page) => ({
+      page,
+      label: opts.curatedTitle!,
+      matchType: "curated",
+    }))
+
+    const autoItems: RelatedItem[] = []
     if (tagMatch) {
       const sharedTag = ((tagMatch.frontmatter?.tags ?? []) as string[]).find((t) =>
         currentTags.includes(t),
       )
-      items.push({ page: tagMatch, label: `Stesso tag: #${sharedTag}`, matchType: "tag" })
+      autoItems.push({ page: tagMatch, label: `Stesso tag: #${sharedTag}`, matchType: "tag" })
     }
     if (categoryMatch) {
-      items.push({
+      autoItems.push({
         page: categoryMatch,
         label: `Stessa categoria: ${currentCategory}`,
         matchType: "category",
       })
     }
 
-    if (items.length === 0) {
+    if (curatedItems.length === 0 && autoItems.length === 0) {
       return null
     }
 
+    const renderItems = (items: RelatedItem[]) => (
+      <ul class="recent-ul">
+        {items.map(({ page, label, matchType }) => {
+          const title = page.frontmatter?.title ?? page.slug
+          const tags = (page.frontmatter?.tags ?? []) as string[]
+          const description = page.frontmatter?.description as string | undefined
+          const pageDate = getDate(cfg, page)
+          const { minutes } = readingTime(page.text ?? "")
+          const readingTimeText = i18n(cfg.locale).components.contentMeta.readingTime({
+            minutes: Math.ceil(minutes),
+          })
+
+          return (
+            <li class={`recent-li match-${matchType}`}>
+              <div class="section">
+                <div class="desc">
+                  <p class="card-eyebrow">{label}</p>
+                  <h3>
+                    <a
+                      href={resolveRelative(fileData.slug!, page.slug!)}
+                      class="internal stretched-link"
+                    >
+                      {title}
+                    </a>
+                  </h3>
+                  {description && <p class="excerpt">{description}</p>}
+                </div>
+                <p class="meta">
+                  {pageDate && (
+                    <>
+                      <Date date={pageDate} locale={cfg.locale} />
+                      <span class="dot">·</span>
+                    </>
+                  )}
+                  {readingTimeText}
+                </p>
+                {tags.length > 0 && (
+                  <ul class="tags">
+                    {tags.map((tag) => (
+                      <li>
+                        <a
+                          class="internal tag-link"
+                          href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                        >
+                          {tag}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+            </li>
+          )
+        })}
+      </ul>
+    )
+
     return (
       <div class={classNames(displayClass, "recent-notes", "related-notes")}>
-        <h3>{opts.title}</h3>
-        <ul class="recent-ul">
-          {items.map(({ page, label, matchType }) => {
-            const title = page.frontmatter?.title ?? page.slug
-            const tags = (page.frontmatter?.tags ?? []) as string[]
-            const description = page.frontmatter?.description as string | undefined
-            const pageDate = getDate(cfg, page)
-            const { minutes } = readingTime(page.text ?? "")
-            const readingTimeText = i18n(cfg.locale).components.contentMeta.readingTime({
-              minutes: Math.ceil(minutes),
-            })
-
-            return (
-              <li class={`recent-li match-${matchType}`}>
-                <div class="section">
-                  <div class="desc">
-                    <p class="card-eyebrow">{label}</p>
-                    <h3>
-                      <a
-                        href={resolveRelative(fileData.slug!, page.slug!)}
-                        class="internal stretched-link"
-                      >
-                        {title}
-                      </a>
-                    </h3>
-                    {description && <p class="excerpt">{description}</p>}
-                  </div>
-                  <p class="meta">
-                    {pageDate && (
-                      <>
-                        <Date date={pageDate} locale={cfg.locale} />
-                        <span class="dot">·</span>
-                      </>
-                    )}
-                    {readingTimeText}
-                  </p>
-                  {tags.length > 0 && (
-                    <ul class="tags">
-                      {tags.map((tag) => (
-                        <li>
-                          <a
-                            class="internal tag-link"
-                            href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                          >
-                            {tag}
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
-                  )}
-                </div>
-              </li>
-            )
-          })}
-        </ul>
+        {curatedItems.length > 0 && (
+          <>
+            <h3>{opts.curatedTitle}</h3>
+            {renderItems(curatedItems)}
+          </>
+        )}
+        {autoItems.length > 0 && (
+          <>
+            <h3>{opts.title}</h3>
+            {renderItems(autoItems)}
+          </>
+        )}
       </div>
     )
   }

@@ -9,6 +9,8 @@ tags:
   - tracciabilita
   - sistemi
 description: "In Italia gli RFID UHF sono arrivati con anni di ritardo rispetto al resto del mondo: quando la burocrazia frena la tecnologia più della tecnologia stessa."
+related:
+  - "Non basta neppure la CE!"
 ---
 ![[burocrazia.jpg]]
 

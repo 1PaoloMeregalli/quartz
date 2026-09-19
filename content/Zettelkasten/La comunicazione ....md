@@ -9,6 +9,9 @@ tags:
   - linguaggio
   - persone
 description: "Tre battute in romanesco su quanto la comunicazione non verbale conti più delle parole: a volte il dialetto spiega un concetto meglio di un trattato."
+related:
+  - "La comunicazione non verbale e verbale"
+  - "PNL, Practitioner e Master Practitioner"
 ---
 ![[comunicazione-non-verbale.jpg]]
 

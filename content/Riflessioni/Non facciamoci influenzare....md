@@ -9,6 +9,8 @@ tags:
   - persone
   - business
 description: "Osservando una rotonda intasata ho ripensato alla filosofia Win-Win: nei rapporti duraturi, di cliente o fornitore, non c'è altra strada percorribile."
+related:
+  - "Cioccolatini e Classi Sociali"
 ---
 ![[roundabout.jpeg]]
 

@@ -9,6 +9,9 @@ tags:
   - bias
   - persone
 description: "Uno studio su 2883 pedoni dimostra che siamo molto più propensi a seguire chi infrange le regole vestito bene: l'abito, purtroppo, il monaco lo fa eccome."
+related:
+  - "Gli stereotipi!"
+  - "Cioccolatini e Classi Sociali"
 ---
 ![[giaccaecravatta.jpg]]
 

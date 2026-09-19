@@ -8,6 +8,8 @@ image: "[[adele.jpg]]"
 tags:
   - personale
 description: "Mi sono innamorato di una voce da brividi: a volte basta una canzone per ricordarti cosa ti fa vibrare davvero."
+related:
+  - "Quitting"
 ---
 ![[adele.jpg]]
 

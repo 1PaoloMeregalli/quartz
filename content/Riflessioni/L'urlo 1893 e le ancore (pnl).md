@@ -9,6 +9,9 @@ tags:
   - bias
   - persone
 description: "Ho chiuso le chiavi nel box e mi si è materializzato in testa 'L'Urlo' di Munch: un ricordo casuale su quanto la nostra mente crei ancore involontarie."
+related:
+  - "PNL, Practitioner e Master Practitioner"
+  - "Il potere del pensiero e della Mente"
 ---
 ![[1893_Edvard_Munch_The_Scream-WR400.jpg]]
 

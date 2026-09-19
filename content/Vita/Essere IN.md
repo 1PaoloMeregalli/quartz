@@ -9,6 +9,9 @@ tags:
   - personale
   - benessere
 description: "Non servono parole per spiegare cosa significhi essere 'centrati', essere nel flusso: solo un video che mi sono guardato un sacco di volte."
+related:
+  - "Pensiero ed atteggiamento positivo"
+  - "Il Velo di MaIA"
 ---
 ![[meditazione.jpg]]
 

@@ -9,6 +9,9 @@ tags:
   - lavoro
   - sistemi
 description: "Convinto che le immagini valgano più di mille parole: DPI, dispositivi di protezione individuale, il casco. Usa la testa."
+related:
+  - "DPI – Trova l'errore"
+  - 'Sicurezza da "Polli"'
 ---
 ![[casco.jpg]]
 

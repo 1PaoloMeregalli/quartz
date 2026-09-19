@@ -9,6 +9,9 @@ tags:
   - business
   - lavoro
 description: "Una macchina certificata CE non basta a scagionare il datore di lavoro, se il rischio era comunque prevedibile: la Cassazione lo ribadisce senza troppi giri di parole."
+related:
+  - "Grazie Ministro Gentiloni, RFID."
+  - "La Direttiva Macchine"
 ---
 ![[ce.jpeg]]
 
