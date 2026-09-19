@@ -1,6 +1,6 @@
 ---
 id:
-title: Why I won&#8217;t connect with you (in LINKEDIN)
+title: Why I won't connect with you (in LINKEDIN)
 date: 2013-05-17T10:20:06+02:00
 author: Paolo Meregalli
 layout:
