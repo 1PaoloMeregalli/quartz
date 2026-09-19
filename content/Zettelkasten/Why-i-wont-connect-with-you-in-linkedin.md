@@ -1,23 +1,14 @@
 ---
-id:
+categories:
+  - Zettelkasten
 title: Why I won't connect with you (in LINKEDIN)
-date: 2013-05-17T10:20:06+02:00
 author: Paolo Meregalli
-layout:
-guid:
-permalink:
-post_image:
-hide_post_title:
-unlink_post_title:
-hide_post_meta:
-hide_post_date:
-hide_post_image:
-unlink_post_image:
-dsq_thread_id:
-socialize_text:
-socialize:
-dsq_needs_sync:
+tags:
+  - persone
+  - business
+created: 2013-05-17T10:20:06+02:00
 image: "[[LinkedIn.jpg]]"
+description: "Nel 2013 rifiutavo già gli inviti su LinkedIn di chi non conoscevo: qui spiego perché, con buona pace di chi si offende — le connessioni contano solo se sono vere."
 ---
 
 # Today I have 16 people that want to connect with me in LinkedIN ...
