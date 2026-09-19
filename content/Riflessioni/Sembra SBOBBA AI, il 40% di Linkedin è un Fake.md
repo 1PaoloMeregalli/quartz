@@ -1,8 +1,7 @@
 ---
 categories:
   - Riflessioni
-post_image:
-  - "[[sembra sbobba ai.png]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/sembra-sbobba-ai.png"
 tags:
   - digitale
   - persone
@@ -17,7 +16,7 @@ related:
 
 Nel 2013 scrivevo un post in cui motivavo le ragioni per le quali non avrei accettato 16 richieste di contatto da linkedin [[Why-i-wont-connect-with-you-in-linkedin]]
 
-Avevo già fiutato la successiva trasformazione di LinkedIn.
+Avevo già fiutato la prossima trasformazione di LinkedIn.
 
 Se nel 2013 il problema sembrava essere il volume delle richieste, di sicuro amplificato da un periodo di chiusura per il Covid-19 in cui l'unico modo per incontrare o conoscere nuove realtà erano i social, il problema di oggi è diventato più subdolo: capire quanto artificiale possa essere ogni comunicazione.
 
