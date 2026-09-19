@@ -9,6 +9,8 @@ tags:
   - digitale
   - persone
 description: "Una raccolta di statistiche del 2012 sui rischi online per i minori, lette per ragioni personali — restano un buon promemoria di quanto poco i genitori sappiano davvero."
+related:
+  - "Inganno e Tecnologia"
 ---
 ![[internet_predators_sized.sized_.jpeg]]
 

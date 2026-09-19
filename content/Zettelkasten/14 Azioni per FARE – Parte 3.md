@@ -9,6 +9,9 @@ tags:
   - personale
   - business
 description: "L'ultima parte dei 14 suggerimenti ispirati a Benjamin Franklin: continuare a crescere, conoscere se stessi, non auto-sabotarsi e non arrendersi mai."
+related:
+  - "14 azioni per FARE – parte 1"
+  - "14 azioni per FARE – parte 2"
 ---
 ![[the-starting-line.jpg]]
 

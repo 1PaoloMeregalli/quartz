@@ -9,6 +9,10 @@ tags:
   - sistemi
   - lavoro
 description: "Una sentenza di Cassazione su un infortunio grave in un magazzino automatico: quando la procedura di sicurezza diventa un'abitudine sbagliata, a pagare è la persona."
+related:
+  - "RSPP e Direttore Tecnico."
+  - "Abnormità, Inopinabilità e Responsabilità Penali"
+  - "Frenaaaaa !!!"
 ---
 ![[bobina.jpg]]
 

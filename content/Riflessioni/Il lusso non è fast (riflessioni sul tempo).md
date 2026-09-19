@@ -7,6 +7,8 @@ description: Riflessione sullo yoga
 tags:
   - business
   - sostenibilita
+related:
+  - "Il Rumore, la Fretta, il Silenzio."
 ---
 ![[Il mio pane.jpg]]
 

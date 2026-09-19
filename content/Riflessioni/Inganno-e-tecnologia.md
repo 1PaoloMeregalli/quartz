@@ -7,6 +7,9 @@ author: Paolo Meregalli
 tags:
   - digitale
 description: "Un mago promette di ingannarti, e lo fa: un pensiero del 2012 su arte, magia e inganno come chiavi per capire cosa ci lega ancora alla tecnologia."
+related:
+  - "Kids and Privacy"
+  - "Era il 25 maggio 2007"
 ---
 ## Anche a me la magia piace,
 

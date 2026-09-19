@@ -9,6 +9,8 @@ tags:
   - personale
   - lavoro
 description: "Ho pubblicato la mappa mentale del mio curriculum: le mappe mentali sono un segreto che porto avanti da anni, anche per parlare in pubblico."
+related:
+  - "L'Autodidatta"
 ---
 ![[Paolo-Meregalli.jpg]]
 

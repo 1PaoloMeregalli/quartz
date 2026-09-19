@@ -9,6 +9,9 @@ tags:
   - lavoro
   - sistemi
 description: "Una sentenza di Cassazione ricorda che chi ricopre insieme il ruolo di RSPP e direttore tecnico non può scaricare le responsabilità: doveva organizzare il lavoro in modo da evitare l'incidente."
+related:
+  - "L'avvocato e il Consulente Tecnico di Parte si vedono più spesso!"
+  - "Un NonVedente al Volante (?!)"
 ---
 ![[cassazione.jpg]]
 

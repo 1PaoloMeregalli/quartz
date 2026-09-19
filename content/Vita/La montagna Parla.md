@@ -8,6 +8,8 @@ image: "[[montagna.jpg]]"
 tags:
   - personale
 description: "Il decalogo non scritto della montagna: rispetto, umiltà, e il ricordo che prima di te c'era già lei, e ci sarà dopo."
+related:
+  - "Il sole sorgere"
 ---
 ![[montagna.jpg]]
 

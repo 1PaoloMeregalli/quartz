@@ -9,6 +9,8 @@ tags:
   - digitale
   - persone
 description: "Dai sei gradi di separazione di Karinthy a Facebook che nel 2011 li riduceva a 4,74: il mondo, con i social, è diventato davvero piccolissimo."
+related:
+  - "Quante altre cose ci stiamo perdendo?"
 ---
 ![[200px-Six_degrees_of_separation.svg_.png]]
 

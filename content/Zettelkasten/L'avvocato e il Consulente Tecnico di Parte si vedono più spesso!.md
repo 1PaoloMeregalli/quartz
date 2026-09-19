@@ -9,6 +9,9 @@ tags:
   - lavoro
   - business
 description: "Il Consulente Tecnico di Parte e l'avvocato devono lavorare fianco a fianco fin dall'inizio, non solo quando ormai molte pagine sono già scritte."
+related:
+  - "RSPP e Direttore Tecnico."
+  - "Abnormità, Inopinabilità e Responsabilità Penali"
 ---
 ![[strillone.jpg]]
 

@@ -8,6 +8,8 @@ tags:
   - bias
   - lavoro
 description: "Uno studio su 56 selezionatori mostra quanto l'accento regionale possa decidere un colloquio di lavoro, prima ancora delle competenze."
+related:
+  - "Non regalare perle ai porci"
 ---
 # Quando l'accento ti può fregare
 

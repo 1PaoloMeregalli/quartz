@@ -8,6 +8,9 @@ image: "[[15Maggio1.jpg]]"
 tags:
   - persone
 description: "Tre amici che hanno mollato tutto per attraversare il mondo alla ricerca della loro onda, e una foto al giorno per raccontarlo: il coraggio di trasformare un sogno in realtà."
+related:
+  - "What do you wanna be when you grow up ?"
+  - "You'll die alone!"
 ---
 Allora mettiamola così: **Primo**: io sono loro amico! **Secondo**: la [255 hec srl](http://www.255.it/) ha creduto in "loro" ed ha deciso di seguirli ... **Loro** ... [Alcide Pece](https://www.facebook.com/alcide.pece?fref=ts), [Fabio Cerroni](https://www.facebook.com/fabio.cerroni.94?fref=ts) e [Arturo](http://www.wildmobil.com/arturo/) sono tre ragazzi che hanno deciso di fare una cosa nella loro vita che in pochi hanno il coraggio di fare:
 

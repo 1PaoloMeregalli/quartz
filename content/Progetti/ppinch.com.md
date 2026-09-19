@@ -8,6 +8,8 @@ tags:
   - digitale
 description: "Fotografia e post-produzione e-commerce ad alti volumi: come trasformo il caos creativo in una pipeline industriale, con l'AI usata solo dove serve davvero."
 created: 2026-04-05T17:09:29+02:00
+related:
+  - "Fuck AI"
 ---
 # ppinch.com: L'ingegneria dietro l'immagine
 

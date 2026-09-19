@@ -12,6 +12,7 @@ description: "Nel 2013 rifiutavo già gli inviti su LinkedIn di chi non conoscev
 related:
   - "Il Traduttore Linkedin"
   - "Linkedin (o quello che ne resta)"
+  - "Sembra SBOBBA AI, il 40% di Linkedin è un Fake"
 ---
 
 ## Today I have 16 people that want to connect with me in LinkedIN ...

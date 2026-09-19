@@ -5,6 +5,8 @@ description: "C'è una luce immensa nel riconoscere il valore altrui. Celebrare 
 tags:
   - persone
 created: 2026-02-16
+related:
+  - "Non regalare perle ai porci"
 ---
 ## C'è una luce immensa nel riconoscere il valore altrui. Celebrare l'altro senza temere per la propria ombra: ecco la vera lezione.
 

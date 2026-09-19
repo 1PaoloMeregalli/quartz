@@ -9,6 +9,9 @@ tags:
   - personale
   - business
 description: "La seconda parte dei 14 suggerimenti ispirati a Benjamin Franklin: muoversi, evitare le cose inutili, permettersi di sbagliare e cogliere le opportunità subito."
+related:
+  - "14 azioni per FARE – parte 1"
+  - "14 Azioni per FARE – Parte 3"
 ---
 ![[obmrellone.jpg]]
 

@@ -8,6 +8,8 @@ image: "[[takeoff.jpg]]"
 tags:
   - personale
 description: Una citazione di Balasso, una di Henry Ford, e il promemoria che l'aereo decolla contro vento, non con il vento in coda.
+related:
+  - "L'Autodidatta"
 ---
 ## "Mi piaceresse fare il scrittore se solo so come è che si fa ... lo facerei"
 

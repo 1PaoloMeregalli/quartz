@@ -7,6 +7,9 @@ author: Paolo Meregalli
 tags:
   - business
 description: "Una lezione di marketing (e di vita) arrivata dalla vendita di preservativi in Congo: capire davvero chi è il cliente, prima di scegliere il messaggio."
+related:
+  - "Art. 1362 – Codice civile: Interpretazione del Contratto ... vedo, prevedo, stravedo!"
+  - "8 marzo 2013"
 ---
 # La lezione che non ti aspetti
 

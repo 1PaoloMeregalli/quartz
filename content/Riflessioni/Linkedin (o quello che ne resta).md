@@ -9,6 +9,7 @@ created: 2026-02-01T15:59:32+01:00
 related:
   - "Why I won't connect with you (in LINKEDIN)"
   - "Il Traduttore Linkedin"
+  - "Sembra SBOBBA AI, il 40% di Linkedin è un Fake"
 ---
 # Linkedin (o quello che ne resta)
 

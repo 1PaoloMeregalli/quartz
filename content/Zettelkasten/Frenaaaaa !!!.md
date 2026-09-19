@@ -9,6 +9,8 @@ tags:
   - automazione
   - sistemi
 description: "Un AGV all'aeroporto di Heathrow: da chi progetta automazione da anni è solo la normale evoluzione di un sistema noto, finché non ci sale sopra di persona."
+related:
+  - "Un NonVedente al Volante (?!)"
 ---
 ![[heathrow.jpeg]]
 

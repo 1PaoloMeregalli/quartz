@@ -9,6 +9,8 @@ tags:
   - persone
   - bias
 description: "La storia vera di Joshua Bell che suona nella metro di Washington e quasi nessuno si ferma ad ascoltarlo: quante cose ci stiamo perdendo perché non abbiamo un attimo per fermarci?"
+related:
+  - "Il mondo è proprio piccolo."
 ---
 ![[joshuabell.jpg]]
 

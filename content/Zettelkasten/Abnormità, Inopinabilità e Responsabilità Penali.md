@@ -9,6 +9,9 @@ tags:
   - business
   - linguaggio
 description: "Il datore di lavoro resta responsabile quasi sempre, a meno che il comportamento del lavoratore non sia 'abnorme' e 'inopinabile': due parole che lasciano pochissimo scampo."
+related:
+  - "L'avvocato e il Consulente Tecnico di Parte si vedono più spesso!"
+  - "Un NonVedente al Volante (?!)"
 ---
 ![[responsabilita.jpg]]
 

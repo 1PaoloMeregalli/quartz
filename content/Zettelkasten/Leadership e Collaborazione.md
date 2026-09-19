@@ -9,6 +9,8 @@ tags:
   - lavoro
   - sistemi
 description: "Il Parco Olimpico di Londra 2012, 36.000 dipendenti e nessun incidente mortale: la leadership e la comunicazione chiara fanno davvero la differenza sulla sicurezza."
+related:
+  - "Storia della preparazione di un corso: Direttiva Macchine"
 ---
 ![[Locandina-Tavola-rotonda-2012.png]]
 

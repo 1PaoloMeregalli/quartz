@@ -9,6 +9,9 @@ tags:
   - personale
   - lavoro
 description: "Andy Mckee ha iniziato a 13 anni e a 16 si è messo in proprio con una cassetta di videolezioni: la storia di un autodidatta che mi ipnotizza ancora oggi."
+related:
+  - "Mappa Mentale e CV"
+  - "Mi piaceresse fare il scrittore ..."
 ---
 ![[andymckee-e1320083123936.jpg]]
 

@@ -9,6 +9,9 @@ tags:
   - personale
   - business
 description: "Quattro suggerimenti ispirati a Benjamin Franklin per passare dal parlare al fare: agire, non procrastinare, prepararsi e non resistere al cambiamento."
+related:
+  - "14 azioni per FARE – parte 2"
+  - "14 Azioni per FARE – Parte 3"
 ---
 ![[motore.jpg]]
 

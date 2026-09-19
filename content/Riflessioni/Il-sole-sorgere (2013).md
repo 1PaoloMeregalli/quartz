@@ -8,6 +8,9 @@ author: Paolo Meregalli
 tags:
   - personale
 description: "Un Natale in cui il tempo si ferma per ritrovare l'equilibrio perso: dita sul pianoforte, lo Spirito Guida, e la promessa di tornare a guardare solo il sole sorgere."
+related:
+  - "La montagna Parla"
+  - "Maledetti Idraulici (civili)"
 ---
 ## Il sole sorgere
 

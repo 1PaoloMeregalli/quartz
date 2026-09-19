@@ -11,6 +11,7 @@ created: 2026-06-14T19:48:39+02:00
 related:
   - "Human in the loop"
   - "Il Velo di MaIA"
+  - "Hello World e l'entropia Linguistica"
 ---
 Pochi giorni fa un [Ronny Chieng](https://it.wikipedia.org/wiki/Ronny_Chieng) davanti ai neolaureati di Harvard ha lanciato un anatema e ha fomentato gli ascoltatori indicando come loro missione la distruzione della AI
 

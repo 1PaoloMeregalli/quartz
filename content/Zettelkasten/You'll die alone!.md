@@ -8,6 +8,8 @@ image: "[[passione2.jpg]]"
 tags:
   - personale
 description: "Un TED Talk di Larry Smith su passione e interesse: se ti accontenti di quello che ti interessa invece di quello che ami davvero, morirai solo."
+related:
+  - "Trasforma il tuo Sogno in Realtà, ogni giorno."
 ---
 ![[passione2.jpg]]
 

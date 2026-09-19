@@ -8,6 +8,8 @@ tags:
   - lavoro
   - persone
 description: "Un video di un bambino di 10 anni che sa già cosa vuole diventare da grande: felice. Una domanda che vale la pena riproporsi anche da adulti."
+related:
+  - "Trasforma il tuo Sogno in Realtà, ogni giorno."
 ---
 Amazing 11 minutes video for my english speaking friends! Believe me, invest your next 11 minutes listening this 10 years old genius! Touching my heart and my brain! 
 ## I wanna be happy!!!

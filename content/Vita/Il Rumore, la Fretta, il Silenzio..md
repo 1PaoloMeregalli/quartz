@@ -11,6 +11,7 @@ tags:
 description: "Una camminata sotto la pioggia, una chiesetta di Alpini e il Desiderata trovato su un quadretto: passa tranquillamente tra il rumore e la fretta."
 related:
   - "Pensiero ed atteggiamento positivo"
+  - "Il lusso non è fast (riflessioni sul tempo)"
 ---
 ![[8681955543_d478c59a02.jpg]]
 

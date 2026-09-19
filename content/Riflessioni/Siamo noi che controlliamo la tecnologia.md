@@ -9,6 +9,8 @@ tags:
   - processi
   - digitale
 description: "Cinque trucchi pratici per non lasciarsi mangiare la giornata da notifiche e interruzioni: la differenza la facciamo noi, non gli strumenti."
+related:
+  - '1833 - Quando la giornata "normale" era di 15 ore'
 ---
 ![[tecnologia.jpg]]
 

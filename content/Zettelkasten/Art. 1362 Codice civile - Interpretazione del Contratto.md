@@ -9,6 +9,8 @@ tags:
   - business
   - linguaggio
 description: "Il Codice Civile chiede ai giudici doti quasi divinatorie nell'interpretare un contratto: una riflessione sul tempo, le parole scritte e le intenzioni non scritte."
+related:
+  - "Una Lezione dal Preservativo (Condom)"
 ---
 Oggi mi parte una riflessione sul **trascorrere del tempo**, sul presente, il passato, il futuro :-) e sulle **arti divinatorie** che è chiesto ad un Giudice di avere ... da un articolo particolare del Codice Civile.
 

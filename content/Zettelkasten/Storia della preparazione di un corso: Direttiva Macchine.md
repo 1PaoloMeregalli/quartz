@@ -9,6 +9,8 @@ tags:
   - lavoro
   - business
 description: "Dietro 8 ore di corso sulla Direttiva Macchine ci sono settimane di brainstorming, bozze e Twitter: il dietro le quinte di come è nato un corso con Filippo Scopazzo."
+related:
+  - "Leadership e Collaborazione"
 ---
 ![[ce.jpg]]
 
