@@ -31,7 +31,7 @@ In quell'evento organizzato per una raccolta fondi, "alla cucina" (un po' come q
 
 ## Un Uomo e un grande professionista, con un'umanità immensa.
 
-![[fondazione-rosa-dei-venti-giancarlo-morelli-206551.jpg|275]]
+![[fondazione-rosa-dei-venti-giancarlo-morelli-206551.jpg|444]]
 
 Per raccogliere fondi destinati ai progetti terapeutici, [Morelli](https://www.pomiroeu.com/chef-giancarlo-morelli-bio/) ha ideato un menù che sapeva di primavera e di rinascita.
 Nessun virtuosismo sterile: una materia prima trattata e selezionata con rispetto religioso.
@@ -42,7 +42,7 @@ Nessun virtuosismo sterile: una materia prima trattata e selezionata con rispett
 
 ## Se sto scrivendo oggi, 10 ottobre 2026, di quella cena del 2023, significa che mi colpì, enormemente.
 
-È lì che ho conosciuto e incontrato una tecnica e una cottura che non avevo mai sentito. Il piatto presentato era:
+È lì che ho conosciuto e incontrato una tecnica e una cottura che non avevo mai sentito, un piatto incredibile nella sua assurda semplicità (ma se proverete a cucinarlo vi accorgerete di quanto raggiungere quella semplicità non sia affatto facile):
 
 ### La trota mi-cuit
 
