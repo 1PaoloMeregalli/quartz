@@ -42,7 +42,7 @@ Nessun virtuosismo sterile: una materia prima trattata e selezionata con rispett
 
 ## Se sto scrivendo oggi, 10 ottobre 2026, di quella cena del 2023, significa che mi colpì, enormemente.
 
-È lì che ho conosciuto e incontrato una tecnica e una cottura che non avevo mai sentito, un piatto incredibile nella sua assurda semplicità (ma se proverete a cucinarlo vi accorgerete di quanto raggiungere quella semplicità non sia affatto facile):
+È lì che ho conosciuto e incontrato una tecnica e una cottura che non avevo mai sentito, un piatto incredibile nella sua assurda semplicità (ma se proverete a cucinarlo vi accorgerete di quanto raggiungere quella semplicità non sia affatto facile: 
 
 ### La trota mi-cuit
 
