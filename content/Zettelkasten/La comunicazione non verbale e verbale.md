@@ -4,7 +4,7 @@ categories:
 title: La comunicazione non verbale e verbale
 created: 2012-01-15T08:32:23+01:00
 author: Paolo Meregalli
-image: "[[bisio.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/bisio.jpg"
 tags:
   - linguaggio
   - persone

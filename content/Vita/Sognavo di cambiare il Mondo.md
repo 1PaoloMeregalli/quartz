@@ -4,7 +4,7 @@ categories:
 title: Sognavo di cambiare il Mondo
 created: 2012-03-14T06:44:17+01:00
 author: Paolo Meregalli
-image: "[[westminster.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/westminster.jpg"
 tags:
   - personale
 description: "L'epitaffio di un vescovo dell'Abbazia di Westminster: se solo avessi cambiato prima me stesso, forse avrei potuto cambiare il mondo."

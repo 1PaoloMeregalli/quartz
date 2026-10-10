@@ -4,7 +4,7 @@ categories:
 title: Cioccolatini e Classi Sociali
 created: 2012-04-07T09:15:54+02:00
 author: Paolo Meregalli
-image: "[[cioccolatini.jpeg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/cioccolatini.jpeg"
 tags:
   - bias
   - business

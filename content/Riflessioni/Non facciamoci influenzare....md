@@ -4,7 +4,7 @@ categories:
 title: Non facciamoci influenzare ...
 created: 2012-04-20T07:21:26+02:00
 author: Paolo Meregalli
-image: "[[roundabout.jpeg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/roundabout.jpeg"
 tags:
   - persone
   - business

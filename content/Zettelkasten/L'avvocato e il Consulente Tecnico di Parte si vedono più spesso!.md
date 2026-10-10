@@ -4,7 +4,7 @@ categories:
 title: L'avvocato e il Consulente Tecnico di Parte si vedono più spesso!
 created: 2011-07-24T07:44:14+02:00
 author: Paolo Meregalli
-image: "[[strillone.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/strillone.jpg"
 tags:
   - lavoro
   - business

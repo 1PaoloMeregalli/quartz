@@ -4,7 +4,7 @@ categories:
 title: Quante altre cose ci stiamo perdendo?
 created: 2011-11-29T22:45:13+01:00
 author: Paolo Meregalli
-image: "[[joshuabell.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/joshuabell.jpg"
 tags:
   - persone
   - bias

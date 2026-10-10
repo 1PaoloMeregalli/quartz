@@ -4,7 +4,7 @@ categories:
 title: Mappa Mentale e CV
 created: 2011-10-30T12:55:56+01:00
 author: Paolo Meregalli
-image: "[[Paolo-Meregalli.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/Paolo-Meregalli.jpg"
 tags:
   - personale
   - lavoro

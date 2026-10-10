@@ -4,7 +4,7 @@ categories:
 title: 14 azioni per FARE – parte 2
 created: 2012-09-22T10:48:26+02:00
 author: Paolo Meregalli
-image: "[[obmrellone.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/obmrellone.jpg"
 tags:
   - personale
   - business

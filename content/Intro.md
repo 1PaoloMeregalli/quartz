@@ -1,6 +1,5 @@
 ---
-post_image:
-  - "[[PaoloMeregalli.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/PaoloMeregalli.jpg"
 ---
 # Intro al Digital Garden
 

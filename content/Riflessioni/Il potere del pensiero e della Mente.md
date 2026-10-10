@@ -4,7 +4,7 @@ categories:
 title: Il potere del pensiero e della Mente
 created: 2013-01-26T11:01:55+01:00
 author: Paolo Meregalli
-image: "[[bevuto-troppo.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/bevuto-troppo.jpg"
 tags:
   - personale
   - bias

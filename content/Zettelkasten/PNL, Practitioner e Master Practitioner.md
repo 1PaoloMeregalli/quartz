@@ -4,7 +4,7 @@ categories:
 title: PNL, Practitioner e Master Practitioner
 created: 2012-01-01T11:59:58+01:00
 author: Paolo Meregalli
-image: "[[the-society-of-nlp.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/the-society-of-nlp.jpg"
 tags:
   - business
   - persone

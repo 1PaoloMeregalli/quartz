@@ -4,7 +4,7 @@ categories:
 title: Cosa ci può insegnare un bimbo di 9 anni sulla vendita?
 created: 2012-06-07T07:11:33+02:00
 author: Paolo Meregalli
-image: "[[bambino.jpeg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/bambino.jpeg"
 tags:
   - business
   - linguaggio

@@ -4,7 +4,7 @@ categories:
 title: THAT'S IT I QUIT I'M MOVIN'
 created: 2011-12-04T17:13:07+01:00
 author: Paolo Meregalli
-image: "[[adele.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/adele.jpg"
 tags:
   - personale
 description: "Mi sono innamorato di una voce da brividi: a volte basta una canzone per ricordarti cosa ti fa vibrare davvero."

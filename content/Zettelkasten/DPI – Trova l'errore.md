@@ -4,7 +4,7 @@ categories:
 title: DPI – Trova l'errore
 created: 2011-12-01T11:30:08+01:00
 author: Paolo Meregalli
-image: "[[assorbitore-di-energia.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/assorbitore-di-energia.jpg"
 tags:
   - sistemi
   - lavoro

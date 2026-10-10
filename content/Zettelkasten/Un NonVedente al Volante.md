@@ -4,7 +4,7 @@ categories:
 title: Un NonVedente al Volante (?!)
 created: 2011-09-24T16:53:17+02:00
 author: Paolo Meregalli
-image: "[[bobina.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/bobina.jpg"
 tags:
   - sistemi
   - lavoro

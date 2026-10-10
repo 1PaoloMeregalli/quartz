@@ -7,7 +7,7 @@ tags:
   - persone
   - business
 created: 2013-05-17T10:20:06+02:00
-image: "[[LinkedIn.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/LinkedIn.jpg"
 description: "Nel 2013 rifiutavo già gli inviti su LinkedIn di chi non conoscevo: qui spiego perché, con buona pace di chi si offende — le connessioni contano solo se sono vere."
 related:
   - "Il Traduttore Linkedin"

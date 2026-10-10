@@ -4,7 +4,7 @@ categories:
 title: L'urlo 1893 e le ancore (pnl)
 created: 2012-10-13T19:47:13+02:00
 author: Paolo Meregalli
-image: "[[1893_Edvard_Munch_The_Scream-WR400.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/1893_Edvard_Munch_The_Scream-WR400.jpg"
 tags:
   - bias
   - persone

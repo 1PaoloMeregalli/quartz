@@ -4,7 +4,7 @@ categories:
 title: How Big Is Infinity?
 created: 2012-11-24T10:40:03+01:00
 author: Paolo Meregalli
-image: "[[data-nerd.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/data-nerd.jpg"
 description: "Un video TED-Ed sull'infinito, e la confessione di un ingegnere che ci si è riconosciuto."
 ---
 # Yes ... IT IS !

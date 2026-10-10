@@ -4,7 +4,7 @@ categories:
 title: RSPP e Direttore Tecnico.
 created: 2011-08-10T22:38:19+02:00
 author: Paolo Meregalli
-image: "[[cassazione.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/cassazione.jpg"
 tags:
   - lavoro
   - sistemi

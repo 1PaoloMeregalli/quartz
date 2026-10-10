@@ -4,7 +4,7 @@ categories:
 title: Pensiero ed atteggiamento positivo
 created: 2011-12-12T22:48:10+01:00
 author: Paolo Meregalli
-image: "[[parè.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/parè.jpg"
 tags:
   - personale
   - benessere

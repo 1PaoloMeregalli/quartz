@@ -4,7 +4,7 @@ categories:
 title: Un bimbo, un viaggio.
 created: 2014-11-08T08:43:11+01:00
 author: Paolo Meregalli
-image: "[[kid.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/kid.jpg"
 tags:
   - personale
 description: "Un aeroporto, una piccola creatura da stringere, e la vita che si prende ancora gioco di noi: un frammento su cosa significhi partire."

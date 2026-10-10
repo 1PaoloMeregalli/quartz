@@ -4,7 +4,7 @@ categories:
 title: You'll die alone!
 created: 2012-05-22T08:00:33+02:00
 author: Paolo Meregalli
-image: "[[passione2.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/passione2.jpg"
 tags:
   - personale
 description: "Un TED Talk di Larry Smith su passione e interesse: se ti accontenti di quello che ti interessa invece di quello che ami davvero, morirai solo."

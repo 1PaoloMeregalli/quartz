@@ -4,7 +4,7 @@ categories:
 title: 14 Azioni per FARE – Parte 3
 created: 2012-09-29T15:44:15+02:00
 author: Paolo Meregalli
-image: "[[the-starting-line.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/the-starting-line.jpg"
 tags:
   - personale
   - business

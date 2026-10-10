@@ -4,7 +4,7 @@ categories:
 title: L'abito non fa il monaco, forse!
 created: 2012-06-30T16:17:54+02:00
 author: Paolo Meregalli
-image: "[[giaccaecravatta.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/giaccaecravatta.jpg"
 tags:
   - bias
   - persone

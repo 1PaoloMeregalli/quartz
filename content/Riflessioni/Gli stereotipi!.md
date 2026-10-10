@@ -4,7 +4,7 @@ categories:
 title: Gli stereotipi!
 created: 2011-10-09T18:33:17+02:00
 author: Paolo Meregalli
-image: "[[stereotipi.jpeg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/stereotipi.jpeg"
 tags:
   - bias
   - persone

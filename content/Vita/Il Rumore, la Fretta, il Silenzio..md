@@ -4,7 +4,7 @@ categories:
 title: Il Rumore, la Fretta, il Silenzio.
 created: 2013-04-27T10:27:26+02:00
 author: Paolo Meregalli
-image: "[[8681955543_d478c59a02.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/8681955543_d478c59a02.jpg"
 tags:
   - personale
   - benessere

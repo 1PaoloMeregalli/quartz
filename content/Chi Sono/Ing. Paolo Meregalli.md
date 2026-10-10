@@ -1,8 +1,7 @@
 ---
 title: Ing. Paolo Meregalli
 description: Boosting Productivity with Technology | Ottimizzazione e robotica per Fashion, Food & Manufacturing. Founder 255.it & ppinch.com | Il mio Digital Garden
-post_image:
-  - "[[PaoloMeregalli.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/PaoloMeregalli.jpg"
 ---
 # Progetto sistemi, collego mondi, coltivo semi e, quando ci riesco, senso.
 

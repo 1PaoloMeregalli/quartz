@@ -4,7 +4,7 @@ categories:
 title: Kids and Privacy
 created: 2012-11-28T06:05:34+01:00
 author: Paolo Meregalli
-image: "[[internet_predators_sized.sized_.jpeg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/internet_predators_sized.sized_.jpeg"
 tags:
   - digitale
   - persone

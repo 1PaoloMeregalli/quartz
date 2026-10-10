@@ -4,7 +4,7 @@ categories:
 title: Frenaaaaa !!!
 created: 2011-09-25T17:16:39+02:00
 author: Paolo Meregalli
-image: "[[heathrow.jpeg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/heathrow.jpeg"
 tags:
   - automazione
   - sistemi

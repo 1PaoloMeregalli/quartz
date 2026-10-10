@@ -4,7 +4,7 @@ categories:
 title: App Boing e Bambini
 created: 2012-06-03T14:42:26+02:00
 author: Paolo Meregalli
-image: "[[Boing.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/Boing.jpg"
 tags:
   - bias
   - business

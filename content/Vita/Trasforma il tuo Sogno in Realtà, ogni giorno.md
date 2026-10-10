@@ -4,7 +4,7 @@ categories:
 title: Trasforma il tuo Sogno in Realtà, ogni giorno.
 created: 2013-05-25T09:17:05+02:00
 author: Paolo Meregalli
-image: "[[15Maggio1.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/15Maggio1.jpg"
 tags:
   - persone
 description: "Tre amici che hanno mollato tutto per attraversare il mondo alla ricerca della loro onda, e una foto al giorno per raccontarlo: il coraggio di trasformare un sogno in realtà."

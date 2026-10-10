@@ -4,7 +4,7 @@ categories:
 title: Mi piaceresse fare il scrittore ...
 created: 2012-10-20T08:08:47+02:00
 author: Paolo Meregalli
-image: "[[takeoff.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/takeoff.jpg"
 tags:
   - personale
 description: Una citazione di Balasso, una di Henry Ford, e il promemoria che l'aereo decolla contro vento, non con il vento in coda.

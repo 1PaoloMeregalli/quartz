@@ -4,7 +4,7 @@ categories:
 title: L'Autodidatta
 created: 2011-10-31T19:48:18+01:00
 author: Paolo Meregalli
-image: "[[andymckee-e1320083123936.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/andymckee-e1320083123936.jpg"
 tags:
   - personale
   - lavoro

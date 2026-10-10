@@ -4,7 +4,7 @@ categories:
 title: 14 azioni per FARE – parte 1
 created: 2012-07-04T11:42:47+02:00
 author: Paolo Meregalli
-image: "[[motore.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/motore.jpg"
 tags:
   - personale
   - business

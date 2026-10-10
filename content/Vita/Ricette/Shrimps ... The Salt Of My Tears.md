@@ -4,7 +4,7 @@ categories:
 title: Shrimps ... The Salt Of My Tears !
 created: 2013-04-14T14:48:17+02:00
 author: Paolo Meregalli
-image: "[[gamberetti.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/gamberetti.jpg"
 description: "Gamberetti alla griglia, appena scaldati, con una marinatura di pepe, curry e peperoncino pestati a mano — e la musica giusta in sottofondo."
 ---
 Avevo voglia di qualche cosa di "particolare" ... così mi sono lanciato :-)

@@ -4,7 +4,7 @@ categories:
 title: Leadership e Collaborazione
 created: 2012-10-25T18:21:10+02:00
 author: Paolo Meregalli
-image: "[[Locandina-Tavola-rotonda-2012.png]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/Locandina-Tavola-rotonda-2012.png"
 tags:
   - lavoro
   - sistemi

@@ -4,7 +4,7 @@ categories:
 title: "Storia della preparazione di un corso: Direttiva Macchine"
 created: 2013-03-10T18:57:23+01:00
 author: Paolo Meregalli
-image: "[[ce.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/ce.jpg"
 tags:
   - lavoro
   - business

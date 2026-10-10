@@ -4,7 +4,7 @@ categories:
 title: "Shenzhen: “Dopotutto a cosa serve un lavoro?”"
 created: 2013-06-02T18:29:12+02:00
 author: Paolo Meregalli
-image: "[[Screen-Shot-2013-06-02-at-18.20.38.png]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/Screen-Shot-2013-06-02-at-18.20.38.png"
 tags:
   - lavoro
   - persone

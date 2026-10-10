@@ -4,7 +4,7 @@ categories:
 title: Trancio di Salmone allo Zenzero, Grigliato
 created: 2013-01-02T11:15:22+01:00
 author: Paolo Meregalli
-image: "[[salmonezenzero.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/salmonezenzero.jpg"
 description: "Il trucco per non ritrovarsi il salmone alla griglia asciuttissimo: marinatura, griglia caldissima, 3 minuti per lato e via."
 ---
 Ho deciso che non posso più tenere tutti questi segreti solo per me ... devo diffondere ...

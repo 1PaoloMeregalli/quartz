@@ -4,7 +4,7 @@ categories:
 title: La Direttiva Macchine
 created: 2013-02-20T09:17:34+01:00
 author: Paolo Meregalli
-image: "[[safety.jpeg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/safety.jpeg"
 tags:
   - lavoro
   - sistemi

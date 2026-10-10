@@ -4,7 +4,7 @@ categories:
 title: Il mondo è proprio piccolo.
 created: 2011-11-25T11:27:42+01:00
 author: Paolo Meregalli
-image: "[[jenniferlopez.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/jenniferlopez.jpg"
 tags:
   - digitale
   - persone

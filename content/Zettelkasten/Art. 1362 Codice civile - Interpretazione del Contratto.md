@@ -4,7 +4,7 @@ categories:
 title: "Art. 1362 – Codice civile: Interpretazione del Contratto ... vedo, prevedo, stravedo!"
 created: 2013-05-18T07:31:11+02:00
 author: Paolo Meregalli
-image: "[[mago.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/mago.jpg"
 tags:
   - business
   - linguaggio

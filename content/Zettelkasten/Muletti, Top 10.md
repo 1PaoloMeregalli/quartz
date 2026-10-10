@@ -4,7 +4,7 @@ categories:
 title: Muletti, Top 10
 created: 2011-12-08T17:03:48+01:00
 author: Paolo Meregalli
-image: "[[prontosoccorso.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/prontosoccorso.jpg"
 tags:
   - sistemi
   - lavoro

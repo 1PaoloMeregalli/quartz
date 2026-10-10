@@ -4,7 +4,7 @@ categories:
 title: DPI-Il casco
 created: 2012-08-31T16:10:13+02:00
 author: Paolo Meregalli
-image: "[[casco.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/casco.jpg"
 tags:
   - lavoro
   - sistemi

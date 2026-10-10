@@ -4,7 +4,7 @@ categories:
 title: Abnormità, Inopinabilità e Responsabilità Penali
 created: 2011-10-22T06:59:13+02:00
 author: Paolo Meregalli
-image: "[[responsabilita.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/responsabilita.jpg"
 tags:
   - business
   - linguaggio

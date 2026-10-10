@@ -4,7 +4,7 @@ categories:
 title: La montagna Parla
 created: 2011-12-08T16:44:48+01:00
 author: Paolo Meregalli
-image: "[[montagna.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/montagna.jpg"
 tags:
   - personale
 description: "Il decalogo non scritto della montagna: rispetto, umiltà, e il ricordo che prima di te c'era già lei, e ci sarà dopo."

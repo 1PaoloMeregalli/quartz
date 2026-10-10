@@ -4,7 +4,7 @@ categories:
 title: Sicurezza da "Polli"
 created: 2012-02-26T19:03:54+01:00
 author: Paolo Meregalli
-image: "[[chips.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/chips.jpg"
 tags:
   - sistemi
   - lavoro

@@ -4,7 +4,7 @@ categories:
 title: Muletti e attività neuronali
 created: 2011-09-10T09:36:50+02:00
 author: Paolo Meregalli
-image: "[[muletto.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/muletto.jpg"
 tags:
   - sistemi
   - lavoro

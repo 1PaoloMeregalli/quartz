@@ -4,7 +4,7 @@ categories:
 title: Fiori (di zucca) per Elisa (Risotto)
 created: 2013-05-04T16:23:23+02:00
 author: Paolo Meregalli
-image: "[[risotto-fiori-di-zucca.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/risotto-fiori-di-zucca.jpg"
 description: "Un risotto ai fiori di zucca nato per caso, con la colonna sonora giusta e il giudizio spietato di mio figlio: \"Vomito di Cammello ... io muoro!\""
 ---
 Oggi mi sono trovato in casa dei fiori di zucca (che adoro) ... e come caspita li cucino? Ho letto un po' in giro e poi è iniziata la fase creativa. Io li voglio fare così:

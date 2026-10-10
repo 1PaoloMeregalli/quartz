@@ -4,7 +4,7 @@ categories:
 title: La comunicazione ...
 created: 2012-05-26T17:43:07+02:00
 author: Paolo Meregalli
-image: "[[comunicazione-non-verbale.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/comunicazione-non-verbale.jpg"
 tags:
   - linguaggio
   - persone

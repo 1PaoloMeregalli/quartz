@@ -4,7 +4,7 @@ categories:
 title: Siamo noi che controlliamo la tecnologia oppure ... 5 piccoli trucchetti.
 created: 2011-08-27T09:53:25+02:00
 author: Paolo Meregalli
-image: "[[tecnologia.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/tecnologia.jpg"
 tags:
   - processi
   - digitale

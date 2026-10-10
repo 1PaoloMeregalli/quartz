@@ -4,7 +4,7 @@ categories:
 title: Grazie Ministro Gentiloni, RFID.
 created: 2011-12-08T18:54:28+01:00
 author: Paolo Meregalli
-image: "[[burocrazia.jpg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/burocrazia.jpg"
 tags:
   - tracciabilita
   - sistemi

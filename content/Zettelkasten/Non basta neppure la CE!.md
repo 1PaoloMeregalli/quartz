@@ -4,7 +4,7 @@ categories:
 title: Non basta neppure la CE!
 created: 2011-11-08T23:58:37+01:00
 author: Paolo Meregalli
-image: "[[ce.jpeg]]"
+image: "https://www.paolomeregalli.it/_Assets/_Immagini/ce.jpeg"
 tags:
   - business
   - lavoro
