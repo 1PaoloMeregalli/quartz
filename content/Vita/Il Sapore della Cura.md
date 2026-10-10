@@ -54,3 +54,5 @@ Uno strumento che può indicare una strada, uno stile, senza utilizzare nessuna 
 Tutto 'sto pippone solo perché oggi, pensando a cosa voglio cucinare, mi cimenterò in una trota mi-cuit.
 
 Voi, mentre mi divertirò ai fornelli, buttate un occhio alla [Fondazione Rosa dei Venti](https://www.rosadeiventi.org/) e cercate e seguite lo [**Chef Morelli**](https://www.instagram.com/giancarlo_morelli/) per capire meglio quello che ho cercato di raccontare.
+
+> [!Info] PS: il caso è davvero incredibile, oggi è il 10 ottobre 2026, ed è la Giornata Mondiale della Salute Mentale: non avrebbe potuto esserci giorno migliore per ricordarmi della Fondazione Rosa dei Venti
